@@ -21,4 +21,5 @@ Most often used commands with in my Symfony 4 and Doctrine 2 projects.
 | Install all the vendor | `composer install`|
 | Update the packages to their last versions (according to composer.json) | `composer update`|
 | Update autoloader (download nothing) | `composer dump-autoload`|
+| Run composer with unlimited memory | ` php -d memory_limit=-1 composer.phar install` |
 
