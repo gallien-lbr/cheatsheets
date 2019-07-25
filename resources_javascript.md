@@ -16,3 +16,5 @@
 ## Learn ES2015 (= ES6)
 - [BabelJS](https://babeljs.io/docs/en/learn)
 
+## Ajax / Async / Callback / Promise 
+- [Ajax](https://medium.com/front-end-weekly/ajax-async-callback-promise-e98f8074ebd7)

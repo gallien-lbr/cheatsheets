@@ -24,3 +24,5 @@ Most often used commands with in my Symfony 4 and Doctrine 2 projects.
 | Run composer with unlimited memory | ` php -d memory_limit=-1 composer.phar install` |
 | | `composer dump-env prod` |
 | Clear templating (twig) cache | `php bin/console cache:clear`|
+| Create website-skeleton |`composer create-project symfony/website-skeleton my_project`|
+| Create skeleton (microservice, console app, api) | `composer create-project symfony/skeleton my_project` |
