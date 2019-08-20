@@ -27,3 +27,4 @@ Most often used commands with in my Symfony 4 and Doctrine 2 projects.
 | Create website-skeleton |`composer create-project symfony/website-skeleton my_project`|
 | Create skeleton (microservice, console app, api) | `composer create-project symfony/skeleton my_project` |
 | See autowiring available classes (filter with grep)  | `php bin/console debug:autowiring | grep 'serviceName' ` |
+| Generate translations i18n | `php bin/console translation:update --force --output-format=xlf en` |
