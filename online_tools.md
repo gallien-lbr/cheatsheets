@@ -9,8 +9,10 @@
 ## Fake Images 
 
 - [placeholder](https://placeholder.com/)
+- [browser-frame](https://browserframe.com/)
 
 ## Free Images 
+- [thestocks](http://thestocks.im/)
 - [undraw](https://undraw.co/illustrations)
 - [pixabay](https://pixabay.com/)
 - [unsplash](https://unsplash.com/)
