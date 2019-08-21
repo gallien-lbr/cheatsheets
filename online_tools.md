@@ -1,5 +1,12 @@
 # Curated list of web development tools & online resources
 
+## SEO
+- [GOOGLE Analytics - Traffic monitoring](https://analytics.google.com/analytics/web)
+- [GOOGLE Search Console](https://search.google.com/search-console/about?hl=fr)
+- [GOOGLE Page Speed Insight](https://developers.google.com/speed/pagespeed/insights/?hl=fr)
+- [Google Mobile Friendly Test](https://search.google.com/test/mobile-friendly)
+- [SEO Quake](https://www.seoquake.com/index.html)
+
 
 ## JSON Mock API
 
