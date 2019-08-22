@@ -5,6 +5,7 @@
 ## SEO
 - [GOOGLE Analytics - Traffic monitoring](https://analytics.google.com/analytics/web)
 - [GOOGLE Search Console](https://search.google.com/search-console/about?hl=fr)
+- [Google Search Console OLD](https://www.google.com/webmasters/tools/home)
 - [GOOGLE Page Speed Insight](https://developers.google.com/speed/pagespeed/insights/?hl=fr)
 - [Google Mobile Friendly Test](https://search.google.com/test/mobile-friendly)
 - [Google WebMaster Tools](https://www.google.com/webmasters/tools/home?hl=fr)
