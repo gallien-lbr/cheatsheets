@@ -1,5 +1,7 @@
 # Curated list of web development tools & online resources
 
+-[Liste des outils de debugs google](https://developers.google.com/search/tools/?hl=fr)
+
 ## SEO
 - [GOOGLE Analytics - Traffic monitoring](https://analytics.google.com/analytics/web)
 - [GOOGLE Search Console](https://search.google.com/search-console/about?hl=fr)
