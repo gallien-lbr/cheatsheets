@@ -10,10 +10,12 @@
 - [Ask Google to ReIndex site](http://www.google.com/ping?sitemap=https://example.com/sitemap.xml)
 
 
-## JSON Mock API
+## JSON Mock API / Validator
 
 - [json placeholder](https://jsonplaceholder.typicode.com/)
 - [open movie database](http://www.omdbapi.com/)
+- [Google JSON Linter](https://search.google.com/structured-data/testing-tool?)
+
 
 ## Fake Images 
 
