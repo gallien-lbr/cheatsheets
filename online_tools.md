@@ -6,6 +6,7 @@
 - [GOOGLE Page Speed Insight](https://developers.google.com/speed/pagespeed/insights/?hl=fr)
 - [Google Mobile Friendly Test](https://search.google.com/test/mobile-friendly)
 - [SEO Quake](https://www.seoquake.com/index.html)
+- [Ask Google to ReIndex site](http://www.google.com/ping?sitemap=https://example.com/sitemap.xml)
 
 
 ## JSON Mock API
