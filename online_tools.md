@@ -5,6 +5,7 @@
 - [GOOGLE Search Console](https://search.google.com/search-console/about?hl=fr)
 - [GOOGLE Page Speed Insight](https://developers.google.com/speed/pagespeed/insights/?hl=fr)
 - [Google Mobile Friendly Test](https://search.google.com/test/mobile-friendly)
+- [Google WebMaster Tools](https://www.google.com/webmasters/tools/home?hl=fr)
 - [SEO Quake](https://www.seoquake.com/index.html)
 - [Ask Google to ReIndex site](http://www.google.com/ping?sitemap=https://example.com/sitemap.xml)
 
