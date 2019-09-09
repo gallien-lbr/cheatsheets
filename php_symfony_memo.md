@@ -22,9 +22,9 @@ Most often used commands with in my Symfony 4 and Doctrine 2 projects.
 | Update the packages to their last versions (according to composer.json) | `composer update`|
 | Update autoloader (download nothing) | `composer dump-autoload`|
 | Run composer with unlimited memory | ` php -d memory_limit=-1 composer.phar install` |
-| | `composer dump-env prod` |
+| ??| `composer dump-env prod` |
 | Clear templating (twig) cache | `php bin/console cache:clear`|
 | Create website-skeleton |`composer create-project symfony/website-skeleton my_project`|
 | Create skeleton (microservice, console app, api) | `composer create-project symfony/skeleton my_project` |
-| See autowiring available classes (filter with grep)  | `php bin/console debug:autowiring | grep 'serviceName' ` |
+| See autowiring available classes (filter with grep)  | `php bin/console debug:autowiring | grep 'serviceName'` |
 | Generate translations i18n | `php bin/console translation:update --force --output-format=xlf en` |
