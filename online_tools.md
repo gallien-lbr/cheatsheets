@@ -91,3 +91,6 @@
 ## Database
 - [Diagrams](https://www.quickdatabasediagrams.com/)
 
+
+## Screenshot sharing
+- [Gyazo](https://gyazo.com/)
