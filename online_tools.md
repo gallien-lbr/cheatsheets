@@ -18,6 +18,7 @@
 - [json placeholder](https://jsonplaceholder.typicode.com/)
 - [open movie database](http://www.omdbapi.com/)
 - [Google JSON Linter](https://search.google.com/structured-data/testing-tool?)
+- [Free Api for Devs](https://rapidapi.com/collection/list-of-free-apis)
 
 
 ## Lib CDN (JS, CSS) 
@@ -100,3 +101,6 @@
 
 ## Screenshot sharing
 - [Gyazo](https://gyazo.com/)
+
+## Video Sharing 
+- [ZoomUs](https://zoom.us/)
