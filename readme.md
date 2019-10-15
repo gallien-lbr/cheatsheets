@@ -1,5 +1,11 @@
-# Cheatsheets
+# Personal repository with useful links 
 
-- Doctrine and sf4 cheatsheet
-- Online tools , curated list of online favourite tools 
+## Links
+
+- Curated list of online favourite tools 
 - JavaScript curated list of tutorials and websites
+- Resources for software engineering
+- Online articles, blog etc.
+
+## Notes
+- Doctrine and Symfony cheatsheet

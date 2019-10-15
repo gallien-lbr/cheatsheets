@@ -1,21 +1,24 @@
-# Curated list of web development tools & online resources
+# Links - Web Development Tools & Online Resources
 
--[Liste des outils de debugs google](https://developers.google.com/search/tools/?hl=fr)
+## Google Tools for webmasters (SEO, Perf, Stats etc.)
 
-## SEO, Perf Analysis
-- [GOOGLE Analytics - Traffic monitoring](https://analytics.google.com/analytics/web)
-- [GOOGLE Search Console](https://search.google.com/search-console/about?hl=fr)
+- [Google list of debug tools](https://developers.google.com/search/tools/?hl=fr)
+- [Google Analytics - Traffic monitoring](https://analytics.google.com/analytics/web)
+- [Google Search Console](https://search.google.com/search-console/about?hl=fr)
 - [Google Search Console OLD](https://www.google.com/webmasters/tools/home)
-- [GOOGLE Page Speed Insight](https://developers.google.com/speed/pagespeed/insights/?hl=fr)
+- [Google Page Speed Insight](https://developers.google.com/speed/pagespeed/insights/?hl=fr)
 - [Google Mobile Friendly Test](https://search.google.com/test/mobile-friendly)
 - [Google WebMaster Tools](https://www.google.com/webmasters/tools/home?hl=fr)
-- [SEO Quake](https://www.seoquake.com/index.html)
+- [Google Trends](https://trends.google.fr/trends/)
 - [Ask Google to ReIndex site](http://www.google.com/ping?sitemap=https://example.com/sitemap.xml)
+
+## SEO, Perf Analysis
+- [SEO Quake](https://www.seoquake.com/index.html)
+- [SEM Rush](https://www.semrush.com/)
 - [Perf Map](http://requestmap.webperf.tools/)
 
 
 ## JSON Mock API / Validator
-
 - [json placeholder](https://jsonplaceholder.typicode.com/)
 - [open movie database](http://www.omdbapi.com/)
 - [Google JSON Linter](https://search.google.com/structured-data/testing-tool?)
@@ -27,8 +30,7 @@
 - [cdnjs.com](https://cdnjs.com)
 
 
-## Fake Images 
-
+## Fake Images stub
 - [placeholder](https://placeholder.com/)
 - [browser-frame](https://browserframe.com/)
 
@@ -57,29 +59,23 @@
 - [Moqups](https://moqups.com/)
 - [Draw](https://www.draw.io/)
 
-## Webdesign Inspiration & Trends
-- [Dribble](https://dribbble.com/)
-- [Behance](https://www.behance.net/)
-- [Awwwards](https://www.awwwards.com/websites/responsive-design/)
-
 ## CSS Frameworks
 - [Bulma](https://bulma.io/documentation/)
+- [Tailwind](https://tailwindcss.com/)
+- [Quasar](https://quasar.dev)
 - [IBM Carbon Design](https://www.carbondesignsystem.com/)
+- [Materialize](https://materializecss.com/)
 - [Element](https://element.eleme.io/#/fr-FR)
 - [Admin BS Template Core-UI](https://coreui.io/) 
 - [ColorLibHQ](https://github.com/ColorlibHQ/gentelella)
 - [StartBootstrap](https://startbootstrap.com/themes/creative/)
 - [Bootswatch](https://bootswatch.com/)
 - [BS4 themes from Mobirise](https://mobirise.com/bootstrap-4-theme/)
-- [Materialize](https://materializecss.com/)
-
 
 ## CSS
 - [SCSS SassMeister](https://www.sassmeister.com/)
 - [CanIUSE](https://caniuse.com/)
 - [CSS 3 please](http://css3please.com/)
-Tailwind, Bulma, quasar.
-
 
 ## Project Management
 - [Trello](https://trello.com/)
@@ -88,12 +84,6 @@ Tailwind, Bulma, quasar.
 
 ## PHP
 - [Eval - Online interpreter all versions PHP](https://3v4l.org/)
-
- 
-## JavaScript
-- [ES6 compat](https://kangax.github.io/compat-table/es6/)
-- [HandsonTable](https://handsontable.com/)
-- [DropZone](https://www.dropzonejs.com/)
 
 ## Regex
 - [regex101 - regex tester](https://regex101.com/)
