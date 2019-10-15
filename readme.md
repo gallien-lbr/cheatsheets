@@ -9,3 +9,7 @@
 
 ## Notes
 -  Cheatsheet on doctrine and symfony 
+
+also worth seeing : 
+Free for dev repo:
+https://github.com/ripienaar/free-for-dev

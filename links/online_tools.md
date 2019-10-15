@@ -90,6 +90,10 @@
 ## PHP
 - [Eval - Online interpreter all versions PHP](https://3v4l.org/)
 
+## CI
+- [Travis CI](https://travis-ci.org/)
+- [Circle CI](https://circleci.com/)
+
 ## Regex
 - [regex101 - regex tester](https://regex101.com/)
 
