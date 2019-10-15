@@ -24,6 +24,9 @@
 - [Google JSON Linter](https://search.google.com/structured-data/testing-tool?)
 - [Free Api for Devs](https://rapidapi.com/collection/list-of-free-apis)
 
+## Security
+- [OWASP List of tools](https://www.owasp.org/index.php/Category:Vulnerability_Scanning_Tools)
+
 
 ## Lib CDN (JS, CSS) 
 - [unpkg.com](https://unpkg.com)

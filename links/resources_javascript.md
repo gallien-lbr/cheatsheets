@@ -1,5 +1,8 @@
 # JavaScript : List of curated resources online 
 
+## Is learning js vanilla worthing it ?
+- [Is learning js vanilla worthing it ?](https://www.freecodecamp.org/news/is-vanilla-javascript-worth-learning-absolutely-c2c67140ac34/)
+
 ## You don't know JS
 - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
 

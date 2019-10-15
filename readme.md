@@ -1,6 +1,6 @@
-# Personal repository with useful links 
+# Personal repository with useful links and onlines resources, enjoy
 
-## Links
+## Links folder
 
 - Curated list of online favourite tools 
 - JavaScript curated list of tutorials and websites
@@ -8,4 +8,4 @@
 - Online articles, blog etc.
 
 ## Notes
-- Doctrine and Symfony cheatsheet
+-  Cheatsheet on doctrine and symfony 
