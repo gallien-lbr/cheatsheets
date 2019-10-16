@@ -15,6 +15,8 @@
 
 ## CSS
 - [CSS Tricks](https://css-tricks.com/)
+- [Méthode BEM,  OOCSS] (https://www.alsacreations.com/article/lire/1641-bonnes-pratiques-en-css-bem-et-oocss.html) 
+- [SMACSS](http://smacss.com/)
 
 ## Jamstack
 - [Jamstack pourquoi ?](https://jamstatic.fr/2017/03/16/5-raisons-de-tester-la-jamstack/)

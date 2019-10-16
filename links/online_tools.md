@@ -107,3 +107,7 @@
 ## Video Sharing 
 - [ZoomUs](https://zoom.us/)
 - [WhereBy](https://whereby.com/)
+
+## Files sharing 
+- [Mediafire](https://www.mediafire.com)
+- [WeTransfer](https://wetransfer.com/) 
