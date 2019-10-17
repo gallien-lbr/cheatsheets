@@ -9,6 +9,7 @@
 
 ## Notes
 -  Cheatsheet on doctrine and symfony 
+-  Memo about versions in JS 🤯
 
 also worth seeing : 
 Free for dev repo:
