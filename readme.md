@@ -6,6 +6,7 @@
 - JavaScript curated list of tutorials and websites
 - Resources for software engineering
 - Online articles, blog etc.
+- Learning resources
 
 ## Notes
 -  Cheatsheet on doctrine and symfony 
