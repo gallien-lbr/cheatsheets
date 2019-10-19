@@ -12,6 +12,11 @@
 -  Cheatsheet on doctrine and symfony 
 -  Memo about versions in JS 🤯
 
-also worth seeing : 
+
+## External links
+Also worth visiting : 
 Free for dev repo:
-https://github.com/ripienaar/free-for-dev
+- https://github.com/ripienaar/free-for-dev
+
+All references per language / tech a MUST see ! 
+- https://getawesomeness.herokuapp.com/
