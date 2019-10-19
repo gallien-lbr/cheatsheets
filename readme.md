@@ -20,3 +20,6 @@ Free for dev repo:
 
 All references per language / tech a MUST see ! 
 - https://getawesomeness.herokuapp.com/
+
+Hub for free references for devs
+- https://github.com/tvvocold/FOSS-for-Dev
