@@ -24,6 +24,10 @@
 ## Ajax / Async / Callback / Promise 
 - [Ajax](https://medium.com/front-end-weekly/ajax-async-callback-promise-e98f8074ebd7)
 
+## Front-end dev (mainly JS)
+- [Alligator.io](https://alligator.io/)
+
+
 ## Libs
 - [HandsonTable](https://handsontable.com/)
 - [DropZone](https://www.dropzonejs.com/)
