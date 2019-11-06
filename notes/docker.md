@@ -11,4 +11,7 @@ docker run -v `C:/www/stations/src:/app -v `C:/www/stations/tmp:/app/data --env-
 
 ## creer un volume docker pour persister les données d'une session à l'autre 
 docker volume create postgres
+
+## revenir dans une VM (shell alpine=ash)
+docker exec -it magical_newton ash
 ```
