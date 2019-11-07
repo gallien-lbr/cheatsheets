@@ -14,4 +14,7 @@ docker volume create postgres
 
 ## revenir dans une VM (shell alpine=ash)
 docker exec -it magical_newton ash
+
+## mariadb
+docker run -d -v mariadb:/var/lib/mysql -p 3307:3306 --name mariadb -e MYSQL_ROOT_PASSWORD=root -d mariadb:10.2
 ```
