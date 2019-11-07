@@ -2,6 +2,7 @@
 ```
 docker run -d -v postgres:/var/lib/postgresql/data -p 6666:5432 --name postgres -e POSTGRES_PASSWORD=root -d postgres:11
 docker stop nom_container 
+docker start nom_container
 docker rm  nom_container
 docker ps
 ```
