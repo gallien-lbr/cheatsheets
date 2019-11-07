@@ -5,8 +5,17 @@
 docker stop nom_container 
 docker start nom_container
 docker rm  nom_container
-docker ps
+docker ps # affiche les conteneurs en cours d'execution
+docker ps -a # affiche les conteneurs executés ou executés par le passé	
+docker rename CONTAINER NEW_NAME
+docker image # liste les images du système
 ```
+
+## Run basique d'une image de demo
+```
+docker run docker-whale
+```
+
 
 ## PostgreSQL
 ```
@@ -35,3 +44,7 @@ docker volume create mariadb
 docker exec -it magical_newton ash
 ```
 
+## Les Dockerfiles
+
+=> une sorte de tutoriel de construction pour les images. 
+Ce sont des fichiers texte simples qui contiennent toutes les instructions dont Docker a besoin pour créer une image.

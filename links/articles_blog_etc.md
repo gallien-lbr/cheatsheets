@@ -1,5 +1,9 @@
 # Articles : blogs, inspiration, learning platform etc
 
+## Engineering 
+- [L'usine Digitale](https://www.usine-digitale.fr/)
+- [Gartner](https://www.gartner.com/en)
+
 ## Webdesign Inspiration & Trends
 - [Dribble](https://dribbble.com/)
 - [Behance](https://www.behance.net/)
@@ -7,7 +11,6 @@
 - [CodePen.io](https://codepen.io/)
 - [Slant -  Tech trends and comparaison](https://www.slant.co)
 - [Demo App / Pet project inspiration](https://www.freecodecamp.org/news/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d/)
-
 
 ## Articles
 - [A list apart](https://alistapart.com/)
