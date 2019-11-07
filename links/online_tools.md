@@ -11,6 +11,12 @@
 - [Google WebMaster Tools](https://www.google.com/webmasters/tools/home?hl=fr)
 - [Google Trends](https://trends.google.fr/trends/)
 - [Ask Google to ReIndex site](http://www.google.com/ping?sitemap=https://example.com/sitemap.xml)
+- [Outil de test LD Google](https://search.google.com/structured-data/testing-tool?hl=fr)
+
+## FB Chat
+- [Lien 1](https://developers.facebook.com/docs/messenger-platform/discovery/customer-chat-plugin/)
+- [Lien 2](https://developers.facebook.com/docs/messenger-platform/discovery/customer-chat-plugin/sdk#install)
+
 
 ## SEO, Perf Analysis
 - [SEO Quake](https://www.seoquake.com/index.html)
@@ -44,9 +50,9 @@
 - [unsplash](https://unsplash.com/)
 - [A list of free banners](https://blog.bannersnack.com/free-banner-images/)
 
-## Logo
+## Logo , Icons etc.
 - [LogoDust](https://logodust.com/)
-
+- [Favicon Generator](https://favicon.io)
 
 ## Fonts
 - [google-font](https://fonts.google.com/)
