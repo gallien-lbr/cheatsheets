@@ -22,6 +22,8 @@ docker run docker-whale
 -d : docker se lance en mode detached (comme un process en background)
 -p host_ip:host_port:container_port :  publie le port du container (permet de publier le port en dehors de docker)
 -v [repertoire_host]:[repertoire_container]: monter un volume (indispensable pour faire tourner une BDD avec de la persistence d'une session à l'autre)
+-it [CONTAINER_NAME] [COMMANDE] => combo de --interactive et --tty
+-e : ajoute des variables d'environnement à prendre en compte à l'exécution
 ```
 
 
@@ -57,7 +59,7 @@ docker volume ls
 
 ## Revenir dans un container (shell alpine=ash)
 ```bash
-docker exec -it magical_newton ash
+docker exec -it CONTAINER_NAME ash
 ```
 
 ## Les Dockerfiles
