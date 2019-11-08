@@ -13,7 +13,7 @@ docker image # liste les images du système
 
 ## Run basique d'une image de demo (sans parametre ou flag)
 ```
-docker run docker-whale 
+docker run docker-whale  (créer le container et le lancer)
 => par défaut se lance en mode attached
 ```
 
