@@ -23,3 +23,6 @@ All references per language / tech a MUST see !
 
 Hub for free references for devs
 - https://github.com/tvvocold/FOSS-for-Dev
+
+- Roadmap 4 developpers
+- https://github.com/kamranahmedse/developer-roadmap

@@ -9,6 +9,7 @@ docker ps # affiche les conteneurs en cours d'execution
 docker ps -a # affiche les conteneurs executés ou executés par le passé	
 docker rename CONTAINER NEW_NAME
 docker image # liste les images du système
+docker info
 ```
 
 ## Run basique d'une image de demo (sans parametre ou flag)

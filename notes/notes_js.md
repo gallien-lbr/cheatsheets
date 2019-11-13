@@ -45,7 +45,7 @@ Last rev : 17/10/2019
 
 #### All the current browsers have full support to ES6. If support of legacy IE11 is needed, use of Babel compiler.
 [ => See the compatibility Matrix](https://kangax.github.io/compat-table/es6/)
-
+[ Learn ES6 ](https://babeljs.io/docs/en/learn)
 ```
 * Promise
 * let
