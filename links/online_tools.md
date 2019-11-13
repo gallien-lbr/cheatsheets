@@ -103,8 +103,9 @@
 ## Regex
 - [regex101 - regex tester](https://regex101.com/)
 
-## Database
+## Database schema, UML
 - [Diagrams](https://www.quickdatabasediagrams.com/)
+- [Miro](https://miro.com/templates/uml-diagram/)
 
 
 ## Screenshot sharing
@@ -119,4 +120,4 @@
 - [WeTransfer](https://wetransfer.com/) 
 
 ## Screen Sharing
-- [TeamViewer]()
+- [TeamViewer](https://www.teamviewer.com/fr/)

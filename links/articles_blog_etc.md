@@ -3,6 +3,7 @@
 ## Engineering 
 - [L'usine Digitale](https://www.usine-digitale.fr/)
 - [Gartner](https://www.gartner.com/en)
+- [FrenchWeb](https://www.frenchweb.fr/)
 
 ## Webdesign Inspiration & Trends
 - [Dribble](https://dribbble.com/)
