@@ -14,8 +14,9 @@
 - [Aligator Doc](https://alligator.io/vuejs/)
 - [FlavioCopes vuejs first app](https://flaviocopes.com/vue-first-app/)
 
-## Thirds parties
+## UX Thirds parties
 - [Vue Material - UX](https://vuematerial.io/getting-started/)
+- [Vuetify](https://vuetifyjs.com/en/)
 
 ## Projects based on Vue
 - [Gridsome , A VueJS framework](https://gridsome.org/)
