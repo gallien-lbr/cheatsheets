@@ -24,6 +24,10 @@
 ## Ajax / Async / Callback / Promise 
 - [Ajax](https://medium.com/front-end-weekly/ajax-async-callback-promise-e98f8074ebd7)
 
+## WebComponents
+- [Web Components](https://developers.google.com/web/fundamentals/web-components)
+
+
 ## Front-end dev (mainly JS)
 - [Alligator.io](https://alligator.io/)
 
@@ -32,3 +36,5 @@
 - [HandsonTable](https://handsontable.com/)
 - [DropZone](https://www.dropzonejs.com/)
 - [GSAP](https://greensock.com/gsap/)
+- [SocketIO](https://socket.io/)
+

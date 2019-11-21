@@ -75,6 +75,7 @@
 - [Materialize](https://materializecss.com/)
 - [Element](https://element.eleme.io/#/fr-FR)
 - [Quasar](https://quasar.dev)
+- [Knacss](https://www.knacss.com/)
 
 ## Bootstrap based CSS starters
 - [ColorLibHQ](https://github.com/ColorlibHQ/gentelella)
