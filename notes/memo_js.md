@@ -50,6 +50,7 @@ Last rev : 17/10/2019
 * Promise
 * let
 * const
+* rest elements & spread elements - https://github.com/tc39/proposal-object-rest-spread
 * Arrow Functions =>
 * Classes
 * Default parameter values
