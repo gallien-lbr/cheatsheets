@@ -12,13 +12,13 @@
 - [Ajax,Async,Callback, Promise](https://medium.com/front-end-weekly/ajax-async-callback-promise-e98f8074ebd7)
 - [Web Components](https://developers.google.com/web/fundamentals/web-components)
 - [JS standards style for ESLint](https://codeburst.io/5-javascript-style-guides-including-airbnb-github-google-88cbc6b2b7aa)
-- Book: Secret of the javascript Ninja , J.Resig
+-  Secret of the javascript Ninja , J.Resig
 
 
 ##  📺 Videos
 - [JS Internals - What the heck is the event loop ? Philip Roberts](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 - [JS High order functions, functionnal programming](https://www.youtube.com/watch?v=Wl98eZpkp-c)
-
+- [JS - Event Loop inside visualisation](http://latentflip.com/loupe)
 
 ## Front-end dev
 - [Alligator.io](https://alligator.io/)
