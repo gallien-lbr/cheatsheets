@@ -17,6 +17,7 @@
 
 ## Dev Conventions etc.
 - [Naming commits](https://www.conventionalcommits.org/en/v1.0.0-beta.2/)
+- [Writing good commits messages](https://www.freecodecamp.org/news/writing-good-commit-messages-a-practical-guide/)
 - [Semantic Versioning](https://semver.org/)
 - [The Twelve-Factor App ](https://12factor.net/fr/)
 - [PHP PSRs](https://www.php-fig.org/psr/)

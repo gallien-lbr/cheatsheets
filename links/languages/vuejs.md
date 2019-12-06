@@ -25,3 +25,5 @@
 ## Projects based on Vue
 - [Gridsome , A VueJS framework](https://gridsome.org/)
 - [Nuxt]
+- [Real World Vue App](https://github.com/gothinkster/vue-realworld-example-app)
+
