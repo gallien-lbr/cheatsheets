@@ -1,7 +1,6 @@
 # Links - Web Development Tools & Online Resources
 
 ## Google Tools for webmasters (SEO, Perf, Stats etc.)
-
 - [Google list of debug tools](https://developers.google.com/search/tools/?hl=fr)
 - [Google Analytics - Traffic monitoring](https://analytics.google.com/analytics/web)
 - [Google Search Console](https://search.google.com/search-console/about?hl=fr)
@@ -37,10 +36,10 @@
 - [OWASP List of tools](https://www.owasp.org/index.php/Category:Vulnerability_Scanning_Tools)
 
 
-## Lib CDN (JS, CSS) 
+## Lib CDN (JS, CSS) , IMG
 - [unpkg.com](https://unpkg.com)
 - [cdnjs.com](https://cdnjs.com)
-
+- [cloudinary](cloudinary.com)
 
 ## Fake Images stub
 - [placeholder](https://placeholder.com/)

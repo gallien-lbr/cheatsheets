@@ -1,5 +1,8 @@
 # Links infrastructure
 
+## DNS
+[4 types enregistrements DNS](https://blog.youdot.io/fr/4-types-enregistrements-dns-a-connaitre/)
+
 ## Proxy
 [Haproxy](http://www.haproxy.org/)
 

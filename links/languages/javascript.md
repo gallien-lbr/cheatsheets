@@ -13,7 +13,7 @@
 - [Web Components](https://developers.google.com/web/fundamentals/web-components)
 - [JS standards style for ESLint](https://codeburst.io/5-javascript-style-guides-including-airbnb-github-google-88cbc6b2b7aa)
 -  Secret of the javascript Ninja , J.Resig
-
+- [Arrowed function and this](https://www.freecodecamp.org/news/when-and-why-you-should-use-es6-arrow-functions-and-when-you-shouldnt-3d851d7f0b26/)
 
 ##  📺 Videos
 - [JS Internals - What the heck is the event loop ? Philip Roberts](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
