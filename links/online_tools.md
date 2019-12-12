@@ -17,6 +17,9 @@
 - [Lien 1](https://developers.facebook.com/docs/messenger-platform/discovery/customer-chat-plugin/)
 - [Lien 2](https://developers.facebook.com/docs/messenger-platform/discovery/customer-chat-plugin/sdk#install)
 
+## Freelance (fr)
+
+- [Tiime AE](https://www.tiime-ae.fr/)
 
 ## SEO, Perf Analysis
 - [SEO Quake](https://www.seoquake.com/index.html)
@@ -76,6 +79,7 @@
 - [Element](https://element.eleme.io/#/fr-FR)
 - [Quasar](https://quasar.dev)
 - [Knacss](https://www.knacss.com/)
+- [GetUIKit](https://getuikit.com/)
 
 ## Bootstrap based CSS starters
 - [ColorLibHQ](https://github.com/ColorlibHQ/gentelella)
