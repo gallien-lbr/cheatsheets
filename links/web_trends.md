@@ -23,3 +23,8 @@
 - [HackerNoon](https://hackernoon.com)
 - [Blog Octo](https://blog.octo.com)
 - [Dev Awesome](https://devawesome.io)
+
+
+## Hot topics 
+- [You might not need Jquery](http://youmightnotneedjquery.com/)
+- [Why I'm still using jQuery in 2019](https://www.arp242.net/jquery.html?ref=devawesome.io)
