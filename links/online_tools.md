@@ -39,7 +39,8 @@
 ## Lib CDN (JS, CSS) , IMG
 - [unpkg.com](https://unpkg.com)
 - [cdnjs.com](https://cdnjs.com)
-- [cloudinary](cloudinary.com)
+- [cloudinary](https://cloudinary.com)
+- [jsdelivr](https://www.jsdelivr.com/)
 
 ## Fake Images stub
 - [placeholder](https://placeholder.com/)
@@ -70,27 +71,6 @@
 - [Moqups](https://moqups.com/)
 - [Draw](https://www.draw.io/)
 
-## CSS Frameworks
-- [Bulma](https://bulma.io/documentation/)
-- [Tailwind](https://tailwindcss.com/)
-- [IBM Carbon Design](https://www.carbondesignsystem.com/)
-- [Materialize](https://materializecss.com/)
-- [Element](https://element.eleme.io/#/fr-FR)
-- [Quasar](https://quasar.dev)
-- [Knacss](https://www.knacss.com/)
-- [GetUIKit](https://getuikit.com/)
-
-## Bootstrap based CSS starters
-- [ColorLibHQ](https://github.com/ColorlibHQ/gentelella)
-- [Admin BS Template Core-UI](https://coreui.io/) 
-- [StartBootstrap](https://startbootstrap.com/themes/creative/)
-- [Bootswatch](https://bootswatch.com/)
-- [BS4 themes from Mobirise](https://mobirise.com/bootstrap-4-theme/)
-
-## CSS
-- [SCSS SassMeister](https://www.sassmeister.com/)
-- [CanIUSE](https://caniuse.com/)
-- [CSS 3 please](http://css3please.com/)
 
 ## Project Management
 - [Trello](https://trello.com/)

@@ -12,7 +12,7 @@
 - [Ajax,Async,Callback, Promise](https://medium.com/front-end-weekly/ajax-async-callback-promise-e98f8074ebd7)
 - [Web Components](https://developers.google.com/web/fundamentals/web-components)
 - [JS standards style for ESLint](https://codeburst.io/5-javascript-style-guides-including-airbnb-github-google-88cbc6b2b7aa)
--  Secret of the javascript Ninja , J.Resig
+- Secret of the javascript Ninja , J.Resig
 - [Arrowed function and this](https://www.freecodecamp.org/news/when-and-why-you-should-use-es6-arrow-functions-and-when-you-shouldnt-3d851d7f0b26/)
 
 ##  📺 Videos
@@ -28,4 +28,3 @@
 - [DropZone](https://www.dropzonejs.com/)
 - [GSAP](https://greensock.com/gsap/)
 - [SocketIO](https://socket.io/)
-
