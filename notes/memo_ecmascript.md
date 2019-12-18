@@ -50,7 +50,7 @@ Last rev : 17/10/2019
 * Promise
 * let
 * const
-* [rest elements & spread elements](https://medium.com/@luke_smaki/javascript-es6-spread-operator-and-rest-parameters-b3e89d112281) - https://github.com/tc39/proposal-object-rest-spread
+* rest elements & spread elements - https://github.com/tc39/proposal-object-rest-spread
 * Arrow Functions =>
 * Classes
 * Default parameter values
@@ -81,3 +81,4 @@ Last rev : 17/10/2019
 References : 
 - https://medium.com/@madasamy/javascript-brief-history-and-ecmascript-es6-es7-es8-features-673973394df4
 - https://medium.com/@_bengarrison/javascript-es8-introducing-async-await-functions-7a471ec7de8a
+- [rest elements & spread elements](https://medium.com/@luke_smaki/javascript-es6-spread-operator-and-rest-parameters-b3e89d112281)
