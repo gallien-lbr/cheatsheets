@@ -7,14 +7,15 @@
 - Resources for software engineering
 - Online articles, blog etc.
 - Learning resources
+- Plenty of others good things ...
 
 ## Notes
 -  Cheatsheet on doctrine and symfony 
--  Memo about ES 🤯
+-  Memo about EcamScript 🤯
 
 
-## External links
-Also worth visiting : 
+## Also worth visiting 
+
 Free for dev repo:
 - https://github.com/ripienaar/free-for-dev
 
