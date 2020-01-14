@@ -39,6 +39,6 @@ Most often used commands with in my Symfony 4 and Doctrine 2 projects.
 |---|---|
 | Debug all routes in  a project | `debug:router` |
 | Clear templating (twig) cache | `php bin/console cache:clear`|
-| See autowiring available classes (filter with grep)  | `php bin/console debug:autowiring | grep 'serviceName'` |
+| See autowiring available classes (filter with grep)  | `php bin/console debug:autowiring | grep serviceName`|
 | Generate translations i18n | `php bin/console translation:update --force --output-format=xlf en` |
 | Generate a password | `security:encode-password` |
