@@ -27,10 +27,11 @@
 
 
 ## JSON Mock API / Validator
-- [json placeholder](https://jsonplaceholder.typicode.com/)
-- [open movie database](http://www.omdbapi.com/)
+- [JSON Placeholder](https://jsonplaceholder.typicode.com/)
+- [Open Movie Database](http://www.omdbapi.com/)
 - [Google JSON Linter](https://search.google.com/structured-data/testing-tool?)
 - [Free Api for Devs](https://rapidapi.com/collection/list-of-free-apis)
+- [RickAndMorty API](https://rickandmortyapi.com/)
 
 ## Security
 - [OWASP List of tools](https://www.owasp.org/index.php/Category:Vulnerability_Scanning_Tools)
@@ -75,6 +76,7 @@
 ## Project Management
 - [Trello](https://trello.com/)
 - [Ticket tracker](https://clickup.com/)
+- [GitIgnore generator](http://gitignore.io)
 
 
 ## PHP
@@ -98,6 +100,7 @@
 ## Video Sharing 
 - [ZoomUs](https://zoom.us/)
 - [WhereBy](https://whereby.com/)
+- [8x8.vc](https://8x8.vc/)
 
 ## Files sharing 
 - [Mediafire](https://www.mediafire.com)
