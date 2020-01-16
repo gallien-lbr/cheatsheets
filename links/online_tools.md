@@ -1,30 +1,5 @@
 # Links - Web Development Tools & Online Resources
 
-## Google Tools for webmasters (SEO, Perf, Stats etc.)
-- [Google list of debug tools](https://developers.google.com/search/tools/?hl=fr)
-- [Google Analytics - Traffic monitoring](https://analytics.google.com/analytics/web)
-- [Google Search Console](https://search.google.com/search-console/about?hl=fr)
-- [Google Search Console OLD](https://www.google.com/webmasters/tools/home)
-- [Google Page Speed Insight](https://developers.google.com/speed/pagespeed/insights/?hl=fr)
-- [Google Mobile Friendly Test](https://search.google.com/test/mobile-friendly)
-- [Google WebMaster Tools](https://www.google.com/webmasters/tools/home?hl=fr)
-- [Google Trends](https://trends.google.fr/trends/)
-- [Ask Google to ReIndex site](http://www.google.com/ping?sitemap=https://example.com/sitemap.xml)
-- [Outil de test LD Google](https://search.google.com/structured-data/testing-tool?hl=fr)
-
-## FB Chat
-- [Lien 1](https://developers.facebook.com/docs/messenger-platform/discovery/customer-chat-plugin/)
-- [Lien 2](https://developers.facebook.com/docs/messenger-platform/discovery/customer-chat-plugin/sdk#install)
-
-## Freelance (fr)
-
-- [Tiime AE](https://www.tiime-ae.fr/)
-
-## SEO, Perf Analysis
-- [SEO Quake](https://www.seoquake.com/index.html)
-- [SEM Rush](https://www.semrush.com/)
-- [Perf Map](http://requestmap.webperf.tools/)
-
 
 ## JSON Mock API / Validator
 - [JSON Placeholder](https://jsonplaceholder.typicode.com/)
@@ -111,3 +86,28 @@
 
 ## Forms 
 - [Jotforms](https://www.jotform.com)
+
+## Google Tools for webmasters (SEO, Perf, Stats etc.)
+- [Google list of debug tools](https://developers.google.com/search/tools/?hl=fr)
+- [Google Analytics - Traffic monitoring](https://analytics.google.com/analytics/web)
+- [Google Search Console](https://search.google.com/search-console/about?hl=fr)
+- [Google Search Console OLD](https://www.google.com/webmasters/tools/home)
+- [Google Page Speed Insight](https://developers.google.com/speed/pagespeed/insights/?hl=fr)
+- [Google Mobile Friendly Test](https://search.google.com/test/mobile-friendly)
+- [Google WebMaster Tools](https://www.google.com/webmasters/tools/home?hl=fr)
+- [Google Trends](https://trends.google.fr/trends/)
+- [Ask Google to ReIndex site](http://www.google.com/ping?sitemap=https://example.com/sitemap.xml)
+- [Outil de test LD Google](https://search.google.com/structured-data/testing-tool?hl=fr)
+
+## FB Chat
+- [Lien 1](https://developers.facebook.com/docs/messenger-platform/discovery/customer-chat-plugin/)
+- [Lien 2](https://developers.facebook.com/docs/messenger-platform/discovery/customer-chat-plugin/sdk#install)
+
+## Freelance (fr)
+
+- [Tiime AE](https://www.tiime-ae.fr/)
+
+## SEO, Perf Analysis
+- [SEO Quake](https://www.seoquake.com/index.html)
+- [SEM Rush](https://www.semrush.com/)
+- [Perf Map](http://requestmap.webperf.tools/)
