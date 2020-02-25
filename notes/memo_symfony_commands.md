@@ -9,7 +9,7 @@ Most often used commands with in my Symfony 4 and Doctrine 2 projects.
 | Force a DB update | `doctrine:schema:update –-force ` |
 | Load a fixture | `doctrine:fixtures:load -n`|
 | Validate doctrine entities | `doctrine:schema:validate`|
-| (deprecated) Regenerate getters and setters | `doctrine:generate:entities AppBundle\\Entity\\Shop\\ManyToMany\\TemplateMenu` |
+| (deprecated , symf3) Regenerate getters and setters | `doctrine:generate:entities AppBundle\\Entity\\Shop\\ManyToMany\\TemplateMenu` |
 
 ## Make Bundle Related
 | Use case | Command |
@@ -33,6 +33,7 @@ Most often used commands with in my Symfony 4 and Doctrine 2 projects.
 | Update autoloader (download nothing) | `composer dump-autoload`|
 | Run composer with unlimited memory | ` php -d memory_limit=-1 composer.phar install` |
 | ??| `composer dump-env prod` |
+| Symfony install v4.x by default (not v5) | `composer create-project symfony/website-skeleton Stage_App "4.4.*"|
 
 ## Misc Utilities   
 | Use case | Command |
