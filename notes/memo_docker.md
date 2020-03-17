@@ -12,6 +12,15 @@ docker image # liste les images du système
 docker info
 ```
 
+### Docker Compose
+
+```
+docker-compose up -d ## lancer les containers docker
+systemctl restart docker ## Relancer docker sudo 
+docker-compose down ## Arrêter les containers
+```
+
+
 ## Run basique d'une image de demo (sans parametre ou flag)
 ```
 docker run docker-whale  (créer le container et le lancer)

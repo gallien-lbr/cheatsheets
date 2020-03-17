@@ -50,3 +50,8 @@ Revenir sur une version précédente de la branche
 ```
 git reset
 ```
+
+```
+git diff
+```
+
