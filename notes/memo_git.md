@@ -40,3 +40,13 @@ Create and move to branch
 ```
 git checkout -b new_branch
 ```
+
+Revenir sur une version précédente de la branche
+```
+git checkout -- .
+```
+
+Revenir sur une version précédente de la branche
+```
+git reset
+```
