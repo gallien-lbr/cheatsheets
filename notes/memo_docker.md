@@ -1,45 +1,77 @@
-# Notes DOCKER 
+# Mémento Docker
 
-## Commandes
-```
+## Commandes utiles
+```bash
+
+# Arrêter un container
 docker stop nom_container 
+
+# Démarrer un container
 docker start nom_container
-docker rm  nom_container # supprime les données liées au container
-docker ps # affiche les conteneurs en cours d'execution
-docker ps -a # affiche les conteneurs executés ou executés par le passé	
+
+# Supprime les données liées au container
+docker rm  nom_container
+
+# Affiche les conteneurs en cours d'execution
+docker ps
+
+# Affiche les conteneurs executés ou executés par le passé
+docker ps -a 	
+
+# Renommer un container
 docker rename CONTAINER NEW_NAME
-docker image # liste les images du système
+
+# Liste les images du système
+docker image
+
+# Montrer l'historique d'une image
+docker history [image_name]
+
+# Montre les informations relatives à Docker du système hôte
 docker info
-```
 
-### Docker Compose
+# Relancer docker
+systemctl restart docker  
 
-```
-docker-compose up -d ## lancer les containers docker
-systemctl restart docker ## Relancer docker sudo 
-docker-compose down ## Arrêter les containers
-```
+# Build : construction d'une image
+docker build
+``` 
 
 
-## Run basique d'une image de demo (sans parametre ou flag)
+## Docker-compose
+Docker compose permet de définir et lancer simultanément plusieurs containers (= 1 stack). 1 fichier YAML permet de de configurer les services de l'application (Redis, ElasticSearch, Php etc.).
+
+```bash
+# Lancer un stack de containers docker (flag -d = en detached [tâche de fond])
+docker-compose up -d 
+
+# Arrêter un stack de containers
+docker-compose down 
+
+# Statut de la stack
+docker-compose ps
 ```
-docker run docker-whale  (créer le container et le lancer)
-=> par défaut se lance en mode attached
+
+## Run basique d'une image de demo (sans paramètre ou flag)
+
+```bash
+# Crée le container et le démarre
+docker run docker-whale
+# par défaut se lance en mode `attached`
 ```
 
 ## Flags les plus utiles
 ```bash
--d : docker se lance en mode detached (comme un process en background)
--p host_ip:host_port:container_port :  publie le port du container (permet de publier le port en dehors de docker)
--v [repertoire_host]:[repertoire_container]: monter un volume (indispensable pour faire tourner une BDD avec de la persistence d'une session à l'autre)
--it [CONTAINER_NAME] [COMMANDE] => combo de --interactive et --tty
--e : ajoute des variables d'environnement à prendre en compte à l'exécution
+-d # docker se lance en mode detached (comme un process en background)
+
+-p host_ip:host_port:container_port #  publie le port du container (permet de publier le port en dehors de docker)
+
+-v [repertoire_host]:[repertoire_container] # monter un volume (persistence des données, indispensable pour faire tourner une BDD avec de la persistence à l'arrêt du container (= suppression données)
+
+-it [CONTAINER_NAME] [COMMANDE] # combo de --interactive et --tty
+
+-e # ajoute des variables d'environnement à prendre en compte à l'exécution
 ```
-
-- [!!!!Toutes ls options de RUN](https://docs.docker.com/engine/reference/commandline/run/)
-- [Références options Run](https://docs.docker.com/engine/reference/run/)
-- [Tuto run](https://blog.codeship.com/the-basics-of-the-docker-run-command/)
-
 
 ## PostgreSQL
 ```bash
@@ -56,23 +88,43 @@ docker run -v C:/www/stations/src:/app -v C:/www/stations/tmp:/app/data --env-fi
 docker run -d -v mariadb:/var/lib/mysql -p 3307:3306 --name mariadb -e MYSQL_ROOT_PASSWORD=root -d mariadb:10.2
 ```
 
-### Volumes
-## Créer un volume docker pour persister les données d'une session à l'autre 
+##Volumes
+### Créer un volume docker pour persister les données d'une session à l'autre 
 ```bash
 docker volume create postgres
 docker volume create mariadb
 ```
-## Lister 
+### Lister les volumes 
 ```bash
 docker volume ls
 ```
 
-## Revenir dans un container (shell alpine=ash)
+## Revenir dans un container
 ```bash
+# Exemple sur un shell alpine=ash
 docker exec -it CONTAINER_NAME ash
 ```
 
-## Les Dockerfiles
+## Les images Docker
+- Une image docker est l'équivalent d'un `snapshot` d'une environnement vitualisé figé. 
+  Les images Docker sont immutables.
 
-=> une sorte de tutoriel de construction pour les images. 
-Ce sont des fichiers texte simples qui contiennent toutes les instructions dont Docker a besoin pour créer une image.
+- Les images sont stockés sur les `repositories` (publics ou privés), dans un registry stocké dans le cloud.
+
+## Les DockerFiles
+
+Une sorte de tutoriel/descriptif de construction pour les images, qui contient toutes les commandes nécessaires à la construction d'une image. 
+
+* Ce sont des fichiers texte simples qui contiennent toutes les instructions dont Docker a besoin pour créer une image.
+
+* Chaque instruction du DockerFile crée un `layer`
+
+# Références
+
+- [OpenClassRoom - Optimisez vos déploiements avec Docker](https://openclassrooms.com/fr/courses/2035766-optimisez-votre-deploiement-en-creant-des-conteneurs-avec-docker)
+
+- [Ref : What Is a Docker Image ?](https://searchitoperations.techtarget.com/definition/Docker-image)
+
+- [Ref : Toutes les options de RUN](https://docs.docker.com/engine/reference/commandline/run/)
+- [Ref : Références options Run](https://docs.docker.com/engine/reference/run/)
+- [Ref: Tuto run](https://blog.codeship.com/the-basics-of-the-docker-run-command/)
