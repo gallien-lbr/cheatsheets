@@ -3,7 +3,7 @@
 `init`
 
 This command initialises the directory where it is executed as a Git project.
-Concretely, this will create a hidden ".git" directory containing all the necessary files for Git to function and to follow the modifications made inside root directory.
+Concretely, this will create a hidden ".git" directory containing all the necessary files for Git to function and to follow the modifications made inside root directory
 
 `add`
 
@@ -44,7 +44,27 @@ Revenir totalement sur une version précédente de la branche
 `git reset` => **unsafe car supprime l'historique** 
 
 `git diff`
+TODO
 
 Branche `HEAD`
 
 Référence vers le dernier commit de la branche courante
+
+Liste les différentes remotes
+
+`git remote -v`
+
+Ajouter une remote (le nom "origin" est choisi par convention)
+
+`git remote add origin https://github.com/{username}/{projectname}.git`
+
+# En bref
+Pour rappel, les fichiers passent par 3 "étapes" :
+
+- espace de travail (fichiers pas encore "addés")
+- Index (ou stage) (fichiers "addés" mais pas "commités")
+- HEAD (fichiers "commités")
+
+
+* https://onlywei.github.io/explain-git-with-d3/#deletebranches
+* prés. méthodes retours arrières https://www.youtube.com/watch?v=RIYrfkZjWmA
