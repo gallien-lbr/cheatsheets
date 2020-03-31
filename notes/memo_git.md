@@ -34,9 +34,14 @@ Create and move to branch
 Revenir sur une version précédente de la branche
 `git checkout -- .`
 
-Revenir sur une version précédente de la branche
+Revenir à un commit spécifique
+`git checkout 1eab2`
 
-`git reset`
+Revert (créer un nouveau commit)
+`git revert specificcommit` 
+
+Revenir totalement sur une version précédente de la branche
+`git reset` => **unsafe car supprime l'historique** 
 
 `git diff`
 
