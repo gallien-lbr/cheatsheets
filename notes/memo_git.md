@@ -58,6 +58,16 @@ Ajouter une remote (le nom "origin" est choisi par convention)
 
 `git remote add origin https://github.com/{username}/{projectname}.git`
 
+## When creating a new branch and pushing It to origin (remote)
+A shortcut, which doesn't depend on remembering the syntax for git branch --set-upstream 1 is to do:
+```
+git push -u origin my_branch
+```
+... the first time that you push that branch. Or, to push to the current branch to a branch of the same name (handy for an alias):
+```
+git push -u origin HEAD
+```
+
 # En bref
 Pour rappel, les fichiers passent par 3 "étapes" :
 
