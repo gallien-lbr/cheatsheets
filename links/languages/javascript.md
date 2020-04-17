@@ -28,3 +28,7 @@
 - [DropZone](https://www.dropzonejs.com/)
 - [GSAP](https://greensock.com/gsap/)
 - [SocketIO](https://socket.io/)
+
+## jQuery
+- [You might not need Jquery](http://youmightnotneedjquery.com/)
+- [Why I'm still using jQuery in 2019](https://www.arp242.net/jquery.html?ref=devawesome.io)

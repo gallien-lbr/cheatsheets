@@ -2,16 +2,16 @@
 
 ## Links folder
 
-- Curated list of online favourite tools 
+- Curated list of my favourites tools 
 - JavaScript curated list of tutorials and websites
 - Resources for software engineering
 - Online articles, blog etc.
 - Learning resources
-- Plenty of others good things ...
+- Plenty of others good links ...
 
 ## Notes
 -  Cheatsheet on doctrine and symfony 
--  Memo about EcamScript 🤯
+-  Memo about EcmaScript 🤯
 
 
 ## Also worth visiting 
@@ -27,3 +27,6 @@ Hub for free references for devs
 
 Roadmap 4 developpers
 - https://github.com/kamranahmedse/developer-roadmap
+
+- Sonar source analyzer (vulnerabilities found for many languages)
+- https://rules.sonarsource.com/

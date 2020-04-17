@@ -100,14 +100,6 @@
 - [Ask Google to ReIndex site](http://www.google.com/ping?sitemap=https://example.com/sitemap.xml)
 - [Outil de test LD Google](https://search.google.com/structured-data/testing-tool?hl=fr)
 
-## FB Chat
-- [Lien 1](https://developers.facebook.com/docs/messenger-platform/discovery/customer-chat-plugin/)
-- [Lien 2](https://developers.facebook.com/docs/messenger-platform/discovery/customer-chat-plugin/sdk#install)
-
-## Freelance (fr)
-
-- [Tiime AE](https://www.tiime-ae.fr/)
-
 ## SEO, Perf Analysis
 - [SEO Quake](https://www.seoquake.com/index.html)
 - [SEM Rush](https://www.semrush.com/)

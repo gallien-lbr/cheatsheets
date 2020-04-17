@@ -1,9 +1,10 @@
 # Articles : blogs, inspiration, learning platform etc
 
-## Engineering 
+## Veille techno. généraliste 
 - [L'usine Digitale](https://www.usine-digitale.fr/)
 - [Gartner](https://www.gartner.com/en)
 - [FrenchWeb](https://www.frenchweb.fr/)
+- [Le Monde Informatique](https://www.lemondeinformatique.fr/)
 
 ## Webdesign Inspiration & Trends
 - [Dribble](https://dribbble.com/)
@@ -19,12 +20,7 @@
 
 
 ## Articles
-- [A list apart](https://alistapart.com/)
+- [A list apart - Design, Dev, and best practices](https://alistapart.com/)
 - [HackerNoon](https://hackernoon.com)
 - [Blog Octo](https://blog.octo.com)
 - [Dev Awesome](https://devawesome.io)
-
-
-## Hot topics 
-- [You might not need Jquery](http://youmightnotneedjquery.com/)
-- [Why I'm still using jQuery in 2019](https://www.arp242.net/jquery.html?ref=devawesome.io)
