@@ -13,7 +13,6 @@
 -  Cheatsheet on doctrine and symfony 
 -  Memo about EcmaScript 🤯
 
-
 ## Also worth visiting 
 
 Free for dev repo:
@@ -28,5 +27,5 @@ Hub for free references for devs
 Roadmap 4 developpers
 - https://github.com/kamranahmedse/developer-roadmap
 
-- Sonar source analyzer (vulnerabilities found for many languages)
+Sonar source analyzer (vulnerabilities found for many languages)
 - https://rules.sonarsource.com/
