@@ -10,7 +10,10 @@
 - [DEV Community 👩‍💻👨‍💻](https://dev.to/)
 - [Web Fundamentals by Google, covers many web dev topics](https://developers.google.com/web)
 
-## French press
+## Books
+- [Apress](https://www.apress.com/fr)
+
+## French books
 - [ENI Editions](www.editions-eni.fr)
 - [Ed. Diamond - Linux Magazine](https://boutique.ed-diamond.com/)
 
