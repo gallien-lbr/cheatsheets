@@ -10,6 +10,10 @@
 - [DEV Community 👩‍💻👨‍💻](https://dev.to/)
 - [Web Fundamentals by Google, covers many web dev topics](https://developers.google.com/web)
 
+## French press
+- [ENI Editions](www.editions-eni.fr)
+- [Ed. Diamond - Linux Magazine](https://boutique.ed-diamond.com/)
+
 ## Premium learning courses ($$)
 - [Udemy - Cours en ligne - Apprenez ce que vous voulez, à votre rythme](https://www.udemy.com/)
 - [Coursera](https://www.coursera.org/)
