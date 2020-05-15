@@ -53,6 +53,10 @@ docker-compose down
 
 # Statut de la stack
 docker-compose ps
+
+# Reconstruire une image 
+docker-compose build
+docker-compose up --build
 ```
 
 ## Run basique d'une image de demo (sans paramètre ou flag)
