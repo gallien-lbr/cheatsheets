@@ -91,8 +91,8 @@ docker run -v C:/www/stations/src:/app -v C:/www/stations/tmp:/app/data --env-fi
 docker run -d -v mariadb:/var/lib/mysql -p 3307:3306 --name mariadb -e MYSQL_ROOT_PASSWORD=root -d mariadb:10.2
 ```
 
-##Volumes
-### Créer un volume docker pour persister les données d'une session à l'autre 
+## Volumes (persistance des données)
+### Créer un volume docker  = persister les données d'une session à une autre 
 ```bash
 docker volume create postgres
 docker volume create mariadb
