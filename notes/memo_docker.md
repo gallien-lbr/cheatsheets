@@ -24,6 +24,9 @@ docker rename CONTAINER NEW_NAME
 # Liste les images du système
 docker image
 
+# Supprimer une image
+docker rmi nom_image
+
 # Montrer l'historique d'une image
 docker history [image_name]
 
