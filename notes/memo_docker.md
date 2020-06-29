@@ -48,6 +48,9 @@ Docker compose permet de définir et lancer simultanément plusieurs containers 
 # Lancer un stack de containers docker (flag -d = en detached [tâche de fond])
 docker-compose up -d 
 
+# Arrêter la stack de container *sans* supprimer les données
+docker-compose stop
+
 # Arrêter un stack de containers
 docker-compose down 
 
