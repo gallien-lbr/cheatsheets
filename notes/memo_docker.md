@@ -52,7 +52,7 @@ docker-compose up -d
 docker-compose stop
 
 # Arrêter un stack de containers
-docker-compose down 
+docker-compose down
 
 # Arrêter et supprimer les volumes
 docker-compose down -v
