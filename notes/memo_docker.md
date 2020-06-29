@@ -54,6 +54,12 @@ docker-compose stop
 # Arrêter un stack de containers
 docker-compose down 
 
+# Arrêter et supprimer les volumes
+docker-compose down -v
+
+# Arrêter un container en supprimer le volume
+docker-compose rm -v NAME_CONTAINER
+
 # Statut de la stack
 docker-compose ps
 
