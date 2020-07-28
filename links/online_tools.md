@@ -47,8 +47,9 @@
 - [Figma](https://www.figma.com/)
 - [MyDevice.io - ViewPort size etc.](https://www.mydevice.io/)
 - [Moqups](https://moqups.com/)
-- [Draw](https://www.draw.io/)
+- [Draw.io](https://www.draw.io/)
 - [Mockflow](https://mockflow.com)
+- [Gloomaps](https://www.gloomaps.com/)
 
 
 ## Project Management
