@@ -5,6 +5,7 @@
 - [Gartner](https://www.gartner.com/en)
 - [FrenchWeb](https://www.frenchweb.fr/)
 - [Le Monde Informatique](https://www.lemondeinformatique.fr/)
+- [Dev.to](https://dev.to/)
 
 ## Webdesign Inspiration & Trends
 - [Dribble](https://dribbble.com/)
