@@ -24,3 +24,6 @@
 - [HackerNoon](https://hackernoon.com)
 - [Blog Octo](https://blog.octo.com)
 - [Dev Awesome](https://devawesome.io)
+
+## WebDesign
+- [CrazyEgg.com Website design best practices](https://www.crazyegg.com/blog/website-design-best-practices/)
