@@ -93,6 +93,7 @@
 - [Jotforms](https://www.jotform.com)
 
 ## Google Tools for webmasters (SEO, Perf, Stats etc.)
+- [Google Web Fundamentals](https://developers.google.com/web)
 - [Google list of debug tools](https://developers.google.com/search/tools/?hl=fr)
 - [Google Analytics - Traffic monitoring](https://analytics.google.com/analytics/web)
 - [Google Search Console](https://search.google.com/search-console/about?hl=fr)
