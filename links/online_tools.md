@@ -29,7 +29,7 @@
 - [undraw](https://undraw.co/illustrations)
 - [pixabay](https://pixabay.com/)
 - [unsplash](https://unsplash.com/)
-- [pexels] (https://www.pexels.com/fr-fr/)
+- [pexels](https://www.pexels.com/fr-fr/)
 - [A list of free banners](https://blog.bannersnack.com/free-banner-images/)
 
 ## Logo , Icons etc.
