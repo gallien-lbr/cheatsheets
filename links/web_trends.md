@@ -6,6 +6,7 @@
 - [FrenchWeb](https://www.frenchweb.fr/)
 - [Le Monde Informatique](https://www.lemondeinformatique.fr/)
 - [Dev.to](https://dev.to/)
+- [Dec Connected](devconnected.com)
 
 ## Webdesign Inspiration & Trends
 - [Dribble](https://dribbble.com/)
