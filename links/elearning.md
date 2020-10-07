@@ -10,6 +10,10 @@
 - [DEV Community 👩‍💻👨‍💻](https://dev.to/)
 - [Web Fundamentals by Google, covers many web dev topics](https://developers.google.com/web)
 
+
+## French sites
+- [Pierre Giraud](https://www.pierre-giraud.com/)
+
 ## Books
 - [Apress](https://www.apress.com/fr)
 
