@@ -70,6 +70,7 @@
 - [regex101 - regex tester](https://regex101.com/)
 
 ## Database schema, UML
+- [=> YUML.me](https://yuml.me/diagram/scruffy/class/samples)
 - [Diagrams](https://www.quickdatabasediagrams.com/)
 - [Miro](https://miro.com/templates/uml-diagram/)
 
