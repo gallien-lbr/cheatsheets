@@ -1,5 +1,8 @@
 # Links - Web Development Tools & Online Resources
 
+## Online sandboxes for demo 
+- [Codepen](https://codepen.io/)
+- [JSFidle](https://jsfiddle.net/)
 
 ## JSON Mock API / Validator
 - [JSON Placeholder](https://jsonplaceholder.typicode.com/)
