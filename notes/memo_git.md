@@ -44,7 +44,7 @@ Ajouter une remote (le nom "origin" est choisi par convention)
 `git remote add origin https://github.com/{username}/{projectname}.git`
 
 
-### Cas pratiques: 
+## Jean-Michel Cas-Pratique : 
 
 #### Annuler l'ajout d'un fichier à la staging area avant un commit
 ```
@@ -54,8 +54,10 @@ git reset jauraispasdulajouter.txt
 
 #### Quand on crée une branche et qu'on la publie vers l'origin (remote)
 
-... the first time that you push that branch. Or, to push to the current branch to a branch of the same name (handy for an alias):
+
 ```
+# ... the first time that you push that branch. 
+# Or, to push to the current branch to a branch of the same name (handy for an alias):
 git push -u origin HEAD
 ```
 
