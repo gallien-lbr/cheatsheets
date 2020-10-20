@@ -40,7 +40,8 @@ Ajouter une remote (le nom "origin" est choisi par convention)
 git push -u origin HEAD
 ```
 
-* https://onlywei.github.io/explain-git-with-d3/#deletebranches
+* https://onlywei.github.io/explain-git-with-d3
+* https://git-school.github.io/visualizing-git/
 * prés. méthodes retours arrières https://www.youtube.com/watch?v=RIYrfkZjWmA
 * https://marklodato.github.io/visual-git-guide/index-en.html
 * https://www.git-tower.com/blog/git-cheat-sheet/
