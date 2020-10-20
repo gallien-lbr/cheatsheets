@@ -45,7 +45,7 @@ When you run git commit, Git creates a new commit and moves the branch that HEAD
 3 types de reset différents existent (le soft, mixed et le hard)
 
 - `--hard` : "This is the one that can really make you lose work, because it modifies your work tree" => ré-écrit le Working Directory donc on perd tout
-- `--mixed` : 
+- `--mixed` : c'est le comportement de reset par défaut (implicite si pas d'option)
 - `--soft` : déplace uniquement le pointeur HEAD (efface le(s) commit(s)) sur un commit. Doesn't touch the index or work tree
 
 ## Schéma fonctionnement basique
