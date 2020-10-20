@@ -1,4 +1,4 @@
-# Git - Mémo des commandes
+# Git - Mémo fonctionnement
 
 ## Commandes de base 
 
@@ -25,9 +25,9 @@ git reset --hard means git reset --hard HEAD, i.e. don't change the branch but g
 |git command|action|
 |-----------------------------|--------------|
 |`add`|Adds files to the Git index (stage or cache are synonyms for this. When a file is added in the index, it will be "tracked" by Git.|
-|`git add .` | Ajoute les nouveaux fichiers et les fichiers modifiés (sans tenir compte des fichiers effacés) |
-|`git add -u`| Ajoute les fichiers modifiés et les fichiers supprimés  (sans tenir compte des nouveaux fichiers)|
-|`git add -A`| Ajoute l'ensemble des fichiers : modifiés, nouveaux fichiers et fichiers supprimés| 
+|`git add .` | Ajoute les nouveaux fichiers et les fichiers modifiés (**sans tenir compte des fichiers effacés**) |
+|`git add -u`| Ajoute les fichiers modifiés et les fichiers supprimés  (**sans tenir compte des nouveaux fichiers**)|
+|`git add -A`| Ajoute l'ensemble des fichiers : modifiés, nouveaux fichiers et fichiers supprimés (mix de `git add .` et `git add -u`)| 
 |`commit`| Saves the index to a new commit with a message describing the applied changes (log).|
 
 ## Schéma fonctionnement basique
@@ -36,8 +36,8 @@ git reset --hard means git reset --hard HEAD, i.e. don't change the branch but g
 
 Pour rappel, les fichiers passent par 3 "étapes" :
 
-- espace de travail (fichiers pas encore "addés")
-- Index (ou stage) (fichiers "addés" mais pas "commités")
+- Espace de travail (fichiers pas encore "addés"), appelé Worktree ou Working directory
+- Index (ou staging area) (fichiers "addés" mais pas "commités"), c'est ICI que se prépare les futurs commit
 - HEAD (fichiers "commités")
 
 ## HEAD , késako ?
