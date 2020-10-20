@@ -123,3 +123,5 @@ git push -u origin HEAD
 * https://stackoverflow.com/questions/2221658/whats-the-difference-between-head-and-head-in-git/12527561
 * https://stackoverflow.com/questions/2221658/whats-the-difference-between-head-and-head-in-git 
 
+Le link sur reset utile à lire : 
+* https://git-scm.com/book/en/v2/Git-Tools-Reset-Demystified
