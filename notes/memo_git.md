@@ -36,7 +36,7 @@ git reset --hard means git reset --hard HEAD, i.e. don't change the branch but g
 
 Pour rappel, les fichiers passent par 3 "étapes" :
 
-- **Espace de travail** (fichiers pas encore "addés"), aussi appelé le Work tree ou Working directory, c'est l'ensemble des fichiers 
+- **Espace de travail** (fichiers pas encore "addés"), = image bac à sable (sandbox) => appelé le Work tree ou Working directory, c'est l'ensemble des fichiers 
 - **Index** (ou staging area) (fichiers "addés" mais pas "commités"), c'est ICI que se prépare les futurs commit
 - **Le (local) repository** HEAD (fichiers "commités")
 
