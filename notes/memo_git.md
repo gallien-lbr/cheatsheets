@@ -44,3 +44,4 @@ git push -u origin HEAD
 * prés. méthodes retours arrières https://www.youtube.com/watch?v=RIYrfkZjWmA
 * https://marklodato.github.io/visual-git-guide/index-en.html
 * https://www.git-tower.com/blog/git-cheat-sheet/
+* https://dev.to/sublimegeek/git-staging-area-explained-like-im-five-1anh
