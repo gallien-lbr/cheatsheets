@@ -12,7 +12,7 @@
 | `checkout -- .` | Revenir sur une version précédente de la branche|
 |`checkout 1eab2` | Revenir à un commit spécifique|
 |`revert ID`| Revert (créer un nouveau commit qui réapplique uniquement les modifs du commit de l'ID )|
-|`reset` | Revenir totalement sur une version précédente de la branche **unsafe car supprime l'historique** |
+|`reset --hard` | Revenir totalement sur une version précédente de la branche **unsafe car supprime l'historique** git reset --hard means git reset --hard HEAD, i.e. don't change the branch but get rid of all local changes |
 |`diff`|TODO|
 |`remote -v`| Liste les différentes remotes|
 |`push -u origin my_branch`|A shortcut, which doesn't depend on remembering the syntax for `git branch --set-upstream 1 is to do:`
