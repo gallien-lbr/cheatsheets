@@ -39,7 +39,7 @@ Référence vers le dernier commit de la branche courante
 * https://stackoverflow.com/questions/2304087/what-is-head-in-git
 * https://stackoverflow.com/questions/2221658/whats-the-difference-between-head-and-head-in-git/12527561
 
-
+## Remote origin, késako ?
 Ajouter une remote (le nom "origin" est choisi par convention)
 `git remote add origin https://github.com/{username}/{projectname}.git`
 
@@ -52,8 +52,18 @@ git reset jauraispasdulajouter.txt
 ```
 => tout retirer de la staging area = `git reset`
 
-#### Quand on crée une branche et qu'on la publie vers l'origin (remote)
+#### Je suis un boulet et je veux annuler mon dernier commit 
 
+```
+git commit -m "Waw ça marche cool !"
+# en fait j'ai fait de la merde 
+# j'enlève le dernier commit et ça me remet tout mes fichiers commit en unstaged
+git reset HEAD~
+git add monSuperCode.pouet
+git commit -m "ça marche vraiment"
+```
+
+#### Quand on crée une branche et qu'on la publie vers l'origin (remote)
 
 ```
 # ... the first time that you push that branch. 
