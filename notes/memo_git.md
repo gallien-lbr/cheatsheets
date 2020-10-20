@@ -51,8 +51,8 @@ When you run git commit, Git creates a new commit and moves the branch that HEAD
 ### Tilde et caret 
 Rules of thumb
 
-Use **~** most of the time — to go back a number of generations, usually what you want
-Use **^** on merge commits — because they have two or more (immediate) parents
+- Use **~** most of the time — to go back a number of generations, usually what you want
+- Use **^** on merge commits — because they have two or more (immediate) parents
 
 ## Schéma fonctionnement basique
 
