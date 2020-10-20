@@ -22,6 +22,8 @@ git reset --hard means git reset --hard HEAD, i.e. don't change the branch but g
 
 ## Commiter des fichiers
 
+|git command|action|
+|-----------------------------|--------------|
 |`add`|Adds files to the Git index (stage or cache are synonyms for this. When a file is added in the index, it will be "tracked" by Git.|
 |`git add .` | Ajoute les nouveaux fichiers et les fichiers modifiés (sans tenir compte des fichiers effacés) |
 |`git add -u`| Ajoute les fichiers modifiés et les fichiers supprimés  (sans tenir compte des nouveaux fichiers)|
