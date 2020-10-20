@@ -33,6 +33,10 @@ Pour rappel, les fichiers passent par 3 "étapes" :
 `HEAD`
 Référence vers le dernier commit de la branche courante
 
+https://stackoverflow.com/questions/2304087/what-is-head-in-git
+https://stackoverflow.com/questions/2221658/whats-the-difference-between-head-and-head-in-git/12527561
+
+
 Ajouter une remote (le nom "origin" est choisi par convention)
 `git remote add origin https://github.com/{username}/{projectname}.git`
 
