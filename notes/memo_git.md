@@ -44,6 +44,10 @@ When you run git commit, Git creates a new commit and moves the branch that HEAD
 
 3 types de reset différents existent (le soft, mixed et le hard)
 
+- HARD : "This is the one that can really make you lose work, because it modifies your work tree" => ré-écrit le Working Directory donc on perd tout
+- MIXED : 
+- SOFT : déplace uniquement le pointeur HEAD (efface le(s) commit(s)) sur un commit
+
 ## Schéma fonctionnement basique
 
 ![Git](git_workflow.png)
@@ -54,18 +58,19 @@ Pour rappel, les fichiers passent par 3 "étapes" :
 - **Index** (ou staging area) (fichiers "addés" mais pas "commités"), c'est ICI que se prépare les futurs commit
 - **Le (local) repository** HEAD (fichiers "commités")
 
-## HEAD , késako ?
+## HEAD , définition
 `HEAD`
+
 **Concept clé:** C'est LA Référence (le fameux pointeur) vers le **dernier commit** de la branche courante.
-On peut le voir comme la référence du dernier commit de la branche, et le parent du futur commit à venir sur cette branche.
+On peut le voir comme la référence du dernier commit de la branche, et aussi le parent du futur commit à venir sur cette branche.
 
 
-## Remote origin, késako ?
+## Remote origin,  définition
 Ajouter une remote (le nom "origin" est choisi par convention)
 `git remote add origin https://github.com/{username}/{projectname}.git`
 
 
-## Jean-Michel Cas-Pratique : 
+## Cas fréquents : 
 
 #### Annuler l'ajout d'un fichier à la staging area avant un commit
 ```
@@ -73,7 +78,7 @@ git reset jauraispasdulajouter.txt
 ```
 => tout retirer de la staging area = `git reset`
 
-#### Je suis un boulet et je veux annuler mon dernier commit 
+#### je veux annuler mon dernier commit 
 
 ```
 git commit -m "Waw ça marche cool !"
@@ -84,7 +89,7 @@ git add monSuperCode.pouet
 git commit -m "ça marche vraiment"
 ```
 
-#### Je veux juste changer mon message de commit car je suis un perfectioniste
+#### Je veux changer mon message de commit
 ```
 git commit --ammend
 ```
@@ -97,7 +102,7 @@ git commit --ammend
 git push -u origin HEAD
 ```
 
-## Liens en vrac, la farfouille du Git
+## Liens en vrac
 * https://onlywei.github.io/explain-git-with-d3
 * https://git-school.github.io/visualizing-git/
 * prés. méthodes retours arrières https://www.youtube.com/watch?v=RIYrfkZjWmA
