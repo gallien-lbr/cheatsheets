@@ -48,6 +48,12 @@ When you run git commit, Git creates a new commit and moves the branch that HEAD
 - `--mixed` : c'est le comportement de reset par défaut (implicite si pas d'option)
 - `--soft` : déplace uniquement le pointeur HEAD (efface le(s) commit(s)) sur un commit. Doesn't touch the index or work tree
 
+### Tilde et caret 
+Rules of thumb
+
+Use **~** most of the time — to go back a number of generations, usually what you want
+Use **^** on merge commits — because they have two or more (immediate) parents
+
 ## Schéma fonctionnement basique
 
 ![Git](git_workflow.png)
@@ -115,4 +121,5 @@ git push -u origin HEAD
 * https://stackoverflow.com/questions/2530060/in-plain-english-what-does-git-reset-do
 * https://stackoverflow.com/questions/2304087/what-is-head-in-git
 * https://stackoverflow.com/questions/2221658/whats-the-difference-between-head-and-head-in-git/12527561
+* https://stackoverflow.com/questions/2221658/whats-the-difference-between-head-and-head-in-git 
 
