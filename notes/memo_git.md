@@ -63,6 +63,11 @@ git add monSuperCode.pouet
 git commit -m "ça marche vraiment"
 ```
 
+#### Je veux juste changer mon message de commit car je suis un perfectioniste
+```
+git commit --ammend
+```
+
 #### Quand on crée une branche et qu'on la publie vers l'origin (remote)
 
 ```
@@ -71,7 +76,7 @@ git commit -m "ça marche vraiment"
 git push -u origin HEAD
 ```
 
-## Liens
+## Liens en vrac, la farfouille du Git
 * https://onlywei.github.io/explain-git-with-d3
 * https://git-school.github.io/visualizing-git/
 * prés. méthodes retours arrières https://www.youtube.com/watch?v=RIYrfkZjWmA
