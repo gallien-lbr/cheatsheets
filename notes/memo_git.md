@@ -1,12 +1,10 @@
-# Git - Mémo des commandes relou
+# Git - Mémo des commandes
 
 ## Commandes de base 
 
 |git command|action|
 |-----------------------------|--------------|
 |`init`|This command initialises the directory where it is executed as a Git project.Concretely, this will create a hidden ".git" directory containing all the necessary files for Git to function and to follow the modifications made inside root directory|
-|`add`|Adds files to the Git index (stage or cache are synonyms for this. When a file is added in the index, it will be "tracked" by Git.|
-|`commit`| Saves the index to a new commit with a message describing the applied changes (log).|
 |`status`|Displays files with differences between indexes and HEADs, those with differences between the working directory and the index as well as non-tracked files|
 |`branch`|List, create or delete a branch.|
 |`checkout` |Allows you to move from one branch to another (and many other things)|
@@ -21,6 +19,14 @@ git reset --hard means git reset --hard HEAD, i.e. don't change the branch but g
 |`push -u origin my_branch`|A shortcut, which doesn't depend on remembering the syntax for `git branch --set-upstream 1 is to do:`
 |`push origin --delete branch_name`| delete a branch already pushed|
 |`cherry-pick`| récupérer les modifs à partir d'un certain commits (sur une nouvelle branche)|
+
+## Commiter des fichiers
+
+|`add`|Adds files to the Git index (stage or cache are synonyms for this. When a file is added in the index, it will be "tracked" by Git.|
+|`git add .` | Ajoute les nouveaux fichiers et les fichiers modifiés (sans tenir compte des fichiers effacés) |
+|`git add -u`| Ajoute les fichiers modifiés et les fichiers supprimés  (sans tenir compte des nouveaux fichiers)|
+|`git add -A`| Ajoute l'ensemble des fichiers : modifiés, nouveaux fichiers et fichiers supprimés| 
+|`commit`| Saves the index to a new commit with a message describing the applied changes (log).|
 
 ## Schéma fonctionnement basique
 
