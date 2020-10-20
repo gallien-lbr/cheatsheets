@@ -48,8 +48,6 @@ Pour rappel, les fichiers passent par 3 "étapes" :
 `HEAD`
 Référence vers le dernier commit de la branche courante
 
-* https://stackoverflow.com/questions/2304087/what-is-head-in-git
-* https://stackoverflow.com/questions/2221658/whats-the-difference-between-head-and-head-in-git/12527561
 
 ## Remote origin, késako ?
 Ajouter une remote (le nom "origin" est choisi par convention)
@@ -99,3 +97,6 @@ git push -u origin HEAD
 * https://ahhda.github.io/git/architecture/2020/04/19/git-internal-architecture.html
 * https://stackoverflow.com/questions/927358/how-do-i-undo-the-most-recent-local-commits-in-git
 * https://stackoverflow.com/questions/2530060/in-plain-english-what-does-git-reset-do
+* https://stackoverflow.com/questions/2304087/what-is-head-in-git
+* https://stackoverflow.com/questions/2221658/whats-the-difference-between-head-and-head-in-git/12527561
+
