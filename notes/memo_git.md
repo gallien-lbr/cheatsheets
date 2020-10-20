@@ -44,9 +44,12 @@ When you run git commit, Git creates a new commit and moves the branch that HEAD
 
 3 types de reset différents existent (le soft, mixed et le hard)
 
-- `--hard` : "This is the one that can really make you lose work, because it modifies your work tree" => ré-écrit le Working Directory donc on perd tout
-- `--mixed` : c'est le comportement de reset par défaut (implicite si pas d'option)
-- `--soft` : déplace uniquement le pointeur HEAD (efface le(s) commit(s)) sur un commit. Doesn't touch the index or work tree
+- **`--hard`** : "This is the one that can really make you lose work, because it modifies your work tree" => ré-écrit le Working Directory donc on perd tout
+
+- **`--mixed`** : c'est le comportement de reset par défaut (implicite si pas d'option) 
+=> resets the index, but not the work tree. This means all your files are intact, but any differences between the original commit and the one you reset to will show up as local modifications (or untracked files) with git status. Use this when you realize you made some bad commits, but you want to keep all the work you've done so you can fix it up and recommit. In order to commit, you'll have to add files to the index again (git add ...).
+
+- **`--soft`** : déplace uniquement le pointeur HEAD (efface le(s) commit(s)) sur un commit. Doesn't touch the index or work tree
 
 ### Tilde et caret 
 Rules of thumb
