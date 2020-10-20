@@ -30,6 +30,7 @@ Pour rappel, les fichiers passent par 3 "étapes" :
 - Index (ou stage) (fichiers "addés" mais pas "commités")
 - HEAD (fichiers "commités")
 
+## HEAD 
 `HEAD`
 Référence vers le dernier commit de la branche courante
 
@@ -64,3 +65,5 @@ git reset jauraispasdulajouter.txt
 * https://dev.to/sublimegeek/git-staging-area-explained-like-im-five-1anh
 * https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository
 * https://ahhda.github.io/git/architecture/2020/04/19/git-internal-architecture.html
+* https://stackoverflow.com/questions/927358/how-do-i-undo-the-most-recent-local-commits-in-git
+* https://stackoverflow.com/questions/2530060/in-plain-english-what-does-git-reset-do
