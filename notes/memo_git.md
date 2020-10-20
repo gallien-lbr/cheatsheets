@@ -27,7 +27,7 @@ Pour rappel, les fichiers passent par 3 "étapes" :
 - Index (ou stage) (fichiers "addés" mais pas "commités")
 - HEAD (fichiers "commités")
 
-Branche `HEAD`
+`HEAD`
 Référence vers le dernier commit de la branche courante
 
 Ajouter une remote (le nom "origin" est choisi par convention)
