@@ -47,6 +47,15 @@ Ajouter une remote (le nom "origin" est choisi par convention)
 git push -u origin HEAD
 ```
 
+### Cas pratiques : 
+
+#### Annuler l'ajout d'un fichier à la staging area avant un commit
+```
+git reset jauraispasdulajouter.txt
+```
+=> tout retirer de la staging = `git reset`
+
+## Liens
 * https://onlywei.github.io/explain-git-with-d3
 * https://git-school.github.io/visualizing-git/
 * prés. méthodes retours arrières https://www.youtube.com/watch?v=RIYrfkZjWmA
