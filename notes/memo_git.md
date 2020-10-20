@@ -52,7 +52,8 @@ Pour rappel, les fichiers passent par 3 "étapes" :
 
 ## HEAD , késako ?
 `HEAD`
-Référence vers le dernier commit de la branche courante
+Référence (le fameux pointeur) vers le dernier commit de la branche courante.
+On peut le voir comme la référence du dernier commit de la branche, et le parent du futur commit à venir sur cette branche.
 
 
 ## Remote origin, késako ?
