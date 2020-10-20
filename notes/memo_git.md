@@ -1,4 +1,4 @@
-# Git - Mémo perso. d'un système de gestion de version pas comme les autres
+# Git - Mémo des commandes relou
 
 ## Commandes de base 
 
