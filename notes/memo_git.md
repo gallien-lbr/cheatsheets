@@ -46,3 +46,4 @@ git push -u origin HEAD
 * https://marklodato.github.io/visual-git-guide/index-en.html
 * https://www.git-tower.com/blog/git-cheat-sheet/
 * https://dev.to/sublimegeek/git-staging-area-explained-like-im-five-1anh
+* https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository
