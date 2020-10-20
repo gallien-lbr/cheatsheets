@@ -19,6 +19,9 @@
 |`push origin --delete branch_name`| delete a branch already pushed|
 |`cherry-pick`| récupérer les modifs à partir d'un certain commits (sur une nouvelle branche)|
 
+## Schema
+
+![Git](git_workflow.png)
 
 ## En bref
 Pour rappel, les fichiers passent par 3 "étapes" :
