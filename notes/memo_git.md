@@ -42,3 +42,4 @@ git push -u origin HEAD
 
 * https://onlywei.github.io/explain-git-with-d3/#deletebranches
 * prés. méthodes retours arrières https://www.youtube.com/watch?v=RIYrfkZjWmA
+* https://marklodato.github.io/visual-git-guide/index-en.html
