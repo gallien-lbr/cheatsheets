@@ -40,6 +40,10 @@ When you checkout a branch, it changes HEAD to point to the new branch ref, popu
 
 When you run git commit, Git creates a new commit and moves the branch that HEAD points to up to it. 
 
+## reset
+
+3 types de reset différents existent (le soft, mixed et le hard)
+
 ## Schéma fonctionnement basique
 
 ![Git](git_workflow.png)
