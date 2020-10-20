@@ -1,5 +1,7 @@
 # Git 
 
+## Commandes de base 
+
 |git command|action|
 |-----------------------------|--------------|
 |`init`|This command initialises the directory where it is executed as a Git project.Concretely, this will create a hidden ".git" directory containing all the necessary files for Git to function and to follow the modifications made inside root directory|
@@ -20,18 +22,17 @@ git reset --hard means git reset --hard HEAD, i.e. don't change the branch but g
 |`push origin --delete branch_name`| delete a branch already pushed|
 |`cherry-pick`| récupérer les modifs à partir d'un certain commits (sur une nouvelle branche)|
 
-## Schema
+## Schéma fonctionnement basique
 
 ![Git](git_workflow.png)
 
-## En bref
 Pour rappel, les fichiers passent par 3 "étapes" :
 
 - espace de travail (fichiers pas encore "addés")
 - Index (ou stage) (fichiers "addés" mais pas "commités")
 - HEAD (fichiers "commités")
 
-## HEAD 
+## HEAD , késako ?
 `HEAD`
 Référence vers le dernier commit de la branche courante
 
@@ -42,20 +43,21 @@ Référence vers le dernier commit de la branche courante
 Ajouter une remote (le nom "origin" est choisi par convention)
 `git remote add origin https://github.com/{username}/{projectname}.git`
 
-### When creating a new branch and pushing It to origin (remote)
+
+### Cas pratiques: 
+
+#### Annuler l'ajout d'un fichier à la staging area avant un commit
+```
+git reset jauraispasdulajouter.txt 
+```
+=> tout retirer de la staging area = `git reset`
+
+#### Quand on crée une branche et qu'on la publie vers l'origin (remote)
 
 ... the first time that you push that branch. Or, to push to the current branch to a branch of the same name (handy for an alias):
 ```
 git push -u origin HEAD
 ```
-
-### Cas pratiques : 
-
-#### Annuler l'ajout d'un fichier à la staging area avant un commit
-```
-git reset jauraispasdulajouter.txt
-```
-=> tout retirer de la staging = `git reset`
 
 ## Liens
 * https://onlywei.github.io/explain-git-with-d3
