@@ -32,7 +32,7 @@ git reset --hard means git reset --hard HEAD, i.e. don't change the branch but g
 
 ##  Que se passe t'il dans la plomberie interne de Git lorsqu'on :
 
-### Checkout
+### checkout
 
 When you checkout a branch, it changes HEAD to point to the new branch ref, populates your index with the snapshot of that commit, then copies the contents of the index into your working Directory.
 
@@ -44,9 +44,9 @@ When you run git commit, Git creates a new commit and moves the branch that HEAD
 
 3 types de reset différents existent (le soft, mixed et le hard)
 
-- HARD : "This is the one that can really make you lose work, because it modifies your work tree" => ré-écrit le Working Directory donc on perd tout
-- MIXED : 
-- SOFT : déplace uniquement le pointeur HEAD (efface le(s) commit(s)) sur un commit
+- `--hard` : "This is the one that can really make you lose work, because it modifies your work tree" => ré-écrit le Working Directory donc on perd tout
+- `--mixed` : 
+- `--soft` : déplace uniquement le pointeur HEAD (efface le(s) commit(s)) sur un commit. Doesn't touch the index or work tree
 
 ## Schéma fonctionnement basique
 
@@ -54,8 +54,8 @@ When you run git commit, Git creates a new commit and moves the branch that HEAD
 
 Pour rappel, les fichiers passent par 3 "étapes" :
 
-- **Espace de travail** (fichiers pas encore "addés"), = image bac à sable (sandbox) => appelé le Work tree ou Working directory, c'est l'ensemble des fichiers 
-- **Index** (ou staging area) (fichiers "addés" mais pas "commités"), c'est ICI que se prépare les futurs commit
+- **Espace de travail** Fichiers pas encore "addés", = image bac à sable (sandbox) => appelé le Work tree ou Working directory, c'est l'ensemble des fichiers 
+- **Index** (aka staging area) Ce sont les fichiers "addés" mais pas "commités", c'est ICI que se prépare les futurs commit
 - **Le (local) repository** HEAD (fichiers "commités")
 
 ## HEAD , définition
