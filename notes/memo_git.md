@@ -30,11 +30,13 @@ git reset --hard means git reset --hard HEAD, i.e. don't change the branch but g
 |`git add -A`| Ajoute l'ensemble des fichiers : modifiés, nouveaux fichiers et fichiers supprimés (mix de `git add .` et `git add -u`)| 
 |`commit`| Saves the index to a new commit with a message describing the applied changes (log).|
 
-## Checkout
+##  Que se passe t'il dans la plomberie interne de Git lorsqu'on :
+
+### Checkout
 
 When you checkout a branch, it changes HEAD to point to the new branch ref, populates your index with the snapshot of that commit, then copies the contents of the index into your working Directory.
 
-## Que se passe t'il dans la plomberie interne de Git lorsqu'on commit 
+### commit 
 
 When you run git commit, Git creates a new commit and moves the branch that HEAD points to up to it. 
 
