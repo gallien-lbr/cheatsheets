@@ -3,7 +3,7 @@
 ## Veille orientée dév
 
 - [Dev.to](https://dev.to/)
-- [Dec Connected](devconnected.com)
+- [Dec Connected](https://devconnected.com)
 - [Best programming languages in 2020](https://fossbytes.com/best-programming-languages-web-development/)
 - [Fullstack Dev roadmap in 2020](https://dev.to/ender_minyard/full-stack-developer-s-roadmap-2k12)
 
