@@ -28,5 +28,6 @@
 - [Dev Awesome](https://devawesome.io)
 - [News YCombinator](https://news.ycombinator.com/news)
 
-## WebDesign
+## Divers
 - [CrazyEgg.com Website design best practices](https://www.crazyegg.com/blog/website-design-best-practices/)
+- [Best programming languages in 2020](https://fossbytes.com/best-programming-languages-web-development/)
