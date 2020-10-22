@@ -1,4 +1,4 @@
-# Articles : blogs, inspiration, learning platform etc
+# Articles : blogs, inspiration, pour faire sa veille
 
 ## Veille techno. généraliste 
 - [L'usine Digitale](https://www.usine-digitale.fr/)
