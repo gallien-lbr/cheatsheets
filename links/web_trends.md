@@ -31,3 +31,4 @@
 ## Divers
 - [CrazyEgg.com Website design best practices](https://www.crazyegg.com/blog/website-design-best-practices/)
 - [Best programming languages in 2020](https://fossbytes.com/best-programming-languages-web-development/)
+- [Fullstack Dev roadmap in 2020](https://dev.to/ender_minyard/full-stack-developer-s-roadmap-2k12)
