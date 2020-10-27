@@ -131,3 +131,4 @@ git push -u origin HEAD
 Sur git scm : 
 * https://git-scm.com/book/en/v2/Git-Tools-Reset-Demystified
 * https://git-scm.com/book/fr/v2/Les-branches-avec-Git-Rebaser-Rebasing
+* https://githowto.com/rebasing
