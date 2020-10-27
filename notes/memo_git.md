@@ -120,12 +120,13 @@ git push -u origin HEAD
 * https://dev.to/sublimegeek/git-staging-area-explained-like-im-five-1anh
 * https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository
 * https://ahhda.github.io/git/architecture/2020/04/19/git-internal-architecture.html
-
+* http://www.dynamic-mess.com/developpement/git-merge-fast-forward-rebase-culture-git/
 * https://stackoverflow.com/questions/927358/how-do-i-undo-the-most-recent-local-commits-in-git
 * https://stackoverflow.com/questions/2530060/in-plain-english-what-does-git-reset-do
 * https://stackoverflow.com/questions/2304087/what-is-head-in-git
 * https://stackoverflow.com/questions/2221658/whats-the-difference-between-head-and-head-in-git/12527561
 * https://stackoverflow.com/questions/2221658/whats-the-difference-between-head-and-head-in-git 
+
 
 Sur git scm : 
 * https://git-scm.com/book/en/v2/Git-Tools-Reset-Demystified
