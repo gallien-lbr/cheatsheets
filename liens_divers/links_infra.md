@@ -16,8 +16,8 @@
 
 
 ## Messages broker
-[Rabbit MQ]
-[Kafka]
+- [Rabbit MQ](https://www.rabbitmq.com/)
+- [Kafka](https://kafka.apache.org/)
 
 ## Monit / Stats
 
