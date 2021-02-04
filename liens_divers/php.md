@@ -4,6 +4,11 @@
 - [Export csv file with stream](https://ondwn.com/en/blog-20190723/)
 - [Php stream](https://stackoverflow.com/questions/5946526/having-problems-reading-writing-the-php-temp-stream)
 
+## Quality tools
+
+- [Grumphp](https://github.com/phpro/grumphp)
+- [Phpcsfixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)
+- [Phpstan](https://github.com/phpstan/phpstan)
 
 ## Learning online
 - [Pierre Giraud - PHP](https://www.pierre-giraud.com/php-mysql-apprendre-coder-cours/)
