@@ -135,6 +135,8 @@ Une sorte de tutoriel/descriptif de construction pour les images, qui contient t
 
 * Chaque instruction du DockerFile crée un `layer`
 
+* La déclaration d'un DockerFile doit commencer par l'instruction "FROM", qui spécifie l'image parent.
+
 # Références
 
 - [OpenClassRoom - Optimisez vos déploiements avec Docker](https://openclassrooms.com/fr/courses/2035766-optimisez-votre-deploiement-en-creant-des-conteneurs-avec-docker)
