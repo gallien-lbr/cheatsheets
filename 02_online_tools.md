@@ -110,8 +110,8 @@
 - [Outil de test LD Google](https://search.google.com/structured-data/testing-tool?hl=fr)
 
 ## Password Managers
-- [https://buttercup.pw/](Buttercup)
-- [https://bitwarden.com/](Bitwarden)
+- [Buttercup](https://buttercup.pw/)
+- [Bitwarden](https://bitwarden.com/)
 
 
 ## SEO, Perf Analysis
