@@ -109,6 +109,11 @@
 - [Ask Google to ReIndex site](http://www.google.com/ping?sitemap=https://example.com/sitemap.xml)
 - [Outil de test LD Google](https://search.google.com/structured-data/testing-tool?hl=fr)
 
+## Password Managers
+- [https://buttercup.pw/](Buttercup)
+- [https://bitwarden.com/](Bitwarden)
+
+
 ## SEO, Perf Analysis
 - [SEO Quake](https://www.seoquake.com/index.html)
 - [SEM Rush](https://www.semrush.com/)
