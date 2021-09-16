@@ -138,6 +138,8 @@ docker exec -it CONTAINER_NAME ash
 
 ## Les DockerFiles
 
+**Objectif : Automatiser la création d'image**
+
 Une sorte de tutoriel/descriptif de construction pour les images, qui contient toutes les commandes nécessaires à la construction d'une image. 
 
 * Ce sont des fichiers texte simples qui contiennent toutes les instructions dont Docker a besoin pour créer une image.
