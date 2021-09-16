@@ -1,6 +1,6 @@
 # Mémento Docker
 
-## Architecture
+## Architecture / Terminologie
 
 * **Moteur Docker (Engine) ou Docker Daemon** = exécuté en mode service
 * **Docker client** = connexion au serveur docker
