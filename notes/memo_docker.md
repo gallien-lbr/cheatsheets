@@ -1,5 +1,14 @@
 # Mémento Docker
 
+## Architecture
+
+* Moteur Docker (Engine) ou Docker Daemon = exécuté en mode service
+* Docker client = connexion au serveur docker
+* Image = contiennent les apps à exécuter
+* Container = instance de l'image en cours d'exécution
+* Registry = Distribution des librairies d'images 
+
+
 ## Commandes utiles
 ```bash
 
