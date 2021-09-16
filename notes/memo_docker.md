@@ -4,7 +4,7 @@
 
 * Moteur Docker (Engine) ou Docker Daemon = exécuté en mode service
 * Docker client = connexion au serveur docker
-* Image = contiennent les apps à exécuter
+* Image = contiennent les apps à exécuter (tjrs en lecture seule / stocké en local / distribué par registry ou construit par le dév)
 * Container = instance de l'image en cours d'exécution
 * Registry = Distribution des librairies d'images 
 
