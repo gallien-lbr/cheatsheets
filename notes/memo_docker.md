@@ -43,8 +43,8 @@ docker history [image_name]
 # Montre les informations relatives à Docker du système hôte
 docker info
 
-# Relancer docker
-systemctl restart docker  
+# Lancer/Relancer le daemon docker
+sudo systemctl [start/restart] docker
 
 # Build : construction d'une image
 docker build
