@@ -9,6 +9,7 @@
 - [SkillValue - Tests Informatiques | IT Development | Missions Freelance](https://skillvalue.com/fr)
 - [DEV Community 👩‍💻👨‍💻](https://dev.to/)
 - [Web Fundamentals by Google, covers many web dev topics](https://developers.google.com/web)
+- [Source making - design patterns](https://sourcemaking.com/design_patterns/)
 
 
 ## French sites
