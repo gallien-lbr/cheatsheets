@@ -1,9 +1,12 @@
 # JavaScript - Notes
 
-Last rev : 17/10/2019
+Last rev : 04/10/2021
 
 ##  📋  Versions
 
+```
+ES Number = Year + 1
+```
 
 |  ES-X | Year  |  AKA  |  Browser support  |
 |---|---|---|---|
