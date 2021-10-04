@@ -41,6 +41,7 @@ ES Number = Year + 1
 * Date.now()
 * Property Getters and Setters
 * New Object Property Methods
+* Template litterals
 ```
 
 ## ✅ ES6 Features
