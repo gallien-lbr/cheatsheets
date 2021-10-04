@@ -11,7 +11,7 @@ ES Number = Year + 1
 |  ES-X | Year  |  AKA  |  Browser support  |
 |---|---|---|---|
 |  **ES5**  | 2009  | .  |  All browsers (including old ones) |
-|  **ES6** | 2015  | ES2015  | Pretty much all recent browser (released after 2016) This is the version you should use | 
+|  **ES6** | 2015  | ES2015  | Pretty much all recent browser (released after 2016) - This is the basic version you can use | 
 |  **ES7** | 2016  | ES2016  | |
 |  **ES8** | 2017  | ES2017  | | 
 |  **ES9** | 2018  | ES2018  | | 
