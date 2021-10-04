@@ -41,7 +41,6 @@ ES Number = Year + 1
 * Date.now()
 * Property Getters and Setters
 * New Object Property Methods
-* Template litterals
 ```
 
 ## ✅ ES6 Features
@@ -60,6 +59,7 @@ ES Number = Year + 1
 * Default parameter values
 * Array.find()
 * Array.findIndex()
+* Template litterals
 ```
 
 ## ✅ ES7 Features	
