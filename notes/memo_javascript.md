@@ -31,7 +31,7 @@ Voir le type : string, number, function etc.
 - String 
 - Symbol (new with ES6)
 
-**Ne pas utiliser le null => null est un object , déconseillé, il vaut mieux utiliser undefined**
+**Ne pas utiliser le null (comparaison if etc..) => `typeof null` est un object. Donc mieux vaut utiliser `undefined`**
 
 ## Mutable data type for items
 
