@@ -53,3 +53,4 @@ Voir le type : string, number, function etc.
 
 ```
 ref: https://blog.devgenius.io/mutable-and-immutable-in-javascript-78a3cbc6187c
+ref : https://hackernoon.com/mutability-and-immutability-in-javascript-explained-in-detail-x7q33ag
