@@ -22,7 +22,7 @@ Typage dynamique. La variable va prendre le type en fonction de la valeur qu’o
 ## Fonction `typeof`
 Voir le type : string, number, function etc.
 
-## Primitive data types (immutable)
+## Primitive data types , value type (immutable)
 
 - Boolean
 - Null
