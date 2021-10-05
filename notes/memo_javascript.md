@@ -33,9 +33,14 @@ Voir le type : string, number, function etc.
 
 **Ne pas utiliser le null (comparaison if etc..) => `typeof null` est un object. Donc mieux vaut utiliser `undefined`**
 
-## Mutable data type for items
+## Reference type (mutable)
 
 - Object
+- Array
+- Function
+- [...]
+- Date
+- Regex
 
 ## Falsy values (evaluated to false by interpretor)
 - false 
