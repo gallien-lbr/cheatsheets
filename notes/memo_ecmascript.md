@@ -16,7 +16,7 @@ ES Number = Year + 1
 |  **ES8** | 2017  | ES2017  | | 
 |  **ES9** | 2018  | ES2018  | | 
 
-**NB : They release a new version of ECMAScript every year starting in 2015.**
+**NB : Each year a new ECMAScript version is released (starting from 2015).**
 
 ## ✅ ES5 Features
 
