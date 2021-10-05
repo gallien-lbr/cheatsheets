@@ -1,5 +1,12 @@
 # Memo-Javascript
 
+# Utilisation versatile du JS aujourd'hui 
+
+* App mobile / application desktop (Electron)
+* Création de serveur (NodeJs + Express)
+* Scripting bash
+* Single Page Application
+
 # Variables et typage
 ## Let Keyword
 Remplace le `var`. Ne stock pas la valeur dans l’objet window.
