@@ -38,7 +38,7 @@ Voir le type : string, number, function etc.
 - Object
 - Array
 - Function
-- [...]
+ou encore
 - Date
 - Regex
 
