@@ -17,6 +17,7 @@ Constante.  (on défini en constante la case mémoire)
 
 ## Inférence de type
 Typage dynamique. La variable va prendre le type en fonction de la valeur qu’on lui donne. 
+(Gros intérêt du TypeScript qui va permettre un typage strict).
 
 ## Fonction `typeof`
 Voir le type : string, number, function etc.
