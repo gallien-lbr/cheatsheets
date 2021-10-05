@@ -1,5 +1,19 @@
 # Memo-Javascript
 
+# Variables et typage
+## Let Keyword
+Remplace le `var`. Ne stock pas la valeur dans l’objet window.
+On ne peut pas redefinir la variable dans chrome, déclarer 2 fois une variable avec let est interdit (norme ES6, à l'exception de la console de debug de chrome qui l'autorise) 
+
+## Mot clé const
+Constante.  (on défini en constante la case mémoire)
+
+## Inférence de type
+Typage dynamique. La variable va prendre le type en fonction de la valeur qu’on lui donne. 
+
+## Fonction `typeof`
+Voir le type : string, number, function etc.
+
 ## Primitive data types (immutable)
 
 - Boolean
@@ -8,6 +22,8 @@
 - Number
 - String 
 - Symbol (new with ES6)
+
+**Ne pas utiliser le null => null est un object , déconseillé, il vaut mieux utiliser undefined**
 
 ## Mutable data type for items
 
