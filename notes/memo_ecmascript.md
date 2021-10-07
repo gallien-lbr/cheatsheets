@@ -80,7 +80,7 @@ ES Number = Year + 1
 * Await/Async Functions (Brian Terlson)
 * Shared memory and atomics (Lars T. Hansen)
 ```
-
+Spread Operator != Spread operator mais même nommage
 
 References : 
 - https://developer.mozilla.org/en-US/
