@@ -10,6 +10,7 @@
 - [Phpcsfixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)
 - [Phpstan](https://github.com/phpstan/phpstan)
 - [PHPCloc](https://packagist.org/packages/appzcoder/phpcloc)
+- [PSALM](https://psalm.dev/)
 
 ## Learning online
 - [Pierre Giraud - PHP](https://www.pierre-giraud.com/php-mysql-apprendre-coder-cours/)
