@@ -6,11 +6,22 @@
 
 ## Quality tools
 
+## Code Analyzer
 - [Grumphp](https://github.com/phpro/grumphp)
 - [Phpcsfixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)
 - [Phpstan](https://github.com/phpstan/phpstan)
 - [PHPCloc](https://packagist.org/packages/appzcoder/phpcloc)
 - [PSALM](https://psalm.dev/)
+
+## Performance && Debugging
+- [premium BlackFire - SensioLabs](https://www.blackfire.io/)
+- [XDEBUG](https://xdebug.org/)
+- [KCacheGrind](http://kcachegrind.sourceforge.net/html/Home.html)
+
+## Testing 
+- [Symfony doc (FR) "Tester"](https://symfony.com/doc/current/the-fast-track/fr/17-tests.html#ecrire-des-tests-unitaires)
+- [Symfony doc (EN) "Testing"](https://symfony.com/doc/current/testing.html)
+- [PHP Unit](https://phpunit.readthedocs.io)
 
 ## Learning online
 - [Pierre Giraud - PHP](https://www.pierre-giraud.com/php-mysql-apprendre-coder-cours/)
