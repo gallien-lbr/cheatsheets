@@ -6,14 +6,14 @@
 
 ## Quality tools
 
-## Code Analyzer
+### Code Analyzer
 - [Grumphp](https://github.com/phpro/grumphp)
 - [Phpcsfixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)
 - [Phpstan](https://github.com/phpstan/phpstan)
 - [PHPCloc](https://packagist.org/packages/appzcoder/phpcloc)
 - [PSALM](https://psalm.dev/)
 
-## Performance / Debugging
+### Performance / Debugging
 - [premium BlackFire - SensioLabs](https://www.blackfire.io/)
 - [XDEBUG](https://xdebug.org/)
 - [KCacheGrind](http://kcachegrind.sourceforge.net/html/Home.html)
