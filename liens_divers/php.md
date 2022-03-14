@@ -13,7 +13,7 @@
 - [PHPCloc](https://packagist.org/packages/appzcoder/phpcloc)
 - [PSALM](https://psalm.dev/)
 
-## Performance && Debugging
+## Performance / Debugging
 - [premium BlackFire - SensioLabs](https://www.blackfire.io/)
 - [XDEBUG](https://xdebug.org/)
 - [KCacheGrind](http://kcachegrind.sourceforge.net/html/Home.html)
