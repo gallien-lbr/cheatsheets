@@ -21,6 +21,13 @@ Ecriture de tests automatisés pour :
   * Protection contre la régression
   * Résistance au refactoring
  
+ ## Catégories de tests
+ 
+ * **Test unitaire**: s'assurer qu'une partie individuel du code se comporte comme prévue (ex: Une classe, une méthode).
+ * **Test d'intégration**: Tester une combinaison de colasse qui interéagisse entre elles (avec le service container par ex. sur Symfony).
+ * **Test application**: Tester le comportement d'une application complète. Il s'agit de faire une requête HTTP (réel ou simulé via un Crawler),
+ * et tester la réponse attendue. 
+ 
  ## Concepts
  
  ### Taux de couverture du code 
