@@ -28,3 +28,10 @@ Ecriture de tests automatisés pour :
  * Intégrée au cycle de développement, donc exécutée à chaque modification de code.
  * Cible les parties les plus importantes du code.
  * Produit un maximum de valeur pour un minimum de coût de maintenance.
+
+### Mock et doublure de test
+
+Le **mock** fournit une doublure de test, qui permet de substituer un objet dont la classe à tester (ou SUT) est dépendante.
+Nous pouvons coder son comportement et rendre ses sorties prédictibles. 
+
+
