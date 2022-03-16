@@ -3,7 +3,7 @@
 dernière mise à jour : 15/03/2022
 
 ## PHP et PHPUnit
-phpUnit librairie de référence pour le test unitaire.
+phpUnit librairie de référence pour le test unitaire en PHP.
 
 ## Tests sous Symfony 
 
