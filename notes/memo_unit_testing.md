@@ -13,4 +13,12 @@ Ecriture de tests automatisés pour :
   * Protection contre la régression
   * Résistance au refactoring
  
+ ## Concepts
  
+ ### Taux de couverture du code 
+ 
+ Un indicateur basé sur la formule simple : 
+ 
+ `Couverture de test = Nb Lignes Executées (code) / Total de lignes (tu)`
+ 
+ Un indicateur peu fiable, qui ne présume pas de la qualité des tests et des cas testés.
