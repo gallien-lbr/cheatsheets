@@ -68,3 +68,14 @@ Retenir => L'idée est de tester un **comportement** qui a du sens pour le domai
 1) Ecriture d'un test en échec. Cela indique la fonctionnalité à implémenter et comment elle doit se comporter.
 2) Ecriture du code, pour faire passer le test. A ce stade, le code ne doit pas nécessairement être raffiné.
 3) Refactorisation du code. Avec la protection du test unitaire, il est sûr de nettoyer le code pour le rendre davantage lisible et maintenable. 
+
+## Tests impliquant une BDD
+
+Problématique: L'accès aux données est liée à des librairies (PDO, Doctrine etc.) 
+L'extension DBUnit vise à simplifier les tests avec ces librairies.
+
+4 phases d'un TU : 
+* Configurer une fixture. L'état initial de la BDD / de l'application au moment de l'exécution du test. 
+* Expérimenter le système à tester 
+* Vérifier les résultats 
+* Nettoyer
