@@ -44,6 +44,10 @@ Elles sont de différentes natures :
 Ces dépendances nécessitent une setup et une configuration en prérequis de l'exécution des tests.
 Elles peuvent êtres substitués ce qui apporte du confort (ex: vitesse d'exécution des tests).
 
+### Granularité des tests 
 
+Deux écoles existent : école classique VS école de Londres, que l'on peut résumer par :  
+* définition du terme "Unitaire" (unit), est-il constitué par une classe ou un set de classes ? 
 
+L'idée est de tester un **comportement** qui a du sens pour le domaine, idéalement identifiable comme utile pour une personne du métier.
 
