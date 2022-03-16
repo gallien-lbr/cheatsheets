@@ -16,10 +16,10 @@ Des commandes permettent de générer une BDD de tests ou encore, de générer a
 ## Objectifs
 
 Ecriture de tests automatisés pour : 
-  * Feedback rapide
-  * Maintenabilité
-  * Protection contre la régression
-  * Résistance au refactoring
+  * **Feedback rapide**
+  * **Maintenabilité**
+  * **Protection contre la régression**
+  * **Résistance au refactoring**
  
  ## Catégories de tests
  
