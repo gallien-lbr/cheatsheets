@@ -36,7 +36,7 @@ Nous pouvons coder son comportement et rendre ses sorties prédictibles.
 
 ### Les dépendances de test
 Elles sont de différentes natures : 
-* API 
+* API (située hors de l'application)
 * Base de données
 * FileSystem
 * etc.
