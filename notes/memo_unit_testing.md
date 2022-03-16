@@ -22,3 +22,9 @@ Ecriture de tests automatisés pour :
  `Couverture de test = Nb Lignes Executées (code) / Total de lignes (tu)`
  
  Un indicateur peu fiable, qui ne présume pas de la qualité des tests et des cas testés.
+ 
+ ### Définition d'une suite de tests efficace
+ 
+ * Intégrée au cycle de développement
+ * Cible les parties les plus importantes du code 
+ * Produit un maximum de valeur pour un minimum de coût de maintenance
