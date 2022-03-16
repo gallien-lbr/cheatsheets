@@ -43,8 +43,8 @@ Le **mock** fournit une doublure de test, qui permet de substituer un objet dont
 Nous pouvons coder son comportement et rendre ses sorties prédictibles. 
 
 #### Méthodes de création de Mocks spécifique à PHPUnit
-* createMock
-* getMockBuilder (personnalisation de la doublure) 
+* `createMock`
+* `getMockBuilder` (personnalisation de la doublure) 
 
 Par défaut toutes les méthodes de la classe d'origine sont remplacées par une implémentation renvoyant "null".
 
