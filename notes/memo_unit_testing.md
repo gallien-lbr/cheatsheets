@@ -34,4 +34,16 @@ Ecriture de tests automatisés pour :
 Le **mock** fournit une doublure de test, qui permet de substituer un objet dont la classe à tester (ou SUT) est dépendante.
 Nous pouvons coder son comportement et rendre ses sorties prédictibles. 
 
+### Les dépendances de test
+Elles sont de différentes natures : 
+* API 
+* Base de données
+* FileSystem
+* etc.
+
+Ces dépendances nécessitent une setup et une configuration en prérequis de l'exécution des tests.
+Elles peuvent êtres substitués ce qui apporte du confort (ex: vitesse d'exécution des tests).
+
+
+
 
