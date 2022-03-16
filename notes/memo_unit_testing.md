@@ -7,7 +7,7 @@ phpUnit librairie de référence pour le test unitaire.
 
 ## Tests sous Symfony 
 
-Symfony introduit des composants de plus haut niveaux haut dessus de PHPUnit, ex: 
+Symfony introduit des composants de plus haut niveau, au dessus de PHPUnit, ex: 
 * class WebTestCase  
 * class KernelTestCase
 
