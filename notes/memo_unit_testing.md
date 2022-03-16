@@ -84,7 +84,7 @@ Retenir => L'idée est de tester un **comportement** qui a du sens pour le domai
 
 ## Tests impliquant une BDD
 
-**Problématique:** L'accès aux données est liée à des librairies (PDO, Doctrine etc.) 
+**Problématique:** L'accès aux données est liée à des librairies d'abstraction (PDO, Doctrine etc.) 
 L'extension DBUnit vise à simplifier les tests avec ces librairies.
 
 4 phases d'un TU : 
