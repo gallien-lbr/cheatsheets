@@ -8,8 +8,8 @@ phpUnit librairie de référence pour le test unitaire.
 ## Tests sous Symfony 
 
 Symfony introduit des composants de plus haut niveau, au dessus de PHPUnit, ex: 
-* class WebTestCase  
-* class KernelTestCase
+* class `WebTestCase`  
+* class `KernelTestCase`
 
 Des commandes permettent de générer une BDD de tests ou encore, de générer automatiquement la structure des classes de tests (voir documentation Symfony).
 
