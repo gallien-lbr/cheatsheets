@@ -71,7 +71,7 @@ Retenir => L'idée est de tester un **comportement** qui a du sens pour le domai
 
 ## Tests impliquant une BDD
 
-Problématique: L'accès aux données est liée à des librairies (PDO, Doctrine etc.) 
+**Problématique:** L'accès aux données est liée à des librairies (PDO, Doctrine etc.) 
 L'extension DBUnit vise à simplifier les tests avec ces librairies.
 
 4 phases d'un TU : 
@@ -79,3 +79,6 @@ L'extension DBUnit vise à simplifier les tests avec ces librairies.
 * Expérimenter le système à tester 
 * Vérifier les résultats 
 * Nettoyer
+
+NB: Symfony permet de spécifier l'exécution des commandes Doctrine (création BDD, création des schémas/tables, chargement des données) 
+sur l'environnement de test.
