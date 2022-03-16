@@ -26,4 +26,5 @@
 - [Udemy - Cours en ligne - Apprenez ce que vous voulez, à votre rythme](https://www.udemy.com/)
 - [Coursera](https://www.coursera.org/)
 - [FEM](https://frontendmasters.com/)
+- [PluralSight](https://www.pluralsight.com/) 
 
