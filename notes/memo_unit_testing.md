@@ -64,6 +64,7 @@ Retenir => L'idée est de tester un **comportement** qui a du sens pour le domai
 
 TDD: process de conception de logiciels qui repose sur le test pour conduire le développement d'un projet. 
 Le process se dissocie en 4 étapes : 
-* 1) Ecriture d'un test en échec. Cela indique la fonctionnalité à implémenter et comment elle doit se comporter.
-* 2) Ecriture du code, pour faire passer le test. A ce stade, le code ne doit pas nécessairement être raffiné.
-* 3) Refactorisation du code. Avec la protection du test unitaire, il est sûr de nettoyer le code pour le rendre davantage lisible et maintenable. 
+
+1) Ecriture d'un test en échec. Cela indique la fonctionnalité à implémenter et comment elle doit se comporter.
+2) Ecriture du code, pour faire passer le test. A ce stade, le code ne doit pas nécessairement être raffiné.
+3) Refactorisation du code. Avec la protection du test unitaire, il est sûr de nettoyer le code pour le rendre davantage lisible et maintenable. 
