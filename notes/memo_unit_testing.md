@@ -25,6 +25,6 @@ Ecriture de tests automatisés pour :
  
  ### Définition d'une suite de tests efficace
  
- * Intégrée au cycle de développement
- * Cible les parties les plus importantes du code 
- * Produit un maximum de valeur pour un minimum de coût de maintenance
+ * Intégrée au cycle de développement, donc exécutée à chaque modification de code.
+ * Cible les parties les plus importantes du code.
+ * Produit un maximum de valeur pour un minimum de coût de maintenance.
