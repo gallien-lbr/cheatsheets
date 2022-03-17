@@ -131,3 +131,11 @@ Ces méthodes permettent de mettre en place l'environnement de test (setUp) et d
 Le tearDown est utilisé par exemple pour : 
 * Fermer une connexion vers la DB;
 * Supprimer des fichiers crée par le test;
+
+### Nommage d'un test unitaire (PHPUnit) 
+
+Par défaut, les tests automatisés doivent obligatoirement comporter le mot clé **"test"** pour être exécuté par le framework PHPUnit. 
+
+Exemple de proposition de nommage : 
+test[Scenario][Fail|Success]
+Où scénario décrit en anglais le cas testé, et en dernier l'état attendu. 
