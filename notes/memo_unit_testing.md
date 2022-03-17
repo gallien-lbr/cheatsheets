@@ -132,11 +132,23 @@ Le tearDown est utilisé par exemple pour :
 * Fermer une connexion vers la DB;
 * Supprimer des fichiers crée par le test;
 
-### Nommage d'un test unitaire (PHPUnit) 
+### Bonnes pratiques de test unitaire (PHPUnit) 
 
-Par défaut, les tests automatisés doivent obligatoirement comporter le mot clé **"test"** pour être exécuté par le framework PHPUnit. 
+#### Méthode
+Par défaut, les tests automatisés doivent obligatoirement comporter le mot clé **"test"** pour être reconnues et exécutées par le framework PHPUnit. 
 
 Exemple de proposition de nommage : 
+
 `test[Scenario][Fail|Success]`
 
 - Où scénario décrit en anglais le cas testé, et en dernier l'état attendu. 
+
+#### Classe et répertoire de tests
+
+Par convention, on se proposera de nommer la classe de test: 
+`MaClasseTest.php`
+
+On observera qu'il s'agit davantage d'un point de départ, que de restreindre le test à la classe `MaClasse.php` du SUT. 
+Les tests unitaires pourront s'étendre à d'autres classes.
+Il faut garder en tête que l'on cherche à tester un comportement ("Unit of Behaviour") pertinent d'un point de vue Métier. 
+Pas une unité de code (ou classe dans notre cas). 
