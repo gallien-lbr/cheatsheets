@@ -1,4 +1,4 @@
-# Test unitaire
+# Test automatisé
 
 dernière mise à jour : 17/03/2022
 
