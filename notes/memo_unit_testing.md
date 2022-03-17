@@ -27,7 +27,7 @@ Ecriture de tests automatisés pour :
  ## Catégories de tests
  
  * **Test unitaire**: s'assurer qu'une partie individuel du code se comporte comme prévue (ex: Une classe, une méthode).
- * **Test d'intégration**: Tester une combinaison de colasse qui interéagisse entre elles (avec le service container par ex. sur Symfony).
+ * **Test d'intégration**: Tester une combinaison de classes qui interéagissent entre elles (avec le service container par ex. sur Symfony).
  * **Test application**: Tester le comportement d'une application complète. Il s'agit de faire une requête HTTP (réel ou simulé via un Crawler),
  * et tester la réponse attendue. 
  
