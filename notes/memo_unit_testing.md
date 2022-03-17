@@ -137,5 +137,6 @@ Le tearDown est utilisé par exemple pour :
 Par défaut, les tests automatisés doivent obligatoirement comporter le mot clé **"test"** pour être exécuté par le framework PHPUnit. 
 
 Exemple de proposition de nommage : 
-test[Scenario][Fail|Success]
-Où scénario décrit en anglais le cas testé, et en dernier l'état attendu. 
+`test[Scenario][Fail|Success]`
+
+- Où scénario décrit en anglais le cas testé, et en dernier l'état attendu. 
