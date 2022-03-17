@@ -17,7 +17,7 @@ Des commandes permettent de générer une BDD de tests ou encore, de générer a
 
 La question "pourquoi tester ?" ne se pose aujourd'hui plus tellement dans le cadre d'un projet à grande échelle. 
 
-Lorsque la codebase évolue avec le temps, l'implémentation de nouvelles fonctionnalités, introduisent plus de difficultés (bugs, régresssions), et donc consomment davantage pour une valeur métier équivalente, une fonctionnalité prend davantage de temps à être développé qu'en début de projet.
+Lorsque la codebase évolue avec le temps, l'implémentation de nouvelles fonctionnalités, introduisent plus de difficultés (bugs, régresssions), et donc pour une valeur métier équivalente, on va déployer plus d'énergie qu'au début du projet.
 
 
 ## Objectifs
