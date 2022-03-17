@@ -84,6 +84,8 @@ Retenir => L'idée est de tester un **comportement** qui a du sens pour le domai
 2) Ecriture du code, pour faire passer le test. A ce stade, le code ne doit pas nécessairement être raffiné.
 3) Refactorisation du code. Avec la protection du test unitaire, il est sûr de nettoyer le code pour le rendre davantage lisible et maintenable. 
 
+L'approche est ici centré sur la résolution du problème. Quel comportement doit être mis en place ? L'implémentation de la solution au problème arrive dasn un second temps. 
+
 ## Tests impliquant une BDD
 
 **Problématique:** L'accès aux données est liée à des librairies d'abstraction (PDO, Doctrine etc.) 
