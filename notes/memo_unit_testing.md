@@ -67,7 +67,7 @@ Elles peuvent êtres substitués ce qui apporte du confort (ex: vitesse d'exécu
 
 ### Granularité et isolation des tests
 
-2 paradigmes existent : **école classique** VS **école de Londres**, deux pensées différentes, dans l'approche de l'isolation:
+2 paradigmes existent : **école "classique"** VS **école de "Londres"**, deux pensées différentes, dans leur approche de l'isolation:
 
 * Définition du terme "Unitaire" (unit) et de la taille d'une unité. Est-ce constitué par une classe ou un set de classes ? 
 * Utilisation des doubles. Quand utiliser des doubles pour les tests ?
@@ -78,6 +78,9 @@ Elles peuvent êtres substitués ce qui apporte du confort (ex: vitesse d'exécu
 * Les dépendances sont remplacées par des Doubles de test (ex: Mock)
 * En cas d'échec du test, le suspect est désigné automatiquement comme la classe en cours de test
 
+#### Concepts de l'école "Classique"
+
+Ce paradigme induit de re-créer le graphe de dépendances complet de l'application (à l'exception de certaines dépendances partagées) pour mettre en place le système de test automatisé.  
 
 Retenir => L'idée est de tester un **comportement** qui a du sens pour le domaine, idéalement identifiable comme utile pour une personne du métier.
 
