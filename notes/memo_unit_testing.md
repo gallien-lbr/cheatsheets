@@ -67,9 +67,10 @@ Elles peuvent êtres substitués ce qui apporte du confort (ex: vitesse d'exécu
 
 ### Granularité des tests 
 
-Deux écoles existent : école classique VS école de Londres, pensée que l'on peut résumer par :  
-* Définition du terme "Unitaire" (unit). Est-ce constitué par une classe ou un set de classes ? 
-* Quand utiliser des doubles pour les tests ? 
+Deux écoles existent : école classique VS école de Londres, deux pensées de l'approche de l'isolation :  
+* Définition du terme "Unitaire" (unit) et de la taille d'une unité. Est-ce constitué par une classe ou un set de classes ? 
+* Utilisation des doubles. Quand utiliser des doubles pour les tests ?
+ 
 
 Retenir => L'idée est de tester un **comportement** qui a du sens pour le domaine, idéalement identifiable comme utile pour une personne du métier.
 
