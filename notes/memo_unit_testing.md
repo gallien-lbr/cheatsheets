@@ -1,6 +1,6 @@
 # Test unitaire
 
-dernière mise à jour : 15/03/2022
+dernière mise à jour : 17/03/2022
 
 ## PHP et PHPUnit
 phpUnit: framework de référence pour le test unitaire en PHP.
@@ -65,12 +65,19 @@ Elles sont de différentes natures :
 Ces dépendances nécessitent une setup et une configuration en prérequis de l'exécution des tests.
 Elles peuvent êtres substitués ce qui apporte du confort (ex: vitesse d'exécution des tests).
 
-### Granularité des tests 
+### Granularité et isolation des tests
 
-Deux écoles existent : école classique VS école de Londres, deux pensées de l'approche de l'isolation :  
+2 paradigmes existent : **école classique** VS **école de Londres**, deux pensées différentes, dans l'approche de l'isolation:
+
 * Définition du terme "Unitaire" (unit) et de la taille d'une unité. Est-ce constitué par une classe ou un set de classes ? 
 * Utilisation des doubles. Quand utiliser des doubles pour les tests ?
- 
+
+#### Concepts de l'école de "Londres"
+
+* Les tests ne vérifient qu'une seul classe à la fois.
+* Les dépendances sont remplacées par des Doubles de test (ex: Mock)
+* En cas d'échec du test, le suspect est désigné automatiquement comme la classe en cours de test
+
 
 Retenir => L'idée est de tester un **comportement** qui a du sens pour le domaine, idéalement identifiable comme utile pour une personne du métier.
 
