@@ -41,7 +41,9 @@ Ecriture de tests automatisés pour :
  
  `Couverture de test = Nb Lignes Executées (code) / Total de lignes (tu)`
  
- Un indicateur peu fiable, qui ne présume pas de la qualité des tests et de la pertinence des cas soumis aux test.
+ Un indicateur peu fiable, qui ne présume pas de la qualité des tests et de la pertinence des cas soumis aux tests.
+ Il faut retenir que tester l'application dans l'objectif d'une couverture à 100% n'a pas de sens. Il s'agit plutôt de cibler les zones critiques, 
+ dont le métier va dépendre.
  
  ### Définition d'une suite de tests efficace
  
