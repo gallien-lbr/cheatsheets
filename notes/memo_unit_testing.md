@@ -21,6 +21,9 @@ Ecriture de tests automatisés pour :
   * **Protection contre la régression**
   * **Résistance au refactoring**
  
+ Une conséquence indirecte: relever et résoudre des problèmes de conception ou mauvais pattern, lors de l'écriture des tests.
+
+ 
  ## Catégories de tests
  
  * **Test unitaire**: s'assurer qu'une partie individuel du code se comporte comme prévue (ex: Une classe, une méthode).
@@ -28,7 +31,6 @@ Ecriture de tests automatisés pour :
  * **Test application**: Tester le comportement d'une application complète. Il s'agit de faire une requête HTTP (réel ou simulé via un Crawler),
  * et tester la réponse attendue. 
  
-Une conséquence indirecte: relever et résoudre des problèmes de conception ou mauvais pattern, lors de l'écriture des tests.
 
  
  ## Concepts
