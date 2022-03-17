@@ -28,7 +28,7 @@ Ecriture de tests automatisés pour :
   * **Protection contre la régression**
   * **Résistance au refactoring**
  
- Une conséquence indirecte: relever et résoudre des problèmes de conception ou mauvais pattern, lors de l'écriture des tests.
+ Une conséquence indirecte: relever et résoudre des problèmes de conception ou mauvais pattern, lors de l'écriture des tests. Corollaire: un code mal conçu ne pourra pas être testé, ou difficilement. 
 
  
  ## Catégories de tests
