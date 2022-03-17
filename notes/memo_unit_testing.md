@@ -85,6 +85,7 @@ Elles peuvent êtres substitués ce qui apporte du confort (ex: vitesse d'exécu
 
 #### Concepts de l'école "Classique"
 
+Le système de tests se base sur des objets "concrets" et non des doubles de tests.
 Ce paradigme induit de re-créer le graphe de dépendances complet de l'application (à l'exception de certaines dépendances partagées) pour mettre en place le système de test automatisé.  
 
 #### A retenir
