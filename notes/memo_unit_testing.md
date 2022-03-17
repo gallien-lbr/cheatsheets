@@ -13,6 +13,13 @@ Symfony introduit des composants de plus haut niveau, au dessus de PHPUnit, ex:
 
 Des commandes permettent de générer une BDD de tests ou encore, de générer automatiquement la structure des classes de tests (voir documentation Symfony).
 
+## De pourquoi à tester à comment tester ? 
+
+La question "pourquoi tester ?" ne se pose aujourd'hui plus tellement dans le cadre d'un projet à grande échelle. 
+
+Lorsque la codebase évolue avec le temps, l'implémentation de nouvelles fonctionnalités, introduisent plus de difficultés (bugs, régresssions), et donc consomment davantage pour une valeur métier équivalente, une fonctionnalité prend davantage de temps à être développé qu'en début de projet.
+
+
 ## Objectifs
 
 Ecriture de tests automatisés pour : 
@@ -47,7 +54,7 @@ Ecriture de tests automatisés pour :
  
  ### Définition d'une suite de tests efficace
  
- * Intégrée au cycle de développement, donc exécutée à chaque modification de code.
+ * Intégrée au cycle de développement, donc exécutée à chaque modification de code. (les tests ne servent à rien sinon)
  * Cible les parties les plus importantes du code.
  * Produit un maximum de valeur pour un minimum de coût de maintenance.
 
