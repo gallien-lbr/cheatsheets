@@ -28,6 +28,9 @@ Ecriture de tests automatisés pour :
  * **Test application**: Tester le comportement d'une application complète. Il s'agit de faire une requête HTTP (réel ou simulé via un Crawler),
  * et tester la réponse attendue. 
  
+Une conséquence indirecte: relever et résoudre des problèmes de conception ou mauvais pattern, lors de l'écriture des tests.
+
+ 
  ## Concepts
  
  ### Taux de couverture du code 
