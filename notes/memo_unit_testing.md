@@ -49,7 +49,7 @@ Ecriture de tests automatisés pour :
 Le **mock** fournit une doublure de test, qui permet de substituer un objet dont la classe à tester (ou SUT) est dépendante.
 Nous pouvons coder son comportement et rendre ses sorties prédictibles. 
 
-#### Méthodes de création de Mocks spécifique à PHPUnit
+#### Méthodes de création de Mocks spécifiques à PHPUnit
 * `createMock`
 * `getMockBuilder` (personnalisation de la doublure) 
 
