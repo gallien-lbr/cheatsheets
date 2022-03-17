@@ -82,7 +82,8 @@ Elles peuvent êtres substitués ce qui apporte du confort (ex: vitesse d'exécu
 
 Ce paradigme induit de re-créer le graphe de dépendances complet de l'application (à l'exception de certaines dépendances partagées) pour mettre en place le système de test automatisé.  
 
-Retenir => L'idée est de tester un **comportement** qui a du sens pour le domaine, idéalement identifiable comme utile pour une personne du métier.
+#### A retenir
+L'idée est de tester un **comportement** qui a du sens pour le domaine, idéalement identifiable comme utile pour une personne du métier.
 
 
 ## Test-Driven Development (TDD)
