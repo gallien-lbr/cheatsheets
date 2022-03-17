@@ -92,7 +92,7 @@ L'implémentation de la solution au problème arrive dans un second temps.
 **Problématique:** L'accès aux données est liée à des librairies d'abstraction (PDO, Doctrine etc.) 
 L'extension DBUnit vise à simplifier les tests avec ces librairies.
 
-4 phases d'un TU : 
+**4 phases d'un TU avec BDD :** 
 * Configurer une fixture. L'état initial de la BDD / de l'application au moment de l'exécution du test. 
 * Expérimenter le système à tester 
 * Vérifier les résultats 
