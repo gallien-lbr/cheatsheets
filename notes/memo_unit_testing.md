@@ -101,6 +101,6 @@ sur l'environnement de test.
 ## Structure d'un test unitaire 
 
 Le test unitaire suit généralement un pattern équivalent à :
-* **Given (arrange) **: Mettre le système à tester (SUT) et ses dépendances dans un état désiré.
-* **When (act) **: Appel de méthodes du SUT, passage des dépendances et capture de la sortie (si elle existe). 
-* **Then (assert) **: Vérification de la sortie. La sortie, peut être représentée par le statut du retour.
+* **Given (arrange)**: Mettre le système à tester (SUT) et ses dépendances dans un état désiré.
+* **When (act)**: Appel de méthodes du SUT, passage des dépendances et capture de la sortie (si elle existe). 
+* **Then (assert)**: Vérification de la sortie. La sortie, peut être représentée par le statut du retour.
