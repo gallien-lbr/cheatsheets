@@ -153,10 +153,10 @@ Exemple de proposition de nommage :
 - Où scénario décrit en anglais le cas testé, et en dernier l'état attendu. 
 
 Il peut-être tentant d'utiliser le nom de la méthode du SUT dans le codage des tests. 
-Or plusieurs un inconvénient maheur découle de cette pratique. Cela crée un couplage plus fort entre le SUT et le système de test. 
-Si on renomme la méthode dans le SUT, il faudra automatiquement renommer la méthode du Test, pour garder une cohérence. 
+Or un inconvénient majeur découle de cette pratique, puisque cela crée un couplage plus fort entre le SUT et le système de test. 
+Ex: si on renomme la méthode dans le SUT, il faut automatiquement renommer la méthode du Test, pour conserver une cohérence. 
  
-Une pratique proposée, en général est d'utiliser un nom de comportement. 
+Une pratique proposée, en général est d'utiliser un **nom de comportement**. 
 L'exception qui déroge à cette règle, est le code "utilitaire" qui n'a pas de valeur métier, on pourra alors utiliser le nom de la méthode du SUT. 
  
 #### Classe et répertoire de tests
