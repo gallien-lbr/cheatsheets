@@ -151,4 +151,4 @@ Par convention, on se proposera de nommer la classe de test:
 On observera qu'il s'agit davantage d'un point de départ, que de restreindre le test à la classe `MaClasse.php` du SUT. 
 Les tests unitaires pourront s'étendre à d'autres classes.
 Il faut garder en tête que l'on cherche à tester un comportement ("Unit of Behaviour") pertinent d'un point de vue Métier. 
-Pas une unité de code (ou classe dans notre cas). 
+et non une unité de code (ou classe dans notre cas). 
