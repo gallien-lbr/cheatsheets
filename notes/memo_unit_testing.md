@@ -26,7 +26,7 @@ Des commandes permettent de générer une BDD de tests ou encore, de générer a
 
 
 ## De pourquoi à tester à comment tester ? 
-
+Test unitaire dans une démarche qualité.
 La question "pourquoi tester ?" ne se pose aujourd'hui plus tellement dans le cadre d'un projet à grande échelle. 
 
 Lorsque la codebase évolue avec le temps, l'implémentation de nouvelles fonctionnalités, introduisent plus de difficultés (bugs, régresssions), et donc pour une valeur métier équivalente, on va déployer plus d'énergie qu'au début du projet.
@@ -91,9 +91,9 @@ Elles sont de différentes natures :
 Ces dépendances nécessitent une setup et une configuration en prérequis de l'exécution des tests.
 Elles peuvent êtres substitués ce qui apporte du confort (ex: vitesse d'exécution des tests).
 
-### Granularité et isolation des tests
+### Approches de l'écriture des tests
 
-2 paradigmes existent : **école "classique"** VS **école de "Londres"**, deux pensées différentes, dans leur approche de l'isolation:
+2 paradigmes existent : **école "classique"** VS **école de "Londres"**, deux pensées différentes, dans leur approche de l'isolation et de la granularité des tests.
 
 * Définition du terme "Unitaire" (unit) et de la taille d'une unité. Est-ce constitué par une classe ou un set de classes ? 
 * Utilisation des doubles. Quand utiliser des doubles pour les tests ?
