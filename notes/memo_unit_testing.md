@@ -5,6 +5,17 @@ dernière mise à jour : 17/03/2022
 ## PHP et PHPUnit
 phpUnit: framework de référence pour le test unitaire en PHP.
 
+### Lancer les tests PHPUnit
+
+#### Executer la suite de tests
+`vendor/bin/phpunit`
+
+#### Executer la suite de tests avec reporting HTML
+`vendor/bin/phpunit --coverage-html coverage`
+
+#### Executer une classe de tests
+`vendor/bin/phpunit tests/[fichierTest.php]`
+
 ## Tests sous Symfony 
 
 Symfony introduit des composants de plus haut niveau, au dessus de PHPUnit, ex: 
@@ -13,16 +24,6 @@ Symfony introduit des composants de plus haut niveau, au dessus de PHPUnit, ex:
 
 Des commandes permettent de générer une BDD de tests ou encore, de générer automatiquement la structure des classes de tests (voir documentation Symfony).
 
-## Lancer les tests PHPUnit
-
-### Executer la suite de tests
-`vendor/bin/phpunit`
-
-### Executer la suite de tests avec reporting HTML
-`vendor/bin/phpunit --coverage-html coverage`
-
-### Executer une classe de tests
-`vendor/bin/phpunit tests/[fichierTest.php]`
 
 ## De pourquoi à tester à comment tester ? 
 
