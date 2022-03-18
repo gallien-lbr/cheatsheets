@@ -131,7 +131,7 @@ sur l'environnement de test.
 
 Le test unitaire suit généralement un pattern équivalent à :
 * **Given (arrange)**: Mettre le système à tester (SUT) et ses dépendances dans un état désiré.
-* **When (act)**: Appel de méthodes du SUT, passage des dépendances et capture de la sortie (si elle existe).  (bonne pratique => 1 ligne)
+* **When (act)**: Appel de méthodes du SUT (invoque la méthode réelle testée), passage des dépendances et capture de la sortie (si elle existe).  (bonne pratique => 1 ligne)
 * **Then (assert)**: Vérification de la sortie. La sortie, peut être représentée par le statut du retour.
 
 ### Sections setUp et tearDown
