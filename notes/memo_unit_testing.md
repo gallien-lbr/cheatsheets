@@ -13,6 +13,17 @@ Symfony introduit des composants de plus haut niveau, au dessus de PHPUnit, ex:
 
 Des commandes permettent de générer une BDD de tests ou encore, de générer automatiquement la structure des classes de tests (voir documentation Symfony).
 
+## Lancer les tests PHPUnit
+
+### Executer la suite de tests
+`vendor/bin/phpunit`
+
+### Executer la suite de tests avec reporting HTML
+`vendor/bin/phpunit --coverage-html coverage`
+
+### Executer une classe de tests
+`vendor/bin/phpunit tests/[fichierTest.php]`
+
 ## De pourquoi à tester à comment tester ? 
 
 La question "pourquoi tester ?" ne se pose aujourd'hui plus tellement dans le cadre d'un projet à grande échelle. 
