@@ -111,10 +111,9 @@ Le testing automatisé propose une réponse à cette problématique. (voir objec
 
 2 catégories existent: 
 
-Le **stub** (bouchon)
+Le **stub** (bouchon) permettent d'émuler les interactions **entrantes**. Ces interactions sont les appels du SUT à ses dépendances pour récupérer des données.
 
-Le **mock** (faux) fournit une doublure de test, qui permet de substituer un objet dont la classe à tester (ou SUT) est dépendante.
-Nous pouvons coder son comportement et rendre ses sorties prédictibles. 
+Le **mock**  permettent d'émuler et d'examiner les intéractions **sortantes**. Ces interactions sont des appels fait par le SUT à ses dépendances pour changer leur état. 
 
 #### Méthodes de création de Mocks spécifiques à PHPUnit
 * `createMock`
