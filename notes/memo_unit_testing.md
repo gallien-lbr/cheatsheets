@@ -188,7 +188,7 @@ Le tearDown est utilisé par exemple pour :
 
 ### Bonnes pratiques de test unitaire (PHPUnit) 
 
-#### Méthode
+#### Nommage
 Par défaut, les tests automatisés doivent obligatoirement comporter le mot clé **"test"** pour être reconnues et exécutées par le framework PHPUnit. 
 
 Exemple de proposition de nommage : 
