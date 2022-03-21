@@ -65,7 +65,7 @@ Le testing automatisé propose une réponse à cette problématique. (voir objec
   * **Protection contre la régression**
   * **Résistance au refactoring**
  
-## Bénéfices attendues
+## Promesses et bénéfices attendus
 
 * Relever / résoudre des problèmes de conception ou mauvais pattern, lors de l'écriture des tests. (Corollaire: un code mal conçu ne pourra pas être testé, ou difficilement.)
 * Lever un avertissement en cas de régression sur une fonctionnalité, avant le déploiement en production
