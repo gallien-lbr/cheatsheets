@@ -59,7 +59,7 @@ Le testing automatisé propose une réponse à cette problématique. (voir objec
 
 ## Objectifs
 
-4 piliers du testing : 
+4 piliers du testing à mettre en place : 
   * **Feedback rapide**
   * * *Les tests doivent s'exécuter rapidement.*
   * **Maintenabilité**
