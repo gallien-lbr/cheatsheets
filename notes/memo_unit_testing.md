@@ -113,10 +113,11 @@ Le but est d'éliminer les dépendances du système que l'on test, pour facilite
 
 **2 catégories de doublure existent:** 
 
-Le **stub** (bouchon) permettent d'émuler les interactions **entrantes**. Ces interactions sont les appels du SUT à ses dépendances pour récupérer des données. Nous pouvons coder son comportement et rendre ses sorties prédictibles. 
+Le **stub** (bouchon) permettent d'émuler les interactions **entrantes**. Nous pouvons coder le comportement de la doublure et rendre ses sorties prédictibles. 
 
 
-Le **mock**  permettent d'émuler et d'examiner les intéractions **sortantes**. Ces interactions sont des appels fait par le SUT à ses dépendances pour changer leur état. 
+Le **mock**  permettent d'émuler et d'examiner les intéractions **sortantes**. Objet pré-programmés avec des attentes sur les appels qu'ils vont recevoir.
+
 
 #### Méthodes de création de Mocks spécifiques à PHPUnit
 * `createMock`
