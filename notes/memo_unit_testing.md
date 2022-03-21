@@ -213,4 +213,16 @@ Lorsque l'on test un comportement du SUT, qui réagit différement selon les val
 Le test est ainsi "alimenté" en données, et sera joué sur chaque valeur donnée en paramètre. 
 L'intérêt est de regrouper ce qui pourrait être écrit dans différent test, avec un seul test qui est joué sur toutes les valeurs du `dataProvider`.
 
+### Quoi tester ? 
 
+Il est inutile de tester des méthodes triviales, mises en place dans le projet, comme un Getter/Setter. 
+```
+public function getProperty():string 
+{
+  return $this->property;
+}
+```
+Elles laissent peu de place au doute et à l'introduction d'un bug ou d'une régression. 
+
+En revanche, il est intéressant de tester des méthodes du domaine métier, qui représentent des logiques complexes.
+C'est précisement la partie des fonctionnalités critiques que l'on cherchera à couvrir, afin de se prémunir des bugs importants.
