@@ -242,5 +242,6 @@ Conséquence directe: éviter des faux-positifs lors de la refactorisation du SU
 
 ### Le cas des "faux-positifs"
 
-Le "faux-positif" (fausse alerte) est un test qui va indiquer un échec alors que le code se comporte comme attendu. 
+Le **"faux-positif"** (fausse alerte) est un test qui va indiquer un échec alors que le code se comporte comme attendu. 
 Cela peut se produire à divers moments (refactorisation, nouveau code).  
+A l'inverse , le  **"vrai-positif** va se déclencher lorsque la fonctionnalité ne fonctionne plus, et que le test va remonter cette échec.
