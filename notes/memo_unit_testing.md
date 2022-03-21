@@ -185,9 +185,9 @@ Par défaut, les tests automatisés doivent obligatoirement comporter le mot cl�
 
 Exemple de proposition de nommage : 
 
-`test[Scenario][Fail|Success...]`
+`test[Scenario][Fail|Success|Valid|Invalid...]`
 
-- Où scénario décrit en anglais le cas testé, et en dernier l'état attendu. 
+- Où scénario décrit en anglais le cas testé, et en dernier l'état attendu (. 
 
 Il peut-être tentant d'utiliser le nom de la méthode du SUT dans le codage des tests. 
 Or un inconvénient majeur découle de cette pratique, puisque cela crée un couplage plus fort entre le SUT et le système de test. 
@@ -195,7 +195,8 @@ Ex: si on renomme la méthode dans le SUT, il faut automatiquement renommer la m
  
 Une pratique proposée, en général est d'utiliser un **nom de comportement**. 
 L'exception qui déroge à cette règle, est le code "utilitaire" qui n'a pas de valeur métier, on pourra alors utiliser le nom de la méthode du SUT. 
- 
+L'avantage de choisir un nom de comportement, est qu'il décrit un scénario qui sera même compréhensible quelqu'un du métier, non-développeur.
+
 #### Classe et répertoire de tests
 
 Par convention, on se proposera de nommer la classe de test: 
