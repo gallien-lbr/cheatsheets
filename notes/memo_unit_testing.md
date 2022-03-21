@@ -65,12 +65,16 @@ Le testing automatisé propose une réponse à cette problématique. (voir objec
   * **Protection contre la régression**
   * **Résistance au refactoring**
  
- Une conséquence indirecte: relever et résoudre des problèmes de conception ou mauvais pattern, lors de l'écriture des tests. Corollaire: un code mal conçu ne pourra pas être testé, ou difficilement. 
+## Bénéfices attendues
+
+* Relever / résoudre des problèmes de conception ou mauvais pattern, lors de l'écriture des tests. (Corollaire: un code mal conçu ne pourra pas être testé, ou difficilement.)
+* Lever un avertissement en cas de régression sur une fonctionnalité, avant le déploiement en production
+* Gagner en confiance dans son code, et lever l'incertitude sur la refactorisation d'une partie du code.
 
  
  ## Catégories de tests
  
- * **Test unitaire**: s'assurer qu'une partie individuel du code se comporte comme prévue (ex: Une classe, une méthode).
+ * **Test unitaire**: s'assurer qu'une partie individuel du code se comporte comme prévue.
  * **Test d'intégration**: Tester une combinaison de classes qui interéagissent entre elles (avec le service container par ex. sur Symfony).
  * **Test application**: Tester le comportement d'une application complète. Il s'agit de faire une requête HTTP (réel ou simulé via un Crawler),
  * et tester la réponse attendue. 
