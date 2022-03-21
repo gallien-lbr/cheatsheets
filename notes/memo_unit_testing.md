@@ -248,6 +248,6 @@ Cela peut se produire à divers moments (refactorisation, nouveau code).
 * 🔴 Un  **"vrai-positif"**, est un test qui va remonter un échec réel de la fonctionnalité (état KO). 
 * 🟢 Un **négatif** est un test qui va indiquer un test OK 
 
-Bonne pratique : à mesure que le projet grandit et afin de s'assurer que l'on peut avoir confiance dans sa suite de tests, il faudra veiller à : 
+**Bonne pratique**: à mesure que le projet grandit et afin de s'assurer que l'on peut avoir confiance dans sa suite de tests, il faudra veiller à : 
 * **Supprimer les fausses alertes (faux positifs)**
 * **Corriger les tests qui ne détectent pas les bugs (faux négatifs)**
