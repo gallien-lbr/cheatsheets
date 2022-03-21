@@ -27,7 +27,21 @@ composer require phpunit/phpunit
 La configuration se fait via un fichier XML.
 `phpunit.xml.dist`
 
-## Tests sous Symfony 
+## Ecrire un test 
+
+Pour écrire un test, il suffit de faire hériter sa classe de la classe de tests du framework PHPUnit.
+
+```
+// appel du namespace
+use PHPUnit\Framework\TestCase;
+
+class MaClasseTest extends TestCase
+{
+...
+}
+```
+
+## Spécifités des sous Symfony 
 
 Symfony introduit des classes de plus haut niveau, au dessus de PHPUnit, ex: 
 * class `WebTestCase`  
