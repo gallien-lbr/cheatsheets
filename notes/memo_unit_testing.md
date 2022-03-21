@@ -111,7 +111,8 @@ Le testing automatisé propose une réponse à cette problématique. (voir objec
 
 2 catégories existent: 
 
-Le **stub** (bouchon) permettent d'émuler les interactions **entrantes**. Ces interactions sont les appels du SUT à ses dépendances pour récupérer des données.
+Le **stub** (bouchon) permettent d'émuler les interactions **entrantes**. Ces interactions sont les appels du SUT à ses dépendances pour récupérer des données. Nous pouvons coder son comportement et rendre ses sorties prédictibles. 
+
 
 Le **mock**  permettent d'émuler et d'examiner les intéractions **sortantes**. Ces interactions sont des appels fait par le SUT à ses dépendances pour changer leur état. 
 
