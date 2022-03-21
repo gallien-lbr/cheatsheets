@@ -184,6 +184,6 @@ et non une unité de code (ou classe dans notre cas).
 #### Tests avec paramètres : fournisseurs de données
 
 Lorsque l'on test un comportement du SUT, qui réagit différement selon les valeurs d'un jeu de données, on peut utiliser en paramètre un fournisseur de données via l'annotation `@dataProvider`.
-
+Cela permet de regrouper ce qui pourrait être écrit dans différent test, avec un seul test qui est joué sur toutes les valeurs du `dataProvider`.
 
 
