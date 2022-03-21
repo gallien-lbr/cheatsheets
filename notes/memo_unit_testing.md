@@ -18,7 +18,7 @@ phpUnit: framework de référence pour le test unitaire en PHP.
 
 ## Tests sous Symfony 
 
-Symfony introduit des composants de plus haut niveau, au dessus de PHPUnit, ex: 
+Symfony introduit des classes de plus haut niveau, au dessus de PHPUnit, ex: 
 * class `WebTestCase`  
 * class `KernelTestCase`
 
