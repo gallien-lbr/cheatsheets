@@ -231,6 +231,11 @@ Elles laissent peu de place au doute et à l'introduction d'un bug ou d'une rég
 En revanche, il est intéressant de tester des méthodes du domaine métier, qui représentent des logiques complexes.
 C'est précisement la partie des fonctionnalités critiques que l'on cherchera à couvrir, afin de se prémunir des bugs importants.
 
+### Comment faut-il tester ?
+
+Règle d'or: Ne pas se baser sur l'implémentation dans le SUT, mais tester le résultat attendu en sortie. 
+Conséquence directe: éviter des faux-positifs lors de la refactorisation du SUT.
+
 ### Le cas des "faux-positifs"
 
 Le "faux-positif" (fausse alerte) est un test qui va indiquer un échec alors que le code se comporte comme attendu. 
