@@ -69,7 +69,7 @@ Le testing automatisé propose une réponse à cette problématique. (voir objec
 
 * Relever / résoudre des problèmes de conception ou mauvais pattern, lors de l'écriture des tests. (Corollaire: un code mal conçu ne pourra pas être testé, ou difficilement.)
 * Lever un avertissement en cas de régression sur une fonctionnalité, avant le déploiement en production
-* Gagner en confiance dans son code. Pouvoir refactoriser, réorganiser son code sans crainte de casser le fonctionnement.
+* Gagner en confiance dans son code. Pouvoir refactoriser, réorganiser son code sans crainte de casser le fonctionnement existant.
 
  
  ## Catégories de tests
@@ -79,9 +79,13 @@ Le testing automatisé propose une réponse à cette problématique. (voir objec
  * **Test application**: Tester le comportement d'une application complète. Il s'agit de faire une requête HTTP (réel ou simulé via un Crawler),
  * et tester la réponse attendue. 
  
-
  
  ## Concepts
+ 
+ ### Etat d'une suite de tests PHPUnit 
+ 
+ * ```OK (n Tests, y assertions)```
+ * ```Failure```
  
  ### Taux de couverture du code 
  
