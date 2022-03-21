@@ -61,9 +61,13 @@ Le testing automatisé propose une réponse à cette problématique. (voir objec
 
 4 piliers du TU : 
   * **Feedback rapide**
+  * * *Les tests doivent s'exécuter rapidement.*
   * **Maintenabilité**
+  * * *Les tests doivent être facilement lisible et compréhensible*
   * **Protection contre la régression**
+  * * *Les tests doivent être pertinent pour se prémunir des futurs bugs*
   * **Résistance au refactoring**
+  * * *Les tests doivent être découplés du SUT afin de ne pas être ré-écrit tout le temps*
  
 ## Promesses et bénéfices attendus
 
