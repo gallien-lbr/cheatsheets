@@ -180,3 +180,10 @@ On observera qu'il s'agit davantage d'un point de départ, que de restreindre le
 Les tests unitaires pourront s'étendre à d'autres classes.
 Il faut garder en tête que l'on cherche à tester un comportement ("Unit of Behaviour") pertinent d'un point de vue Métier. 
 et non une unité de code (ou classe dans notre cas). 
+
+#### Tests avec paramètres : fournisseurs de données
+
+Lorsque l'on test un comportement du SUT, qui réagit différement selon les valeurs d'un jeu de données, on peut utiliser en paramètre un fournisseur de données via l'annotation `@dataProvider`.
+
+
+
