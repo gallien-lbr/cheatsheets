@@ -107,9 +107,13 @@ Le testing automatisé propose une réponse à cette problématique. (voir objec
  * Cible les parties les plus importantes du code.
  * Produit un maximum de valeur pour un minimum de coût de maintenance.
 
-### Mock et doublure de test
+### Les doublures de test
 
-Le **mock** fournit une doublure de test, qui permet de substituer un objet dont la classe à tester (ou SUT) est dépendante.
+2 catégories existent: 
+
+Le **stub** (bouchon)
+
+Le **mock** (faux) fournit une doublure de test, qui permet de substituer un objet dont la classe à tester (ou SUT) est dépendante.
 Nous pouvons coder son comportement et rendre ses sorties prédictibles. 
 
 #### Méthodes de création de Mocks spécifiques à PHPUnit
