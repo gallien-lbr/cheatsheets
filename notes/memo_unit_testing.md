@@ -109,7 +109,9 @@ Le testing automatisé propose une réponse à cette problématique. (voir objec
 
 ### Les doublures de test
 
-2 catégories existent: 
+Le but est d'éliminer les dépendances du système que l'on test, pour faciliter la création des tests automatisés.
+
+**2 catégories de doublure existent:** 
 
 Le **stub** (bouchon) permettent d'émuler les interactions **entrantes**. Ces interactions sont les appels du SUT à ses dépendances pour récupérer des données. Nous pouvons coder son comportement et rendre ses sorties prédictibles. 
 
