@@ -69,7 +69,7 @@ Le testing automatisé propose une réponse à cette problématique. (voir objec
 
 * Relever / résoudre des problèmes de conception ou mauvais pattern, lors de l'écriture des tests. (Corollaire: un code mal conçu ne pourra pas être testé, ou difficilement.)
 * Lever un avertissement en cas de régression sur une fonctionnalité, avant le déploiement en production
-* Gagner en confiance dans son code, et lever l'incertitude sur la refactorisation d'une partie du code.
+* Gagner en confiance dans son code. Pouvoir refactoriser, réorganiser son code sans crainte de casser le fonctionnement.
 
  
  ## Catégories de tests
