@@ -240,10 +240,12 @@ C'est précisement la partie des fonctionnalités critiques que l'on cherchera �
 Règle d'or: Ne pas se baser sur l'implémentation dans le SUT, mais tester le résultat attendu en sortie. 
 Conséquence directe: éviter des faux-positifs lors de la refactorisation du SUT.
 
-### Les états positifs/négatifs d'un test
+### Les états positifs/négatifs d'une suite de tests
 
 * 🔴 Un **"faux-positif"** (= fausse alerte) est un test qui va indiquer un échec alors que le code se comporte comme attendu. 
 Cela peut se produire à divers moments (refactorisation, nouveau code).
 
-* 🔴 Un  **"vrai-positif**, est un test qui va remonter un échec réel de la fonctionnalité (état KO). 
+* 🔴 Un  **"vrai-positif"**, est un test qui va remonter un échec réel de la fonctionnalité (état KO). 
 * 🟢 Un **négatif** est un test qui va indiquer un test OK 
+
+
