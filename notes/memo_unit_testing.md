@@ -63,7 +63,7 @@ Le testing automatisé propose une réponse à cette problématique. (voir objec
   * **Feedback rapide**
   * * *Les tests doivent s'exécuter rapidement.*
   * **Maintenabilité**
-  * * *Les tests doivent être facilement lisible et compréhensible.*
+  * * *Les tests doivent être facilement lisible et compréhensible. Ils doivent dépendre du moins de process, composants externes possibles.*
   * **Protection contre la régression**
   * * *Les tests doivent être pertinent pour se prémunir des futurs bugs.*
   * **Résistance au refactoring**
