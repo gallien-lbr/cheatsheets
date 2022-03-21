@@ -230,3 +230,8 @@ Elles laissent peu de place au doute et à l'introduction d'un bug ou d'une rég
 
 En revanche, il est intéressant de tester des méthodes du domaine métier, qui représentent des logiques complexes.
 C'est précisement la partie des fonctionnalités critiques que l'on cherchera à couvrir, afin de se prémunir des bugs importants.
+
+### Le cas des "faux-positifs"
+
+Le "faux-positif" (fausse alerte) est un test qui va indiquer un échec alors que le code se comporte comme attendu. 
+Cela peut se produire à divers moments (refactorisation, nouveau code).  
