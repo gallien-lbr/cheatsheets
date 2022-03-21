@@ -1,6 +1,6 @@
 # Test automatisé
 
-dernière mise à jour : 21/03/2022
+*dernière mise à jour : 21/03/2022*
 
 ## PHP et PHPUnit
 phpUnit: framework de référence pour le test unitaire en PHP.
