@@ -59,7 +59,7 @@ Le testing automatisé propose une réponse à cette problématique. (voir objec
 
 ## Objectifs
 
-Ecriture de tests automatisés pour : 
+4 piliers du TU : 
   * **Feedback rapide**
   * **Maintenabilité**
   * **Protection contre la régression**
