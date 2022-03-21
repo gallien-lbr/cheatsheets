@@ -243,7 +243,7 @@ Conséquence directe: éviter des faux-positifs lors de la refactorisation du SU
 ### Les états positifs/négatifs d'un test
 
 * Un **"faux-positif"** (= fausse alerte) est un test qui va indiquer un échec alors que le code se comporte comme attendu. 
-Cela peut se produire à divers moments (refactorisation, nouveau code).  
+Cela peut se produire à divers moments (refactorisation, nouveau code).  🔴
 
-* Un  **"vrai-positif**, est un test qui va remonter un échec réel de la fonctionnalité (état KO).
-* Un **négatif** est un test qui va indiquer un test OK
+* Un  **"vrai-positif**, est un test qui va remonter un échec réel de la fonctionnalité (état KO). 🔴
+* Un **négatif** est un test qui va indiquer un test OK 🟢
