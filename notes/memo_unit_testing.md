@@ -3,7 +3,7 @@
 *dernière mise à jour : 21/03/2022*
 
 ## PHP et PHPUnit
-phpUnit: framework de référence pour le test unitaire en PHP.
+phpUnit: framework de référence pour le testing en PHP.
 
 ### Installation via Composer
 
@@ -51,7 +51,7 @@ Des commandes permettent de générer une BDD de tests ou encore, de générer a
 
 
 ## De pourquoi à tester à comment tester ? 
-Test unitaire s'inscrit dans une démarche qualité.
+Test automatisé s'inscrit dans une démarche qualité.
 Aujourd'hui, la question "pourquoi tester ?" ne se pose plus tellement dans le cadre d'un projet à grande échelle. 
 
 Lorsque la codebase évolue avec le temps, l'implémentation de nouvelles fonctionnalités, introduisent plus de difficultés (bugs, régresssions), et donc pour une valeur métier équivalente, on va déployer plus d'énergie qu'au début du projet.
@@ -59,7 +59,7 @@ Le testing automatisé propose une réponse à cette problématique. (voir objec
 
 ## Objectifs
 
-4 piliers du TU : 
+4 piliers du testing : 
   * **Feedback rapide**
   * * *Les tests doivent s'exécuter rapidement.*
   * **Maintenabilité**
@@ -80,7 +80,7 @@ Le testing automatisé propose une réponse à cette problématique. (voir objec
  
  * **Test unitaire**: s'assurer qu'une partie individuel du code se comporte comme prévue.
  * **Test d'intégration**: Tester une combinaison de classes qui interéagissent entre elles (avec le service container par ex. sur Symfony).
- * **Test application**: Tester le comportement d'une application complète. Il s'agit de faire une requête HTTP (réel ou simulé via un Crawler),
+ * **Test application (End-To-End)**: Tester le comportement d'une application complète. Il s'agit de faire une requête HTTP (réel ou simulé via un Crawler),
  * et tester la réponse attendue. 
  
  
