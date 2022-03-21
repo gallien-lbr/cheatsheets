@@ -22,6 +22,11 @@ composer require phpunit/phpunit
 #### Executer une classe de tests
 `vendor/bin/phpunit tests/[fichierTest.php]`
 
+#### Configurer son environnement de test
+
+La configuration se fait via un fichier XML.
+`phpunit.xml.dist`
+
 ## Tests sous Symfony 
 
 Symfony introduit des classes de plus haut niveau, au dessus de PHPUnit, ex: 
