@@ -123,7 +123,7 @@ Le **stub** (state based) permettent d'émuler les interactions **entrantes**. N
 Le **mock** (interaction based)  permettent d'émuler et d'examiner les interactions **sortantes**. Objet pré-programmés avec des attentes sur les appels qu'ils vont recevoir. Le **mock** en soit ne retourne pas de valeur mais permet d'examiner que les méthodes de l'objet simulé soient appelées.
 
 
-#### Méthodes de création de Mocks spécifiques à PHPUnit
+#### Méthodes de création des doublures spécifiques à PHPUnit
 * `createMock`
 * `getMockBuilder` (personnalisation de la doublure) 
 
@@ -263,6 +263,6 @@ Cela peut se produire à divers moments (refactorisation, nouveau code).
 * 🔴 Un  **"vrai-positif"**, est un test qui va remonter un échec réel de la fonctionnalité (état KO). 
 * 🟢 Un **négatif** est un test qui va indiquer un test OK 
 
-**Bonne pratique**: à mesure que le projet grandit et afin de s'assurer que l'on peut avoir confiance dans sa suite de tests, il faudra veiller à : 
+**Bonnes pratiques**: à mesure que le projet grandit et afin de s'assurer que l'on peut avoir confiance dans sa suite de tests, il faudra veiller à : 
 * **Supprimer les fausses alertes (faux positifs)**
 * **Corriger les tests qui ne détectent pas les bugs (faux négatifs)**
