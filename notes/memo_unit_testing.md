@@ -11,16 +11,13 @@ Le framework de référence pour le testing en PHP.
 composer require phpunit/phpunit
 ```
 
-### Lancer les tests PHPUnit
+### Commandes PHPUnit
 
-#### Executer la suite de tests
-`vendor/bin/phpunit`
-
-#### Executer la suite de tests avec reporting HTML
-`vendor/bin/phpunit --coverage-html coverage`
-
-#### Executer une classe de tests
-`vendor/bin/phpunit tests/[fichierTest.php]`
+ Action | Commandes |
+|-----------|-----------|
+| Executer la suite de tests | `vendor/bin/phpunit` | 
+| Executer la suite de tests avec reporting HTML           |     `vendor/bin/phpunit --coverage-html coverage`      |
+| Executer une classe de tests          |  `vendor/bin/phpunit tests/[fichierTest.php]`         |
 
 #### Configurer son environnement de test
 
