@@ -97,7 +97,7 @@ L'approche "pyramide des tests", propose un certain équilibre dans la proportio
  
  ### Le SUT - System Under Test
  
- Le SUT d'un point de vue testing, représente tout les acteurs (classes, dépendances etc.) dans un test qui ne sont pas des doublures (stuck ou mocks).
+ Le SUT d'un point de vue testing, représente tout les acteurs (classes, dépendances etc.) dans un test qui ne sont pas des doublures (stub ou mock).
  
  ### Assertions de tests
  
