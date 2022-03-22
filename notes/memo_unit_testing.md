@@ -56,7 +56,7 @@ Symfony introduit des fonctionnalités supplémentaires en complément de PHPuni
 
 Voir doc. Symfony en référence.
 
-##  De "pourquoi à tester" à "comment tester" ? 
+##  De la question : "pourquoi à tester" à "comment bien tester" ? 
 
 Le testing automatisé s'inscrit dans une démarche qualité.
 Aujourd'hui, la question "pourquoi tester ?" ne se pose plus tellement dans le cadre d'un projet à grande échelle. 
