@@ -41,17 +41,18 @@ class MaClasseTest extends TestCase
 }
 ```
 
-## Spécifités des sous Symfony 
+## Spécifités des tests avec Symfony 
 
-Symfony introduit des classes de plus haut niveau, au dessus de PHPUnit, ex: 
+Symfony introduit des classes de plus haut niveau, telles que: 
 * class `WebTestCase`  
 * class `KernelTestCase`
 
 Des commandes permettent de générer une BDD de tests ou encore, de générer automatiquement la structure des classes de tests (voir documentation Symfony).
 
 
-## De pourquoi à tester à comment tester ? 
-Test automatisé s'inscrit dans une démarche qualité.
+##  De "pourquoi à tester" à "comment tester" ? 
+
+Le testing automatisé s'inscrit dans une démarche qualité.
 Aujourd'hui, la question "pourquoi tester ?" ne se pose plus tellement dans le cadre d'un projet à grande échelle. 
 
 Lorsque la codebase évolue avec le temps, l'implémentation de nouvelles fonctionnalités, introduisent plus de difficultés (bugs, régresssions), et donc pour une valeur métier équivalente, on va déployer plus d'énergie qu'au début du projet.
@@ -63,16 +64,16 @@ Le testing automatisé propose une réponse à cette problématique. (voir objec
   * **Feedback rapide**
   * * *Les tests doivent s'exécuter rapidement.*
   * **Maintenabilité**
-  * * *Les tests doivent être facilement lisible et compréhensible. Ils doivent dépendre du moins de process, composants externes possibles.*
+  * * *Les tests doivent être facilement lisibles et compréhensibles. Ils doivent dépendre d'un minimum de process et composants externes possibles.*
   * **Protection contre la régression**
-  * * *Les tests doivent être pertinent pour se prémunir des futurs bugs.*
+  * * *Les tests doivent être pertinents pour se prémunir des futurs bugs.*
   * **Résistance au refactoring**
   * * *Les tests doivent être découplés du SUT afin de ne pas engendrer des faux positifs (fausses alertes).*
  
 ## Promesses et bénéfices attendus
 
+* Lever l'alerte en cas de régression sur une fonctionnalité, avant le déploiement en production.
 * Relever / résoudre des problèmes de conception ou mauvais pattern, lors de l'écriture des tests. (Corollaire: un code mal conçu ne pourra pas être testé, ou difficilement.)
-* Lever un avertissement en cas de régression sur une fonctionnalité, avant le déploiement en production
 * Gagner en confiance dans son code. Pouvoir refactoriser, réorganiser son code sans crainte de casser le fonctionnement existant.
 
  
@@ -80,9 +81,12 @@ Le testing automatisé propose une réponse à cette problématique. (voir objec
  
  * **Test unitaire**: s'assurer qu'une partie individuel du code se comporte comme prévue.
  * **Test d'intégration**: Tester une combinaison de classes qui interéagissent entre elles (avec le service container par ex. sur Symfony).
- * **Test application (End-To-End)**: Tester le comportement d'une application complète. Il s'agit de faire une requête HTTP (réel ou simulé via un Crawler),
- * et tester la réponse attendue. 
+ * **Test application (End-To-End)**: Tester le comportement d'une application complète. Il s'agit de faire une requête HTTP (réel ou simulé via un Crawler) et tester la réponse attendue. 
  
+L'approche "pyramide des tests", propose un certain équilibre dans la proportion, où :
+ - **Tests End-To-End** représentent la **minorité** des tests, ils protègent de la régression, mais sont longs à exécuter.
+ - **Tests unitaires** prévalent et sont la **majorité**, ils sont rapides en exécution, et facile à maintenir.
+ - **Tests d'intégration** se positionnent entre les deux catégories précédentes.
  
  ## Concepts
  
