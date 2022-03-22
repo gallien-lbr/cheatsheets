@@ -7,7 +7,7 @@ phpUnit: framework de référence pour le testing en PHP.
 
 ### Installation via Composer
 
-```
+```bash
 composer require phpunit/phpunit
 ```
 
