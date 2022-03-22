@@ -55,7 +55,8 @@ Voir doc. Symfony en référence.
 
 L'utilisation des TU sous Symfony nécessite PHPUnit Bridge :
 ```bash
-composer require symfony/phpunit-bridge
+#composer require symfony/phpunit-bridge
+composer require --dev symfony/test-pack
 ```
 
 ##  De la question : "pourquoi à tester" à "comment bien tester" ? 
