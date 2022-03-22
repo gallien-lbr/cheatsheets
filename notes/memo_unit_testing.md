@@ -123,6 +123,9 @@ Le **stub** (state based) permettent d'émuler les interactions **entrantes**. N
 
 Le **mock** (interaction based)  permettent d'émuler et d'examiner les interactions **sortantes**. Objet pré-programmés avec des attentes sur les appels qu'ils vont recevoir. Le **mock** en soit ne retourne pas de valeur mais permet d'examiner que les méthodes de l'objet simulé soient appelées.
 
+NB: Une confusion reigne entre les méthodes de création de **"Mock"** et le type de doublure **Mock**. L'appel aux méthodes de créations Mock, 
+permettent indifférement de créer un Stub ou un Mock.
+
 
 #### Méthodes de création des doublures spécifiques à PHPUnit
 * `createMock`
