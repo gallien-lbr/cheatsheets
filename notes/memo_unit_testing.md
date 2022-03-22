@@ -134,6 +134,27 @@ NB: Une confusion reigne entre les méthodes de création de **"Mock"** et le ty
 permettent indifférement de créer un Stub ou un Mock.
 
 
+#### Exemples doublures sur PHPUnit 
+
+##### Stub
+```
+$stub = $this->createMock(SomeClass::class);
+$stub->method('getSomething')
+    ->willReturn('foo');
+
+$sut->action($stub);
+```
+
+##### Mock
+```
+$mock = $this->createMock(SomeClass::class);
+$mock->expects($this->once())
+    ->method('doSomething')
+    ->with('bar');
+
+$sut->action($mock);
+```
+
 ### Les dépendances de test
 Elles sont de différentes natures : 
 * API (située hors de l'application)
