@@ -53,6 +53,11 @@ Symfony introduit des fonctionnalités supplémentaires en complément de PHPuni
 
 Voir doc. Symfony en référence.
 
+L'utilisation des TU sous Symfony nécessite PHPUnit Bridge :
+```bash
+composer require symfony/phpunit-bridge
+```
+
 ##  De la question : "pourquoi à tester" à "comment bien tester" ? 
 
 Le testing automatisé s'inscrit dans une démarche qualité.
