@@ -31,7 +31,7 @@ La configuration se fait via un fichier XML.
 
 Pour écrire un test, il suffit de faire hériter sa classe de la classe de tests du framework PHPUnit.
 
-```
+```php
 // appel du namespace
 use PHPUnit\Framework\TestCase;
 
@@ -265,7 +265,7 @@ L'intérêt est de regrouper ce qui pourrait être écrit dans différent test, 
 ### Que faut-il tester ? 
 
 Il est inutile de tester des méthodes triviales (ex: une fonction qui return sur 1 ligne), comme un Getter/Setter. 
-```
+```php
 public function getProperty():string 
 {
   return $this->property;
