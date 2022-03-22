@@ -29,7 +29,7 @@ La configuration se fait via un fichier XML.
 
 ## Ecrire un test 
 
-Pour écrire un test, il suffit de faire hériter sa classe de la classe de tests du framework PHPUnit.
+Pour écrire un test basique, il suffit de faire hériter sa classe de la classe de tests du framework PHPUnit.
 
 ```php
 // appel du namespace
@@ -44,8 +44,8 @@ class MaClasseTest extends TestCase
 ## Spécifités des tests avec Symfony 
 
 Symfony introduit des classes de plus haut niveau, telles que: 
-* class `WebTestCase`  
-* class `KernelTestCase`
+* Classe: `WebTestCase` pour exécuter des scénarios à la manière d'un navigateur.
+* Classe: `KernelTestCase` pour les tests ayants accès aux services Symfony.
 
 Des commandes permettent de générer une BDD de tests ou encore, de générer automatiquement la structure des classes de tests (voir documentation Symfony).
 
