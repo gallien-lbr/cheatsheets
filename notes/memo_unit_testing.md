@@ -81,12 +81,13 @@ Le testing automatisé propose une réponse à cette problématique. (voir objec
  
  * **Test unitaire**: s'assurer qu'une partie individuel du code se comporte comme prévue.
  * **Test d'intégration**: Tester une combinaison de classes qui interéagissent entre elles (avec le service container par ex. sur Symfony).
- * **Test application (End-To-End)**: Tester le comportement d'une application complète. Il s'agit de faire une requête HTTP (réel ou simulé via un Crawler) et tester la réponse attendue. 
+ * **Test application (End-To-End)**: Tester le comportement d'une application complète. Il s'agit de faire une requête HTTP (réel ou simulé via un Crawler) et tester la réponse attendue. En pratique, ce niveau de test implique que l'application soit hébergé pour répliquer l'environnement final. 
  
 L'approche "pyramide des tests", propose un certain équilibre dans la proportion, où :
  - **Tests End-To-End** représentent la **minorité** des tests, ils protègent de la régression, mais sont longs à exécuter.
  - **Tests unitaires** prévalent et sont la **majorité**, ils sont rapides en exécution, et facile à maintenir.
  - **Tests d'intégration** se positionnent entre les deux catégories précédentes.
+
  
  ## Concepts
  
