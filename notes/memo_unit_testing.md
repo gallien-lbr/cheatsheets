@@ -49,7 +49,7 @@ Symfony introduit des fonctionnalités supplémentaires en complément de PHPuni
 
 **Des commandes** qui permettent de générer une BDD de tests ou encore, de générer automatiquement la structure des classes de tests (voir documentation Symfony).
 
-**Des assertions.**
+**De nouvelles assertions.**
 
 Voir doc. Symfony en référence.
 
