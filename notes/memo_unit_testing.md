@@ -2,8 +2,8 @@
 
 *dernière mise à jour : 22/03/2022*
 
-## PHP et PHPUnit
-phpUnit: framework de référence pour le testing en PHP.
+## PHPUnit
+Le framework de référence pour le testing en PHP.
 
 ### Installation via Composer
 
