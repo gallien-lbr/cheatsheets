@@ -292,3 +292,9 @@ Cela peut se produire à divers moments (refactorisation, nouveau code).
 **Bonnes pratiques**: à mesure que le projet grandit et afin de s'assurer que l'on peut avoir confiance dans sa suite de tests, il faudra veiller à : 
 * **Supprimer les fausses alertes (faux positifs)**
 * **Corriger les tests qui ne détectent pas les bugs (faux négatifs)**
+
+## Références
+- Unit testing: Principles, Practices and Pattern - Vladimir Khorikov
+- [Symfony doc (FR) "Tester"](https://symfony.com/doc/current/the-fast-track/fr/17-tests.html#ecrire-des-tests-unitaires)
+- [Symfony doc (EN) "Testing"](https://symfony.com/doc/current/testing.html)
+- [PHP Unit](https://phpunit.readthedocs.io)
