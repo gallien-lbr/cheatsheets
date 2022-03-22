@@ -59,9 +59,10 @@ Voir doc. Symfony en référence.
 ##  De la question : "pourquoi à tester" à "comment bien tester" ? 
 
 Le testing automatisé s'inscrit dans une démarche qualité.
+
 Aujourd'hui, la question "pourquoi tester ?" ne se pose plus tellement dans le cadre d'un projet à grande échelle. 
 
-Lorsque la codebase évolue avec le temps, l'implémentation de nouvelles fonctionnalités, introduisent plus de difficultés (bugs, régresssions), et donc pour une valeur métier équivalente, on va déployer plus d'énergie qu'au début du projet.
+Lorsque la code-base évolue avec le temps, l'implémentation de nouvelles fonctionnalités, introduisent plus de difficultés (bugs, régresssions), et donc pour une valeur métier équivalente, on va déployer plus d'énergie qu'au début du projet.
 Le testing automatisé propose une réponse à cette problématique. (voir objectifs).
 
 ## Objectifs
