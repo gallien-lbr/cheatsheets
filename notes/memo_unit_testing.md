@@ -107,7 +107,15 @@ L'approche "pyramide des tests", propose un certain équilibre dans la proportio
  
  Elle retourne la valeur **"FALSE"** lorsque l'expression testée provoque un bug.
  
- 
+ Exemple:
+ ```php
+ // act
+ $this->client->request('GET', self::API_GET);
+
+ // assert
+ $this->assertResponseIsSuccessful();
+ $this->assertResponseStatusCodeSame(Response::HTTP_OK);
+ ```       
  
  ### Etat d'une suite de tests PHPUnit 
  
