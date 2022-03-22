@@ -137,7 +137,7 @@ permettent indifférement de créer un Stub ou un Mock.
 #### Exemples doublures sur PHPUnit 
 
 ##### Stub
-```
+```php
 $stub = $this->createMock(SomeClass::class);
 $stub->method('getSomething')
     ->willReturn('foo');
@@ -146,7 +146,7 @@ $sut->action($stub);
 ```
 
 ##### Mock
-```
+```php
 $mock = $this->createMock(SomeClass::class);
 $mock->expects($this->once())
     ->method('doSomething')
