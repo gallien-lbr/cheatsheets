@@ -43,12 +43,18 @@ class MaClasseTest extends TestCase
 
 ## Spécifités des tests avec Symfony 
 
-Symfony introduit des classes de plus haut niveau, telles que: 
+Symfony introduit des fonctionnalités supplémentaires en complément de PHPunit.
+
+**De nouvelles classes:**
+
 * Classe: `WebTestCase` pour exécuter des scénarios à la manière d'un navigateur.
 * Classe: `KernelTestCase` pour les tests ayants accès aux services Symfony.
 
-Des commandes permettent de générer une BDD de tests ou encore, de générer automatiquement la structure des classes de tests (voir documentation Symfony).
+**Des commandes** qui permettent de générer une BDD de tests ou encore, de générer automatiquement la structure des classes de tests (voir documentation Symfony).
 
+**Des assertions.**
+
+Voir doc. Symfony en référence.
 
 ##  De "pourquoi à tester" à "comment tester" ? 
 
