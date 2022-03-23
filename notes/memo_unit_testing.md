@@ -124,7 +124,7 @@ L'approche "pyramide des tests", propose un certain équilibre des proportions d
  ```       
  
 Possibilité d'ajouter un message en cas d'échec du test: 
-```
+```php
 $this->assertInstanceOf(Character::class, $character,'Fails to assert is instance of Character');
 ```
 
