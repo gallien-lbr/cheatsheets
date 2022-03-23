@@ -123,6 +123,11 @@ L'approche "pyramide des tests", propose un certain équilibre des proportions d
  $this->assertResponseStatusCodeSame(Response::HTTP_OK);
  ```       
  
+Possibilité d'ajouter un message en cas d'échec du test: 
+```
+$this->assertInstanceOf(Character::class, $character,'Fails to assert is instance of Character');
+```
+
  ### Etat d'une suite de tests PHPUnit 
  
  * ```OK (n Tests, y assertions)```
