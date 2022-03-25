@@ -336,3 +336,4 @@ Cela peut se produire à divers moments (refactorisation, nouveau code).
 - [Symfony doc (FR) "Tester"](https://symfony.com/doc/current/the-fast-track/fr/17-tests.html#ecrire-des-tests-unitaires)
 - [Symfony doc (EN) "Testing"](https://symfony.com/doc/current/testing.html)
 - [PHP Unit](https://phpunit.readthedocs.io)
+- [Stub vs Mock Stackoverflow](https://stackoverflow.com/questions/45965699/mocks-vs-stubs-in-phpunit)
