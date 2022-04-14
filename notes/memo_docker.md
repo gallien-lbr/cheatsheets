@@ -160,3 +160,4 @@ Une sorte de tutoriel/descriptif de construction pour les images, qui contient t
 - [Ref: Tuto run](https://blog.codeship.com/the-basics-of-the-docker-run-command/)
 - [Simple docker setup for symfony](https://medium.com/accesto/simple-docker-setup-for-symfony-project-accesto-blog-9dc4e3179642)
 - [Step debbuging in xdebug 3](https://matthewsetter.com/setup-step-debugging-php-xdebug3-docker/)
+- [XDEBUG PHP DOCKER SF](https://www.pascallandau.com/blog/phpstorm-docker-xdebug-3-php-8-1-in-2022/#install-xdebug) 
