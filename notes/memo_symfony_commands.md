@@ -43,3 +43,6 @@ Most often used commands with in my Symfony 4 and Doctrine 2 projects.
 | See autowiring available classes (filter with grep)  | `debug:autowiring | grep serviceName`|
 | Generate translations i18n | `translation:update --force --output-format=xlf en` |
 | Manually Generate a password  | `security:encode-password` |
+
+
+https://yoandev.co/bootstrap-5-avec-symfony-5-et-webpack-encore/
