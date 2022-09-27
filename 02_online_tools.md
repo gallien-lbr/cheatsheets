@@ -1,8 +1,9 @@
 # Links - Web Development Tools & Online Resources
 
-## NoCode platforms
+## NoCode platforms / WebDesign generator
 
 - [Bubble](https://bubble.io/)
+- [WebFlow](https://webflow.com)
 
 ## Online sandboxes for demo 
 - [Codepen](https://codepen.io/)
@@ -100,6 +101,7 @@
 
 ## Forms 
 - [Jotforms](https://www.jotform.com)
+- [TypeForm](https://www.typeform.com/)
 
 ## Google Tools for webmasters (SEO, Perf, Stats etc.)
 - [Google Web Fundamentals](https://developers.google.com/web)
