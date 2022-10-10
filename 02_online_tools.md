@@ -4,6 +4,7 @@
 
 - [Bubble](https://bubble.io/)
 - [WebFlow](https://webflow.com)
+- [Unicorn Platform](https://unicornplatform.com/)
 
 ## Online sandboxes for demo 
 - [Codepen](https://codepen.io/)
@@ -44,6 +45,7 @@
 ## Logo , Icons etc.
 - [LogoDust](https://logodust.com/)
 - [Favicon Generator](https://favicon.io)
+- [compresso.io compress jpeg](https://compressor.io/)
 
 ## Fonts
 - [google-font](https://fonts.google.com/)
