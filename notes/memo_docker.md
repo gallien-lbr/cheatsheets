@@ -12,6 +12,9 @@
 ## Commandes utiles
 ```bash
 
+# Inspecter / Obtenir des infos sur un container
+docker inspect [...]
+
 # Arrêter un container
 docker stop nom_container 
 
