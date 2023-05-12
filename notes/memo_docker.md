@@ -54,6 +54,12 @@ docker build
 ``` 
 
 
+## Docker exécution d'un container à partir d'une image
+
+```bash
+docker run --name njs node:10.18.0-stretch-slim
+```
+
 ## Docker-compose
 Docker compose permet de définir et lancer simultanément plusieurs containers (= 1 stack). 1 fichier YAML permet de de configurer les services de l'application (Redis, ElasticSearch, Php etc.).
 
