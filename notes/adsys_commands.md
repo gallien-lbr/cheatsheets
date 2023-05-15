@@ -1,8 +1,8 @@
 ## Useful commands linux  
 
 ### Importer un dump sur Kubernetes
-`kubectl cp ~/dev/tmp_test/dump.sql.gz projet-demo/mysql-[XXXX]:/tmp/`
-`zcat dump.sql.gz | mysql -uroot -proot -D BASE_DE_DONNEES`
+* `kubectl cp ~/dev/tmp_test/dump.sql.gz projet-demo/mysql-[XXXX]:/tmp/`
+* `zcat dump.sql.gz | mysql -uroot -proot -D BASE_DE_DONNEES`
 
 ### Vérifier ports occupés 
 
