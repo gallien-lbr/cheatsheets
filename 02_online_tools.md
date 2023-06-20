@@ -22,6 +22,7 @@
 ## Security
 - [OWASP List of tools](https://www.owasp.org/index.php/Category:Vulnerability_Scanning_Tools)
 - [Sitecheck.securi.net](https://sitecheck.sucuri.net/)
+- [CVE - Common Vulnerabilities and Exposures](https://cve.mitre.org/)
 
 
 ## Lib CDN (JS, CSS) , IMG
