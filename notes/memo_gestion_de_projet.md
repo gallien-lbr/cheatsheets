@@ -57,8 +57,9 @@ Partie technique: le STD n'est pas systématiquement présenté au client.
 - outils utilisés pour l'automatisation des tâches, build, déploiement.
 - diagrammes (ex: séquences, SADT, UML, schéma base de données etc.)
 
-## Document Gestion de produit 
+## Document Gestion de produit  (draft)
 
+possible de mettre des schéma de gestion projet: 
 - WBS (Work Breakdown structure), DBS (Deliverable Breakdown Structure)
 - GANTT
 - PERT (Program evaluation and review technique)
