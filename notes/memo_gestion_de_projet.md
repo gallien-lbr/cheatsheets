@@ -5,8 +5,9 @@
 ## Cahier des charges 
 Document initial du client. Objectif => formuler le besoin initial.
 
-## SFG
+## SFG / GFS
 
+Proposition technique de haut niveau.
 Spécifications Fonctionnelles Générales.
 Décrire les décrire fonctionnalités du client.
 
@@ -57,10 +58,6 @@ Partie technique: le STD n'est pas systématiquement présenté au client.
 * partie livraison
 * partie tests
 
-
-## Conclusion
-
-* Bénéfices de ces documents: ne pas démarrer le projet dans la confusion
 
 * [Video explicative sur les SFD](https://www.youtube.com/watch?v=aWPM-JGR0qI&ab_channel=BestOfBusinessAnalyst)
 * [Video documents de conception](https://youtu.be/YpTFkXNzkcU) 
