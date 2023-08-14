@@ -8,10 +8,9 @@ Objectif => formuler le besoin initial.
 
 ## SFG / GFS
 
-Rédigé par la maîtrise d'oeuvre (réalisateur de la solution).
-Proposition technique de haut niveau sur les fonctionnalités à implémenter.
-Spécifications Fonctionnelles Générales.
-Décrire les décrire fonctionnalités du client.
+- Rédigé par la maîtrise d'oeuvre (réalisateur de la solution).
+- Proposition technique de haut niveau sur les fonctionnalités à implémenter.
+- Spécifications Fonctionnelles Générales pour décrire les décrire fonctionnalités du client.
 
 SFG = Document orienté client / commerciaux.
 pour les petits projet, passer directement au SFD.
