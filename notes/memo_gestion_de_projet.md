@@ -34,3 +34,5 @@ Information à mettre :
 - etc ...
 
 ## STD - Spécifications Techniques Détaillées 
+
+Partie technique, le STD n'est pas systématiquement présenté au client. 
