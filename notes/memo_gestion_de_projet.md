@@ -12,6 +12,8 @@ Décrire les décrire fonctionnalités du client.
 
 SFG = Document orienté client / commerciaux.
 
+pour les petits projet, passer directement au SFD.
+
 ## SFD - Spécifications Fonctionnelles Détaillées 
 
 **En résumé :**
