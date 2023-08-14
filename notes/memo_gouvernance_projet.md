@@ -35,4 +35,5 @@ rôles impliqués :  chef de projet, lead tech , équipes technique
 
 Ressources
 - https://blog-gestion-de-projet.com/comitologie-projet/
+- https://youtu.be/oy5kGqzuuEc
 
