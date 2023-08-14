@@ -25,11 +25,11 @@ pour les petits projet, passer directement au SFD.
 - projet géré de manière "traditionnelle" cycle en V ou Watefall (pas en Agilité qui utilise le `product backlog` ou les `user stories`)
 
 Information à mettre : 
-- énumérer les fonctionnalités.
-- code couleurs application, polices.
-- partie maquettage, zoning.
-- scénarios de l'application.
-- etc ...
+- Enumérer les fonctionnalités.
+- Code couleurs application, polices.
+- Partie maquettage, zoning.
+- Scénarios de l'application.
+- Etc ...
 
 ## STD - Spécifications Techniques Détaillées 
 
@@ -38,6 +38,12 @@ Partie technique, le STD n'est pas systématiquement présenté au client.
 - outils utilisés pour l'automatisation des tâches, build, déploiement.
 - diagrammes (séquences, UML, schéma base de données etc.)
 
+## Document Gestion de produit 
+
+
+## Différence Projet / Produit 
+
+Projet => 
 
 * [Video explicative sur les SFD](https://www.youtube.com/watch?v=aWPM-JGR0qI&ab_channel=BestOfBusinessAnalyst)
 * [Video documents de conception](https://youtu.be/YpTFkXNzkcU) 
