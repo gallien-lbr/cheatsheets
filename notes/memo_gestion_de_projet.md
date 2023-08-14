@@ -84,3 +84,4 @@ possible de mettre des schéma de gestion projet:
 * [Video sur les documents de conception](https://youtu.be/YpTFkXNzkcU)
 * [Slideshare sur le SCRUM](https://www.slideshare.net/LuongMinhHai/mod-6-agile-scrum-in-a-nutshellpdf)
 * [Gouvernance projet / Comitologie](https://blog-gestion-de-projet.com/comitologie-projet/)
+* [Video Comitologie](https://youtu.be/oy5kGqzuuEc)
