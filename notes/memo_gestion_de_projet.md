@@ -28,9 +28,9 @@ pour les petits projet, passer directement au SFD.
 
 Information à mettre : 
 - énumérer les fonctionnalités.
-- couleurs application, polices.
+- code couleurs application, polices.
 - partie maquettage, zoning.
 - scénarios de l'application.
-
+- etc ...
 
 ## STD - Spécifications Techniques Détaillées 
