@@ -39,5 +39,5 @@ Partie technique, le STD n'est pas systématiquement présenté au client.
 - diagrammes (séquences, UML, schéma base de données etc.)
 
 
-[Video explicative sur les SFD](https://www.youtube.com/watch?v=aWPM-JGR0qI&ab_channel=BestOfBusinessAnalyst)
-[Vidoe documents de conception](https://youtu.be/YpTFkXNzkcU) 
+* [Video explicative sur les SFD](https://www.youtube.com/watch?v=aWPM-JGR0qI&ab_channel=BestOfBusinessAnalyst)
+* [Video documents de conception](https://youtu.be/YpTFkXNzkcU) 
