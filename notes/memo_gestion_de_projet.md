@@ -24,9 +24,6 @@ pour les petits projet, passer directement au SFD.
 - description des fonctionnalités du projet
 - projet géré de manière "traditionnelle" cycle en V ou Watefall (pas en Agilité qui utilise le `product backlog` ou les `user stories`)
 
-[Video explicative sur les SFD](https://www.youtube.com/watch?v=aWPM-JGR0qI&ab_channel=BestOfBusinessAnalyst)
-[Vidoe documents de conception](https://youtu.be/YpTFkXNzkcU) 
-
 Information à mettre : 
 - énumérer les fonctionnalités.
 - code couleurs application, polices.
@@ -40,3 +37,7 @@ Partie technique, le STD n'est pas systématiquement présenté au client.
 - choix technologique
 - outils utilisés pour l'automatisation des tâches, build, déploiement.
 - diagrammes (séquences, UML, schéma base de données etc.)
+
+
+[Video explicative sur les SFD](https://www.youtube.com/watch?v=aWPM-JGR0qI&ab_channel=BestOfBusinessAnalyst)
+[Vidoe documents de conception](https://youtu.be/YpTFkXNzkcU) 
