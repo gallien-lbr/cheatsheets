@@ -39,3 +39,4 @@ Information à mettre :
 Partie technique, le STD n'est pas systématiquement présenté au client. 
 - choix technologique
 - outils utilisés pour l'automatisation des tâches, build, déploiement.
+- diagrammes (séquences, UML, schéma base de données etc.)
