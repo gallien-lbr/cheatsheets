@@ -33,14 +33,17 @@ Information à mettre :
 
 ## STD - Spécifications Techniques Détaillées 
 
-Partie technique, le STD n'est pas systématiquement présenté au client. 
+Partie technique: le STD n'est pas systématiquement présenté au client. 
 - choix technologique
 - outils utilisés pour l'automatisation des tâches, build, déploiement.
-- diagrammes (séquences, UML, schéma base de données etc.)
+- diagrammes (ex: séquences, SADT, UML, schéma base de données etc.)
 
 ## Document Gestion de produit 
 
-
+- WBS (Work Breakdown structure), DBS (Deliverable Breakdown Structure)
+- GANTT
+- PERT (Program evaluation and review technique)
+  
 ## Différence Projet / Produit 
 
 Projet => 
