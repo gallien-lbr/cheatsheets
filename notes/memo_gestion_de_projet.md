@@ -3,17 +3,33 @@
 
 
 ## Cahier des charges 
-Document initial du client. Objectif => formuler le besoin initial.
+Document initial du porteur du besoin (client / maîtrise d'ouvrage). 
+Objectif => formuler le besoin initial.
 
 ## SFG / GFS
 
-Proposition technique de haut niveau.
+Rédigé par la maîtrise d'oeuvre (réalisateur de la solution).
+Proposition technique de haut niveau sur les fonctionnalités à implémenter.
 Spécifications Fonctionnelles Générales.
 Décrire les décrire fonctionnalités du client.
 
 SFG = Document orienté client / commerciaux.
-
 pour les petits projet, passer directement au SFD.
+
+Doivent figurer, la reformulation du besoin métier.
+* Objectifs à atteindre
+* Objectifs stratégiques
+* Principaux utilisateurs finaux
+* Contraintes internes / externes
+
+### 6 piliers SFG
+
+1) Reformulation du besoin métier (Objectifs stratégiques, périmètre de la solution cible, contraintes internes / externes, end-users)
+2) Processus métier (fourni par la MOA) => comment la solution va s'intégrer à l'env. économique des utilisateurs / de l'organisation
+3) Vue macro-scopique du SI (intégration du logiciel dans le SI) 
+4) Traduction des besoins métiers de haut niveau, décrit de manière synthétique
+5) Exigences Non Fonctionnelles (décrire le **comment ?**) - ENF - Performances / maintenabilité etc.
+6) Priorisation
 
 ## SFD - Spécifications Fonctionnelles Détaillées 
 
