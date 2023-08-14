@@ -19,6 +19,7 @@ pour les petits projet, passer directement au SFD.
 **En résumé :**
 - document orienté équipe de dévs / graphistes
 - 1 livrable
+- schémas / maquettes
 - 1 phase du projet
 - description des fonctionnalités du projet
 - projet géré de manière "traditionnelle" cycle en V ou Watefall (pas en Agilité qui utilise le `product backlog` ou les `user stories`)
@@ -36,3 +37,5 @@ Information à mettre :
 ## STD - Spécifications Techniques Détaillées 
 
 Partie technique, le STD n'est pas systématiquement présenté au client. 
+- choix technologique
+- outils utilisés pour l'automatisation des tâches, build, déploiement.
