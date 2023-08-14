@@ -1,16 +1,34 @@
-# Memo Gestion de projet
+# Mémo Gestion de projet - Les documents de conception.
 
-Les documents de conception.
+Bénéfices de ces documents: ne pas démarrer le projet dans la confusion
+
+## Cahier des charges 
+Document initiale du client. Objectif => formuler le besoin initial.
+
+## SFG
+
+Spécifications Fonctionnelles Générales.
+Décrire les décrire fonctionnalités du client.
+
+SFG = Document orienté client / commerciaux.
 
 ## SFD - Spécifications Fonctionnelles Détaillées 
 
-En résumé :
+**En résumé :**
+- document orienté équipe de dévs / graphistes
 - 1 livrable
 - 1 phase du projet
 - description des fonctionnalités du projet
 - projet géré de manière "traditionnelle" cycle en V ou Watefall (pas en Agilité qui utilise le `product backlog` ou les `user stories`)
 
 [Video explicative sur les SFD](https://www.youtube.com/watch?v=aWPM-JGR0qI&ab_channel=BestOfBusinessAnalyst)
+[Vidoe documents de conception](https://youtu.be/YpTFkXNzkcU) 
+
+Information à mettre : 
+- énumérer les fonctionnalités.
+- couleurs application, polices.
+- partie maquettage, zoning.
+- scénarios de l'application.
 
 
 ## STD - Spécifications Techniques Détaillées 
