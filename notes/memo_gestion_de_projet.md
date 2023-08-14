@@ -31,6 +31,9 @@ Doivent figurer, la reformulation du besoin métier.
 5) Exigences Non Fonctionnelles (décrire le **comment ?**) - ENF - Performances / maintenabilité etc.
 6) Priorisation
 
+Pas de SGF en mode "run".
+Pas de SFG en Agile.
+
 ## SFD - Spécifications Fonctionnelles Détaillées 
 
 **En résumé :**
