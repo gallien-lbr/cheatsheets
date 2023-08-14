@@ -77,6 +77,6 @@ Partie technique: le STD n'est pas systématiquement présenté au client.
 * partie livraison
 * partie tests
 
-
-* [Video explicative sur les SFD](https://www.youtube.com/watch?v=aWPM-JGR0qI&ab_channel=BestOfBusinessAnalyst)
-* [Video documents de conception](https://youtu.be/YpTFkXNzkcU) 
+* [Video Explicative sur les SFG](https://youtu.be/nP8nymGCfw8)
+* [Video Explicative sur les SFD](https://www.youtube.com/watch?v=aWPM-JGR0qI&ab_channel=BestOfBusinessAnalyst)
+* [Video sur les documents de conception](https://youtu.be/YpTFkXNzkcU) 
