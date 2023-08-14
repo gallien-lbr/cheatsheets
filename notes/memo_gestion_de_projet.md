@@ -79,4 +79,5 @@ Partie technique: le STD n'est pas systématiquement présenté au client.
 
 * [Video Explicative sur les SFG](https://youtu.be/nP8nymGCfw8)
 * [Video Explicative sur les SFD](https://www.youtube.com/watch?v=aWPM-JGR0qI&ab_channel=BestOfBusinessAnalyst)
-* [Video sur les documents de conception](https://youtu.be/YpTFkXNzkcU) 
+* [Video sur les documents de conception](https://youtu.be/YpTFkXNzkcU)
+* [Slideshare sur le SCRUM](https://www.slideshare.net/LuongMinhHai/mod-6-agile-scrum-in-a-nutshellpdf)
