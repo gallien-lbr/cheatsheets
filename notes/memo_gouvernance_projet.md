@@ -16,7 +16,7 @@ Rôles impliqués : le DP (directeur projet) , le sponsor, le PMO, le client
 
 **instances:**
 - COSTRA: Comité stratégique => approuve et synchronise les plans strats 
-- COPIL : Comité pilotage => définir les orientations stratégiques liées au projet / contrôle du suivi (conseils sur  : délais, qualité et budget)
+- ⭐ COPIL : Comité pilotage => définir les orientations stratégiques liées au projet / contrôle du suivi (conseils sur  : délais, qualité et budget)
 
 ## Pilotage opérationnel
 
@@ -28,7 +28,7 @@ Rôles impliqués :  chef de projet, lead tech , équipes technique
 **instances:**
 - KICKOFF meeting / réunion lancement => fédérer l'équipe et les parties prenantes autour des objectifs du projet
 - Cotech : se concentre les questions techniques
-- COPROJ / <=> COSUI (comité suivi)  : comité projet , coordination des équipes et accompagnement des équipes opérationnelles (ne remonte au COPIL que les demandes d'arbitrage / prise de décision)
+- ⭐ COPROJ / <=> COSUI (comité suivi)  : comité projet , coordination des équipes et accompagnement des équipes opérationnelles (ne remonte au COPIL que les demandes d'arbitrage / prise de décision)
 - Réunion travail : orga. de la réalisation des travaux
 - Réunion cloture du projet / Post Mortem - dissolution de l'équipe projet => valide la fin du projet et passage en exploitation / maintenance
 - CORUN : comité suivi et maintenan ce => s'assurer du suivi de la phase de maintenance du projet / migration des livrables etc.
