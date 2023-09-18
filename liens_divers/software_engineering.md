@@ -2,9 +2,9 @@
 
 ## General 
 - [Arpinum Awesome links](https://github.com/arpinum/awesome/wiki)
-- [Mother of all demo apps](https://github.com/gothinkster/realworld)
 
 ## Architecture
+- [Mother of all demo apps](https://github.com/gothinkster/realworld)
 - [Web architecture](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)
 - [Architecture Hexagonale](https://blog.octo.com/architecture-hexagonale-trois-principes-et-un-exemple-dimplementation/)
 - [DDD - Domain Driven Design](https://blog.octo.com/domain-driven-design-des-armes-pour-affronter-la-complexite/)
