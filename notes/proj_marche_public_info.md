@@ -6,14 +6,14 @@
 ## Vérifications VABF / VSR
 *	Vérifications : Les prestations sont soumises à des vérifications pour garantir leur conformité avec les exigences du client. 
 
-Ces vérifications comprennent deux étapes :
-*	Vérification d'aptitude au bon fonctionnement (**VABF** - recette provisoire) : cette étape se déroule avant la mise en production et vise à valider la conformité de la solution informatique en utilisant des scénarios de tests prédéfinis dans un environnement de test avec des données de test.
+**Ces vérifications comprennent deux étapes.**
+
+1)	Vérification d'aptitude au bon fonctionnement (**VABF** - recette provisoire) : cette étape se déroule avant la mise en production et vise à valider la conformité de la solution informatique en utilisant des scénarios de tests prédéfinis dans un environnement de test avec des données de test.
 
 Article 33.2.1 du CCAGTIC, l'acheteur dispose de 30 jours à compter de la notification pour effectuer cette vérification.
 https://www.marche-public.fr/Marches-publics/Definitions/Entrees/Verification-aptitude.htm
 
-
-*	Vérification de service régulier (**VSR** - recette définitive) : cette étape a lieu dans l'environnement de production avec des données réelles, après la validation de toutes les étapes précédentes.
+2)	Vérification de service régulier (**VSR** - recette définitive) : cette étape a lieu dans l'environnement de production avec des données réelles, après la validation de toutes les étapes précédentes.
 
 La Vérification de Service Régulier (VSR) dure également 30 jours. https://www.marche-public.fr/Marches-publics/Definitions/Entrees/Verification-service-regulier.htm
 
