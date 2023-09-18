@@ -25,3 +25,7 @@ La Vérification de Service Régulier (VSR) dure également 30 jours. https://ww
 
 ## TMA MCO
 *	TMA MCO : Après la fin de la garantie, un forfait annuel est facturé en fonction de la complexité de l'application (simple, moyen, complexe), avec des tarifs préalablement négociés dans le Bordereau des Prix Unitaires (BPU).
+
+## Ressources / Liens
+
+https://www.marche-public.fr/Marches-publics/Verifications/Marches-publics-Verifications.htm
