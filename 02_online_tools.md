@@ -1,5 +1,8 @@
 # Links - Web Development Tools & Online Resources
 
+## AI Online Tools
+- [TLDV - Transcript google meeting](https://tldv.io/)
+
 ## NoCode platforms / WebDesign generator
 
 - [Bubble](https://bubble.io/)
