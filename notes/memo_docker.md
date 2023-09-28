@@ -87,6 +87,9 @@ docker-compose build
 docker-compose up --build
 ```
 
+# Récupérer les logs 
+docker-compose logs
+
 ## Run basique d'une image de demo (sans paramètre ou flag)
 
 ```bash
