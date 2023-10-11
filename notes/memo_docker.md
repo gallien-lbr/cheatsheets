@@ -85,6 +85,9 @@ docker-compose ps
 # Reconstruire une image 
 docker-compose build
 docker-compose up --build
+
+# Lancer les services docker-compose avec un mode verbeux
+docker-compose --verbose  up -d
 ```
 
 # Récupérer les logs 
