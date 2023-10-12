@@ -17,4 +17,4 @@ Les adresses sans classe ou de routage inter-domaines sans classe (CIDR) utilise
 
 * Classless Inter-Domain Routing, ou en fr : routage inter-domaines sans classe (CIDR)
 * Exemple adresse en notation CIDR
-**192.0.1.0/24**
+**192.0.2.0/24** => ici les 24 premiers bits correspondent à l'adresse réseau
