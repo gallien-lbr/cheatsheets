@@ -2,12 +2,11 @@
 
 ## Architecture / Terminologie
 
-* **Moteur Docker (Engine) ou Docker Daemon** = exécuté en mode service
+* **Moteur Docker Engine ou Docker Daemon** = exécuté en mode service
 * **Docker client** = connexion au serveur docker
-* **Image** = contiennent les apps à exécuter (tjrs en lecture seule / stocké en local / distribué par registry ou construit par le dév)
+* **Image** = contiennent les apps à exécuter (toujours en lecture seule / stocké en local / distribué par registry ou construit par le dév)
 * **Container** = instance de l'image en cours d'exécution
-* **Registry** = Distribution des librairies d'images  (par défaut : hub.docker.com)
-
+* **Registry** = Distribution des librairies d'images  (par défaut : hub.docker.com ou self-hosté : exemple Harbor)
 
 ## Commandes utiles
 ```bash
@@ -91,9 +90,9 @@ docker-compose --verbose  up -d
 ```
 
 # Récupérer les logs 
-docker-compose logs
+ ```docker-compose logs```
 
-## Run basique d'une image de demo (sans paramètre ou flag)
+## Run basique d'une image avec Docker run (sans paramètre ou flag)
 
 ```bash
 # Crée le container et le démarre
@@ -167,9 +166,7 @@ Une sorte de tutoriel/descriptif de construction pour les images, qui contient t
 # Références
 
 - [OpenClassRoom - Optimisez vos déploiements avec Docker](https://openclassrooms.com/fr/courses/2035766-optimisez-votre-deploiement-en-creant-des-conteneurs-avec-docker)
-
 - [Ref : What Is a Docker Image ?](https://searchitoperations.techtarget.com/definition/Docker-image)
-
 - [Ref : Toutes les options de RUN](https://docs.docker.com/engine/reference/commandline/run/)
 - [Ref : Références options Run](https://docs.docker.com/engine/reference/run/)
 - [Ref: Tuto run](https://blog.codeship.com/the-basics-of-the-docker-run-command/)
