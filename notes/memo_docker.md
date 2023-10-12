@@ -100,6 +100,21 @@ docker run docker-whale
 # par défaut se lance en mode `attached`
 ```
 
+### Exemple run d'une image PostgreSQL
+```bash
+docker run -d -v postgres:/var/lib/postgresql/data -p 6666:5432 --name postgres -e POSTGRES_PASSWORD=root -d postgres:11
+```
+
+### Exemple run d'une image Docker applicative
+```bash
+docker run -v C:/www/stations/src:/app -v C:/www/stations/tmp:/app/data --env-file .env -it stations  ash
+```
+
+### Exemple run d'une image MariaDb
+```bash
+docker run -d -v mariadb:/var/lib/mysql -p 3307:3306 --name mariadb -e MYSQL_ROOT_PASSWORD=root -d mariadb:10.2
+```
+
 ## Flags les plus utiles
 ```bash
 -d # docker se lance en mode detached (comme un process en background)
@@ -111,21 +126,6 @@ docker run docker-whale
 -it [CONTAINER_NAME] [COMMANDE] # combo de --interactive et --tty
 
 -e # ajoute des variables d'environnement à prendre en compte à l'exécution
-```
-
-## PostgreSQL
-```bash
-docker run -d -v postgres:/var/lib/postgresql/data -p 6666:5432 --name postgres -e POSTGRES_PASSWORD=root -d postgres:11
-```
-
-## Docker de stations
-```bash
-docker run -v C:/www/stations/src:/app -v C:/www/stations/tmp:/app/data --env-file .env -it stations  ash
-```
-
-## MariaDb
-```bash
-docker run -d -v mariadb:/var/lib/mysql -p 3307:3306 --name mariadb -e MYSQL_ROOT_PASSWORD=root -d mariadb:10.2
 ```
 
 ## Volumes (persistance des données)
