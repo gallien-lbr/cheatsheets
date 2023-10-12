@@ -87,10 +87,11 @@ docker-compose up --build
 
 # Lancer les services docker-compose avec un mode verbeux
 docker-compose --verbose  up -d
+
+# Récupérer les logs
+ docker-compose logs
 ```
 
-# Récupérer les logs 
- ```docker-compose logs```
 
 ## Run basique d'une image avec Docker run (sans paramètre ou flag)
 
