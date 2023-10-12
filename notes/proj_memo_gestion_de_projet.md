@@ -77,6 +77,10 @@ possible de mettre des schéma de gestion projet:
 * partie livraison
 * partie tests
 
+## DAT - Dossier d'Architecture Technique
+
+Le DAT (document d’architecture technique) est un document réalisé par un architecte technique. Il définit et documente tout ce qu’il faut faire et mettre en place pour réussir la mise en œuvre de l’architecture, en vue d’atteindre les objectifs et respecter les différentes contraintes.
+
 ## Ressources
 
 * [Video Explicative sur les SFG](https://youtu.be/nP8nymGCfw8)
