@@ -4,7 +4,7 @@
 - [TLDV - Transcript google meeting](https://tldv.io/)
 
 ## Online CMS
-- [Prismic][https://prismic.io/]
+- [Prismic](https://prismic.io/)
 
 ## NoCode platforms / WebDesign generator
 
