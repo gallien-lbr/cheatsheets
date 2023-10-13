@@ -2,6 +2,7 @@
 
 ## AI Online Tools
 - [TLDV - Transcript google meeting](https://tldv.io/)
+- [ElevenLabs](https://elevenlabs.io/)
 
 ## Online CMS
 - [Prismic](https://prismic.io/)
