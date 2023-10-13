@@ -3,6 +3,9 @@
 ## AI Online Tools
 - [TLDV - Transcript google meeting](https://tldv.io/)
 
+## Online CMS
+- [Prismic][https://prismic.io/]
+
 ## NoCode platforms / WebDesign generator
 
 - [Bubble](https://bubble.io/)
