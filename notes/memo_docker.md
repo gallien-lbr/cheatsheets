@@ -180,7 +180,7 @@ Une sorte de tutoriel/descriptif de construction pour les images, qui contient t
 
 * Ce sont des fichiers texte simples qui contiennent toutes les instructions dont Docker a besoin pour créer une image.
 
-* Chaque instruction du DockerFile crée un `layer`
+* Chaque instruction du DockerFile crée un `layer` => les layers sont mis en cache au moment du build et ne sont pas rejoué (sans si invalidation du cache spécifié en option)
 
 * La déclaration d'un DockerFile doit commencer par l'instruction **"FROM"**, qui spécifie l'image parent.
 
