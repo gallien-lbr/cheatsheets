@@ -1,5 +1,7 @@
 # Mémento Docker
 
+Docker : outil de "containerisation". Permet de standardiser les composants logiciels et de les déployer plus facilement par la suite, dans une approche "DevOPS" (ex: sur K8S)
+
 ## Architecture / Terminologie
 
 * **Moteur Docker Engine ou Docker Daemon** = exécuté en mode service
