@@ -4,24 +4,37 @@
 
 * **Moteur Docker Engine ou Docker Daemon** = exécuté en mode service
 * **Docker client** = connexion au serveur docker
-* **Image** = contiennent les apps à exécuter (toujours en lecture seule / stocké en local / distribué par registry ou construit par le dév)
+* **Image** = Contiennent les applications à exécuter (toujours en lecture seule / stocké en local / distribué par registry ou construit par le dév)
 * **Container** = instance de l'image en cours d'exécution
 * **Registry** = Distribution des librairies d'images  (par défaut : hub.docker.com ou self-hosté : exemple Harbor)
 
+## Bonnes pratiques 
+
+### Images Dockers
+La logique à mettre en place doit être axer sur l'optimisation des images. 
+Images doivent être portables, rapides, donc les plus petites possibles.
+Moins on expose de fonctionnalités au sein de l'image , plus le spectre de vulnérabilités est faible. (outil de vérification des CVE : `trivy`)
+
+### Execution
+Par défaut le socket Docker est exécuté en root, et mutualise les ressources pour l'ensembles des containers. 
+Il ne faut pas partir sur une setup docker "natif" en production, sans faire au préalable de configuration de sécurité custom.
+
 ## Commandes utiles
 ```bash
+# Voir si docker tourne
+ps aux | grep docker
 
 # Inspecter / Obtenir des infos sur un container
 docker inspect [...]
 
 # Arrêter un container
-docker stop nom_container 
+docker stop [nom_container] 
 
 # Démarrer un container
-docker start nom_container
+docker start [nom_container]
 
 # Supprime les données liées au container
-docker rm  nom_container
+docker rm  [nom_container]
 
 # Affiche les conteneurs en cours d'execution
 docker ps
@@ -30,7 +43,7 @@ docker ps
 docker ps -a 	
 
 # Renommer un container
-docker rename CONTAINER NEW_NAME
+docker rename [CONTAINER NEW_NAME]
 
 # Liste les images du système
 docker images
