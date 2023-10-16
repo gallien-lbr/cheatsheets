@@ -26,6 +26,10 @@ Par défaut le container se démarre et s'éteint. Il n'a pas d'état. Cela perm
 donne de la flexibilité car exite de devoir remodifier et build l'image, mais présente une faille de sécurité car permet de modifier l'image.
 A utiliser pour du dév.
 
+### Multi-stage build
+Bonne pratique pour séparer dans une image ce qui va être exécuté (en run du container) de ce qui va être build au moment de la création de l'image. 
+L'objectif est d'éliminer le superflu ou ce qui pourrait poser problème en terme de sécurité (ex : outils de compilation) 
+
 ## Commandes utiles
 ```bash
 # Voir si docker tourne
