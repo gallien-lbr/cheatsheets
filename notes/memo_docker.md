@@ -21,7 +21,7 @@ Il ne faut pas partir sur une setup docker "natif" en production, sans faire au 
 
 ### Fichier entrypoint-point.sh
 
-Convention utilisé pour lancer des commandes à l'exécution du container. 
+Convention utilisée pour lancer des commandes à l'exécution du container. 
 Par défaut le container se démarre et s'éteint. Il n'a pas d'état. Cela permet de lancer des services (service apache, php, mysql etc.) 
 donne de la flexibilité car exite de devoir remodifier et build l'image, mais présente une faille de sécurité car permet de modifier l'image.
 A utiliser pour du dév.
