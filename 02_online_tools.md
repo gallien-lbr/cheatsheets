@@ -1,5 +1,8 @@
 # Links - Web Development Tools & Online Resources
 
+## Trends
+- [Stackoverflow trends](https://insights.stackoverflow.com/trends?tags=r%2Cstatistics)
+
 ## AI Online Tools
 - [TLDV - Transcript google meeting](https://tldv.io/)
 - [ElevenLabs](https://elevenlabs.io/)
