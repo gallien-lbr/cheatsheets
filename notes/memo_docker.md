@@ -37,6 +37,9 @@ L'objectif est d'éliminer le superflu ou ce qui pourrait poser problème en ter
 # Voir si docker tourne
 ps aux | grep docker
 
+# Retrouver les "layers" d'une image
+docker history [image:tag]
+
 # Inspecter / Obtenir des infos sur un container
 docker inspect [...]
 
