@@ -37,7 +37,7 @@ L'objectif est d'éliminer le superflu ou ce qui pourrait poser problème en ter
 # Voir si docker tourne
 ps aux | grep docker
 
-# Retrouver les "layers" d'une image
+# Retrouver les "layers" d'une image (version "buildé")
 docker history [image:tag]
 
 # Inspecter / Obtenir des infos sur un container
@@ -67,9 +67,6 @@ docker images
 # Supprimer une image
 docker rmi nom_image
 docker rm -f nom_image
-
-# Montrer l'historique d'une image
-docker history [image_name]
 
 # Montre les informations relatives à Docker du système hôte
 docker info
