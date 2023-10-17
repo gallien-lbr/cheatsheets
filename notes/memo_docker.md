@@ -1,6 +1,6 @@
 # Mémento Docker
 
-**Docker:** outil de "containerisation". Permet de standardiser les composants logiciels et de les déployer plus facilement par la suite, dans une approche "DevOPS" (ex: sur K8S ou Docker Swarm)
+**Docker:** outil de "containerisation". Permet de standardiser les composants logiciels et de les déployer plus facilement par la suite, dans une approche "DevOPS" (ex: sur un orchestrateur tel que K8S ou Docker Swarm)
 
 **v1 publique sortie en 2013.**
 
