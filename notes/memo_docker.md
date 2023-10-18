@@ -34,6 +34,11 @@ A utiliser pour du dév.
 Bonne pratique pour séparer dans une image ce qui va être exécuté (en run du container) de ce qui va être build au moment de la création de l'image. 
 L'objectif est d'éliminer le superflu ou ce qui pourrait poser problème en terme de sécurité (ex : outils de compilation) 
 
+### Récupération d'une image au sein d'un Dockerfile 
+```
+COPY --from=composer:2 /usr/bin/composer /usr/bin/composer
+```
+
 ## Commandes utiles
 ```bash
 # Voir si docker tourne
