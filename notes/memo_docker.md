@@ -30,16 +30,6 @@ Par défaut le container se démarre et s'éteint. Il n'a pas d'état. Cela perm
 donne de la flexibilité car exite de devoir remodifier et build l'image, mais présente une faille de sécurité car permet de modifier l'image.
 A utiliser pour du dév.
 
-### Multi-stage build
-Bonne pratique pour séparer dans une image ce qui va être exécuté (en run du container) de ce qui va être build au moment de la création de l'image. 
-L'objectif est d'éliminer le superflu ou ce qui pourrait poser problème en terme de sécurité (ex : outils de compilation) 
-
-### Récupération d'une image au sein d'un Dockerfile 
-Exemple: on récupére l'image Docker de composer ici : 
-```docker
-COPY --from=composer:2 /usr/bin/composer /usr/bin/composer
-```
-
 ## Commandes utiles
 ```bash
 # Voir si docker tourne
@@ -197,6 +187,16 @@ Une sorte de tutoriel/descriptif de construction pour les images, qui contient t
 * Chaque instruction du DockerFile crée un `layer` => les layers sont mis en cache au moment du build et ne sont pas rejoué (sans si invalidation du cache spécifié en option)
 
 * La déclaration d'un DockerFile doit commencer par l'instruction **"FROM"**, qui spécifie l'image parent.
+
+### Multi-stage build
+Bonne pratique pour séparer dans une image ce qui va être exécuté (en run du container) de ce qui va être build au moment de la création de l'image. 
+L'objectif est d'éliminer le superflu ou ce qui pourrait poser problème en terme de sécurité (ex : outils de compilation) 
+
+### Récupération d'une image au sein d'un Dockerfile 
+Exemple: on récupére l'image Docker de composer ici : 
+```docker
+COPY --from=composer:2 /usr/bin/composer /usr/bin/composer
+```
 
 # Références
 
