@@ -35,7 +35,8 @@ Bonne pratique pour séparer dans une image ce qui va être exécuté (en run du
 L'objectif est d'éliminer le superflu ou ce qui pourrait poser problème en terme de sécurité (ex : outils de compilation) 
 
 ### Récupération d'une image au sein d'un Dockerfile 
-```
+Exemple: on récupére l'image Docker de composer ici : 
+```docker
 COPY --from=composer:2 /usr/bin/composer /usr/bin/composer
 ```
 
