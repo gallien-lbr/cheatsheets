@@ -30,6 +30,14 @@ Par défaut le container se démarre et s'éteint. Il n'a pas d'état. Cela perm
 donne de la flexibilité car exite de devoir remodifier et build l'image, mais présente une faille de sécurité car permet de modifier l'image.
 A utiliser pour du dév.
 
+## Set des variables d'environnements
+
+The .env file in the project root, and the env_file: field in the Compose file are two different concepts.
+The .env is for settings a default environment for Compose. Values set in this file can be used within the Compose file.
+The env_file: field is for setting the default environment for a container. Values set in this can be used in the container, but not in the Compose file.
+
+
+
 ## Commandes utiles
 ```bash
 # Voir si docker tourne
