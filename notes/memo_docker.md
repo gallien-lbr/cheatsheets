@@ -32,10 +32,9 @@ A utiliser pour du dév.
 
 ## Set des variables d'environnements
 
-The .env file in the project root, and the env_file: field in the Compose file are two different concepts.
-The .env is for settings a default environment for Compose. Values set in this file can be used within the Compose file.
-The env_file: field is for setting the default environment for a container. Values set in this can be used in the container, but not in the Compose file.
-
+- The .env file in the project root, and the env_file: field in the Compose file are two different concepts.
+- The **.env** is for settings a default environment for Compose. Values set in this file can be used within the Compose file.
+- The **env_file**: field is for setting the default environment for a container. Values set in this can be used in the container, but not in the Compose file.
 
 
 ## Commandes utiles
