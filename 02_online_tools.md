@@ -6,7 +6,7 @@
 ## AI Online Tools
 - [TLDV - Transcript google meeting](https://tldv.io/)
 - [ElevenLabs](https://elevenlabs.io/)
-- [Dall-E-3](https://www.bing.com/images/create/)
+- [Dall-E-3 - image generator](https://www.bing.com/images/create/)
 
 ## Online CMS
 - [Prismic](https://prismic.io/)
