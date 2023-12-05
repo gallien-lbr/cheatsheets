@@ -76,3 +76,13 @@
 
 - Helm charts allow programming in GO within YAML.
 
+## Diagram
+
+Helm Chart <--(versioned)--> GitLab CI
+  |
+  v
+Harbor <--(container images)--> Docker Registry
+  |
+  v
+Rancher (Kubernetes Cluster)
+
