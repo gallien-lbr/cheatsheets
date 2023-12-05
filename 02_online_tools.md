@@ -7,6 +7,7 @@
 - [TLDV - Transcript google meeting](https://tldv.io/)
 - [ElevenLabs](https://elevenlabs.io/)
 - [Dall-E-3 - image generator](https://www.bing.com/images/create/)
+- [Huggin Face - AI building the future](https://huggingface.co/)
 
 ## Online CMS
 - [Prismic](https://prismic.io/)
