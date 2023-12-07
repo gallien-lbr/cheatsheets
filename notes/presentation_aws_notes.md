@@ -1,4 +1,4 @@
-# Sully Workshop: Le Cloud - 2023
+# Notes Workshop: Le Cloud - 2023
 
 ## Introduction
 - Comparaison entre OVH et AWS, soulignant la différence d'offre de services.
