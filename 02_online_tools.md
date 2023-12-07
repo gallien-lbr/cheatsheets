@@ -3,6 +3,10 @@
 ## Trends
 - [Stackoverflow trends](https://insights.stackoverflow.com/trends?tags=r%2Cstatistics)
 
+## Cybersecurite
+- [SHODAN](https://www.shodan.io/)
+- [BURP COMMUNITY EDITION](https://portswigger.net/burp/communitydownload)
+
 ## AI Online Tools
 - [TLDV - Transcript google meeting](https://tldv.io/)
 - [ElevenLabs](https://elevenlabs.io/)
