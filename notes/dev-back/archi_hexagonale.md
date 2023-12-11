@@ -6,6 +6,7 @@ isoler la partie dédie au métier (domain), survivre aux changements technique
 le reste = infrastructure
 
 dans le métier (domain) décrire des ports 
+![2023-12-11_16h06_55](https://github.com/gallien-lbr/cheatsheets/assets/1328920/e80509f8-815a-46dc-996e-4d09038d136f)
 
 ------------
 Règles d'Or
