@@ -13,6 +13,7 @@
 
 ## Cyber-securité
 - [Pwn College](https://pwn.college/)
+- [Web Security tutorials - PortSwigger](https://portswigger.net/web-security)
 
 ## French sites
 - [Pierre Giraud](https://www.pierre-giraud.com/)
