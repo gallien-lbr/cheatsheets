@@ -30,6 +30,7 @@
 - [PHP Unit](https://phpunit.readthedocs.io)
 
 ## Learning online
+- [Chaîne FR youtube AFUP](https://www.youtube.com/@afupPHP)
 - [Pierre Giraud - PHP](https://www.pierre-giraud.com/php-mysql-apprendre-coder-cours/)
 - [Evolution of PHP](https://medium.com/@meskis/evolution-of-php-v5-6-to-v8-0-c3514ebb7f28)
 - [PHP THE RIGHT WAY](https://phptherightway.com/)
