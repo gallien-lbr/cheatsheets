@@ -3,6 +3,7 @@
 - [A tool for quickly measuring the size of a PHP project.](https://github.com/sebastianbergmann/phploc)
 - [Export csv file with stream](https://ondwn.com/en/blog-20190723/)
 - [Php stream](https://stackoverflow.com/questions/5946526/having-problems-reading-writing-the-php-temp-stream)
+- [PHP ARCH](https://www.phparch.com/)
 
 ## Quality tools
 
