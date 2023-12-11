@@ -7,6 +7,12 @@ le reste = infrastructure
 
 dans le métier (domain) décrire des ports 
 
+------------
+Règles d'Or
+------------
+- Domain n'appelle pas ce qui est dans l'Infrastructure
+- Domain n'utilise aucun Namespace externe
+
 -------------
 Avantages 
 -------------
