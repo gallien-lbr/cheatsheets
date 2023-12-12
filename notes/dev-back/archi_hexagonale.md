@@ -1,4 +1,4 @@
-# prise de notes conf. AFUP - Architecture Hexagonale
+# Prise de notes conf. AFUP - Architecture Hexagonale
 
 vision architecture hexagonale = comme un port usb 
 
