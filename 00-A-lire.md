@@ -12,3 +12,7 @@
 * [PWN College](https://pwn.college/)
 * [OSCP](https://www.offsec.com/courses/pen-200/)
 * [Hacksplaning](https://www.hacksplaining.com/)
+
+
+## Ai 
+matthew butterwik - this copilot is stupid and wants to kill me
