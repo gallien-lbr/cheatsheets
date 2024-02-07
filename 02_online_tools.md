@@ -9,7 +9,7 @@
 - [Liste logiciels scanner vulnérabilités](https://fr.wikipedia.org/wiki/Scanner_de_vuln%C3%A9rabilit%C3%A9)
 - [Pentest tools Gartner](https://www.gartner.com/reviews/market/penetration-testing)
 - [Google Hacking Database](https://www.exploit-db.com/google-hacking-database)
-- [Hacksplaining](https://www.hacksplaining.com/lessons) 
+- [Hacksplaining](https://www.hacksplaining.com/lessons)
  
 ## AI Online Tools
 - [TLDV - Transcript google meeting](https://tldv.io/)
@@ -17,6 +17,7 @@
 - [Dall-E-3 - image generator](https://www.bing.com/images/create/)
 - [Huggin Face - AI building the future](https://huggingface.co/)
 - [SDXL](https://stablediffusionxl.com/)
+- [Mistral AI](https://mistral.ai/)
   
 ## Online CMS
 - [Prismic](https://prismic.io/)
