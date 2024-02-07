@@ -8,7 +8,8 @@
 - [BURP COMMUNITY EDITION](https://portswigger.net/burp/communitydownload)
 - [Liste logiciels scanner vulnérabilités](https://fr.wikipedia.org/wiki/Scanner_de_vuln%C3%A9rabilit%C3%A9)
 - [Pentest tools Gartner](https://www.gartner.com/reviews/market/penetration-testing)
-- 
+ - [Google Hacking Database](https://www.exploit-db.com/google-hacking-database)
+ 
 ## AI Online Tools
 - [TLDV - Transcript google meeting](https://tldv.io/)
 - [ElevenLabs](https://elevenlabs.io/)
