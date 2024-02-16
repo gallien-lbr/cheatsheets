@@ -11,6 +11,7 @@
 - [HackerNoon](https://hackernoon.com)
 
 ## Veille stratégique (transformation numérique etc.) 
+- [W3Techs Web Technology Surveys](https://w3techs.com/)
 - [L'usine Digitale](https://www.usine-digitale.fr/)
 - [Gartner](https://www.gartner.com/en)
 - [FrenchWeb](https://www.frenchweb.fr/)
