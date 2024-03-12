@@ -10,6 +10,7 @@
 - [DEV Community 👩‍💻👨‍💻](https://dev.to/)
 - [Web Fundamentals by Google, covers many web dev topics](https://developers.google.com/web)
 - [Source making - design patterns](https://sourcemaking.com/design_patterns/)
+- [LearnXInYMinutes](https://learnxinyminutes.com/)
 
 ## Cyber-securité
 - [Pwn College](https://pwn.college/)
