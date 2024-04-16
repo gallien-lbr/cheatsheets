@@ -4,6 +4,7 @@
 
 ## PHPUnit
 Le framework de référence pour le testing en PHP.
+dernière mise à jour le 16/04/2024
 
 ### Installation via Composer
 
@@ -18,6 +19,13 @@ composer require phpunit/phpunit
 | Executer la suite de tests | `vendor/bin/phpunit` | 
 | Executer la suite de tests avec reporting HTML           |     `vendor/bin/phpunit --coverage-html coverage`      |
 | Executer une classe de tests          |  `vendor/bin/phpunit tests/[fichierTest.php]`         |
+
+### Faire des rapports de tests à l'exécution de PHPUnit (testdox)
+
+```
+vendor/bin/phpunit --testdox
+````
+
 
 #### Configurer son environnement de test
 
