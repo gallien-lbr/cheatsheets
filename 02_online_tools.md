@@ -18,7 +18,8 @@
 - [Huggin Face - AI building the future](https://huggingface.co/)
 - [SDXL](https://stablediffusionxl.com/)
 - [Mistral AI](https://mistral.ai/)
-- [HeyGen](https://heygen.com/]
+- [HeyGen](https://heygen.com/)
+
 ## Online CMS
 - [Prismic](https://prismic.io/)
 
