@@ -19,6 +19,7 @@
 - [SDXL](https://stablediffusionxl.com/)
 - [Mistral AI](https://mistral.ai/)
 - [HeyGen](https://heygen.com/)
+- [quizlet](https://quizlet.com)
 
 ## Online CMS
 - [Prismic](https://prismic.io/)
