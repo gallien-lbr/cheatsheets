@@ -9,7 +9,7 @@
 - [Dev Awesome](https://devawesome.io)
 - [News YCombinator](https://news.ycombinator.com/news)
 - [HackerNoon](https://hackernoon.com)
-- [HackManac Twitter]
+- [HackManac Twitter](https://twitter.com/H4ckManac)
 
 ## Veille stratégique (transformation numérique etc.) 
 - [W3Techs Web Technology Surveys](https://w3techs.com/)
