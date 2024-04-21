@@ -24,3 +24,4 @@
 - [BCG publications](https://www.bcg.com/publications)
 - [Roland Berger - Publications](https://www.rolandberger.com/fr/Locations/France/Publications/)
 - [McKinsey insights](https://www.mckinsey.com/fr/our-insights) 
+- [Kearney](https://www.kearney.com/insights)
