@@ -18,3 +18,9 @@
 - [FrenchWeb](https://www.frenchweb.fr/)
 - [Le Monde Informatique](https://www.lemondeinformatique.fr/)
 - [Blog Octo](https://blog.octo.com)
+
+## Cabinets de consultants en stratégie
+- [WaveStone , tendances consommation, radar tech commerce](https://www.wavestone.com/fr/insight/barometre-des-nouvelles-tendances-de-consommation-2024/)
+- [BCG publications](https://www.bcg.com/publications)
+- [Roland Berger - Publications](https://www.rolandberger.com/fr/Locations/France/Publications/)
+- 
