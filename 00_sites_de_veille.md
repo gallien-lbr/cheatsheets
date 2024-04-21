@@ -23,4 +23,4 @@
 - [WaveStone , tendances consommation, radar tech commerce](https://www.wavestone.com/fr/insight/barometre-des-nouvelles-tendances-de-consommation-2024/)
 - [BCG publications](https://www.bcg.com/publications)
 - [Roland Berger - Publications](https://www.rolandberger.com/fr/Locations/France/Publications/)
-- 
+- [McKinsey insights](https://www.mckinsey.com/fr/our-insights) 
