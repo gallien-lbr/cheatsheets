@@ -2,7 +2,7 @@
 
 # UI framework
 - [Nuxt Ui (payant freemium)](https://ui.nuxt.com)
-- [Daisy ui](https://daisyui.com)
+- [Daisy ui - basé sur tailwind](https://daisyui.com)
 
 ## CSS Frameworks
 - [Bulma](https://bulma.io/documentation/)
