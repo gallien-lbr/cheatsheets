@@ -1,5 +1,9 @@
 # CSS Resources
 
+# UI framework
+- [Nuxt Ui (payant freemium)](https://ui.nuxt.com)
+- [Daisy ui](https://daisyui.com)
+
 ## CSS Frameworks
 - [Bulma](https://bulma.io/documentation/)
 - [Tailwind](https://tailwindcss.com/)
