@@ -1,6 +1,6 @@
 # CSS Resources
 
-# UI framework
+# UI framework / components librairies
 - [Nuxt Ui (payant freemium)](https://ui.nuxt.com)
 - [Daisy ui - basé sur tailwind](https://daisyui.com)
 
