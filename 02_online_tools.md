@@ -1,8 +1,9 @@
 # Links - Web Development Tools & Online Resources
 
-## Trends
+## techs Trends
 - [Stackoverflow trends](https://insights.stackoverflow.com/trends?tags=r%2Cstatistics)
 - [W3techs.com](https://w3techs.com)
+- [oss insights](https://ossinsights.io)
 
 ## Cybersecurite
 - [SHODAN](https://www.shodan.io/)
