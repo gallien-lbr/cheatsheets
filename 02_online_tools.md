@@ -2,6 +2,7 @@
 
 ## Trends
 - [Stackoverflow trends](https://insights.stackoverflow.com/trends?tags=r%2Cstatistics)
+- [W3techs.com](https://w3techs.com)
 
 ## Cybersecurite
 - [SHODAN](https://www.shodan.io/)
