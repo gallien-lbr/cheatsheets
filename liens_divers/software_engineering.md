@@ -31,3 +31,4 @@
 - [The Twelve-Factor App ](https://12factor.net/fr/)
 - [PHP PSRs](https://www.php-fig.org/psr/)
 - [Javascript standard style](https://standardjs.com/readme-fr.html)
+- [Keep a change log](https://keepachangelog.com/)
