@@ -20,6 +20,7 @@ ES Number = Year + 1
 |  **ES12** | 2021  |   | | 
 |  **ES13** | 2022  |   | | 
 |  **ES14** | 2023  |   | | 
+|  **ES15** | 2025  |   | | 
 
 **NB : Each year a new ECMAScript version is released (starting from 2015).**
 
