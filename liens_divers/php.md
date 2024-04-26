@@ -9,7 +9,7 @@
 
 ### Code Analyzer / Linter
 - [Grumphp](https://github.com/phpro/grumphp)
-- [Phpcsfixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)
+- [PhcCodingStnadardFixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)
 - [PHPStan focuses on finding errors in your code without actually running it. ](https://github.com/phpstan/phpstan)
 - [PHPCloc](https://packagist.org/packages/appzcoder/phpcloc)
 - [PSALM](https://psalm.dev/)
