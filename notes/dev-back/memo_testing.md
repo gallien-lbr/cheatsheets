@@ -199,7 +199,7 @@ $sut->action($mock);
 
 #### Doublures de tests des fonctions natives PHP 
 
-Voir pour utiliser des librairies comme ``https://github.com/php-mock/php-mock`
+Utiliser des librairies comme [php-mock](https://github.com/php-mock/php-mock) pour mocker les fonctions natives PHP.
 
 ### Les dépendances de test
 Elles sont de différentes natures : 
@@ -210,6 +210,15 @@ Elles sont de différentes natures :
 
 Ces dépendances nécessitent une setup et une configuration en prérequis de l'exécution des tests.
 Elles peuvent êtres substitués ce qui apporte du confort (ex: vitesse d'exécution des tests).
+
+### Sections setUp et tearDown
+
+Ces méthodes permettent de mettre en place l'environnement de test (**setUp**) et de nettoyer l'environnement de test (**tearDown).
+Ces méthodes sont appelées après **chaque** exécution de test. 
+
+Le tearDown est utilisé par exemple pour : 
+* Fermer une connexion vers la DB;
+* Supprimer des fichiers crée par le test;
 
 ### Approches de l'écriture des tests
 
@@ -267,14 +276,7 @@ Le test unitaire suit généralement un pattern équivalent à :
 * **When (act)**: Appel de méthodes du SUT (invoque la méthode réelle testée), passage des dépendances et capture de la sortie (si elle existe).  (bonne pratique => 1 ligne)
 * **Then (assert)**: Vérification de la sortie. La sortie, peut être représentée par le statut du retour.
 
-### Sections setUp et tearDown
 
-Ces méthodes permettent de mettre en place l'environnement de test (**setUp**) et de nettoyer l'environnement de test (**tearDown).
-Ces méthodes sont appelées après **chaque** exécution de test. 
-
-Le tearDown est utilisé par exemple pour : 
-* Fermer une connexion vers la DB;
-* Supprimer des fichiers crée par le test;
 
 ### Bonnes pratiques de test unitaire (PHPUnit) 
 
