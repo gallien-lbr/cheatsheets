@@ -197,6 +197,10 @@ $mock->expects($this->once())
 $sut->action($mock);
 ```
 
+#### Doublures de tests des fonctions natives PHP 
+
+Voir pour utiliser des librairies comme ``https://github.com/php-mock/php-mock`
+
 ### Les dépendances de test
 Elles sont de différentes natures : 
 * API (située hors de l'application)
