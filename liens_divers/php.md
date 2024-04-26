@@ -7,7 +7,7 @@
 
 ## Quality tools
 
-### Code Analyzer
+### Code Analyzer / Linter
 - [Grumphp](https://github.com/phpro/grumphp)
 - [Phpcsfixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)
 - [Phpstan](https://github.com/phpstan/phpstan)
