@@ -21,7 +21,7 @@
 
 ### Cache systems
 - [Varnish HTTP Cache](https://varnish-cache.org/)
-- [Redis](https://redis.io/)
+- [Redis - cache system for db](https://redis.io/)
 - [MemCached](https://memcached.org/)
 - [LibMemcached](https://pecl.php.net/package/memcached)
 
