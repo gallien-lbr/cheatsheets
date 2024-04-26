@@ -10,10 +10,13 @@
 ### Code Analyzer / Linter
 - [Grumphp](https://github.com/phpro/grumphp)
 - [Phpcsfixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)
-- [Phpstan](https://github.com/phpstan/phpstan)
+- [PHPStan focuses on finding errors in your code without actually running it. ](https://github.com/phpstan/phpstan)
 - [PHPCloc](https://packagist.org/packages/appzcoder/phpcloc)
 - [PSALM](https://psalm.dev/)
-- [PHP Code Sniffer](https://github.com/squizlabs/PHP_CodeSniffer)
+- [PHP Code Sniffer - detects violations of a defined coding standard](https://github.com/squizlabs/PHP_CodeSniffer)
+
+### Hook / Git Hook
+- [Husky](https://github.com/typicode/husky)
 
 ### Performance / Debugging
 - [premium BlackFire - SensioLabs](https://www.blackfire.io/)
