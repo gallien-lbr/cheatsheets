@@ -8,7 +8,7 @@
 ## Quality tools
 
 ### Code Analyzer / Linter
-- [Grumphp](https://github.com/phpro/grumphp)
+
 - [PhcCodingStnadardFixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)
 - [PHPStan focuses on finding errors in your code without actually running it. ](https://github.com/phpstan/phpstan)
 - [PHPCloc](https://packagist.org/packages/appzcoder/phpcloc)
@@ -17,7 +17,8 @@
 
 ### Hook / Git Hook
 - [Husky](https://github.com/typicode/husky)
-
+- [Grumphp](https://github.com/phpro/grumphp)
+  
 ### Performance / Debugging
 - [premium BlackFire - SensioLabs](https://www.blackfire.io/)
 - [XDEBUG](https://xdebug.org/)
