@@ -267,7 +267,9 @@ Le test unitaire suit généralement un pattern équivalent à :
 
 ### Sections setUp et tearDown
 
-Ces méthodes permettent de mettre en place l'environnement de test (setUp) et de nettoyer l'environnement de test après **chaque** exécution de test. 
+Ces méthodes permettent de mettre en place l'environnement de test (**setUp**) et de nettoyer l'environnement de test (**tearDown).
+Ces méthodes sont appelées après **chaque** exécution de test. 
+
 Le tearDown est utilisé par exemple pour : 
 * Fermer une connexion vers la DB;
 * Supprimer des fichiers crée par le test;
