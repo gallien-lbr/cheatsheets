@@ -13,6 +13,7 @@
 - [Phpstan](https://github.com/phpstan/phpstan)
 - [PHPCloc](https://packagist.org/packages/appzcoder/phpcloc)
 - [PSALM](https://psalm.dev/)
+- [PHP Code Sniffer](https://github.com/squizlabs/PHP_CodeSniffer)
 
 ### Performance / Debugging
 - [premium BlackFire - SensioLabs](https://www.blackfire.io/)
