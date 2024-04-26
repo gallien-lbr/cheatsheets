@@ -33,7 +33,7 @@ La configuration se fait via un fichier XML.
 
 ## Ecrire un test 
 
-Pour écrire un test basique, il suffit de faire hériter sa classe de la classe de tests du framework PHPUnit.
+Pour écrire un test basique, il suffit de faire hériter sa classe de la classe de `TestCase` du framework PHPUnit.
 
 ```php
 // appel du namespace
