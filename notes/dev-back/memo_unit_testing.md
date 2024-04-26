@@ -109,11 +109,9 @@ L'approche "pyramide des tests", propose un certain équilibre des proportions d
  ## Concepts
  
  ### Le SUT - System Under Test
- 
  Le SUT d'un point de vue testing, représente tout les acteurs (classes, dépendances etc.) dans un test qui ne sont pas des doublures (stub ou mock).
  
  ### Assertions de tests
- 
  Une **assertion** est une expression logique booléenne. 
  Elle retourne la valeur **"TRUE"** lorsque l'expression testée ne provoque aucun bug et donc 
  lorsqu'on obtient le résultat attendu par l'expression.
