@@ -224,6 +224,10 @@ Le tearDown est utilisé par exemple pour :
 * Fermer une connexion vers la DB;
 * Supprimer des fichiers crée par le test;
 
+### Sections setUpBeforeClass et tearDownAfterClass
+
+La section **setUpBeforeClass** est joué une seul fois avant que le premier test soit joué et le  **tearDownAfterClass** après que le dernier test soit joué.
+
 ### Approches de l'écriture des tests
 
 2 paradigmes existent : **école "classique"** VS **école de "Londres"**, deux pensées différentes, dans leur approche de l'isolation et de la granularité des tests.
