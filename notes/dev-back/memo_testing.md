@@ -160,7 +160,7 @@ $this->assertInstanceOf(Character::class, $character,'Fails to assert is instanc
 
 ### Les doublures de test
 
-Le but est d'éliminer les dépendances du système que l'on test, pour faciliter la création des tests automatisés.
+Le but est d'éliminer les dépendances du système/de la classe que l'on test, pour faciliter la création des tests automatisés.
 
 **2 catégories de doublure existent:** 
 
