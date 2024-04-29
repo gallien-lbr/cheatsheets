@@ -1,5 +1,8 @@
 # Links - Web Development Tools & Online Resources
 
+## AI - ML 
+- [Tabby](https://github.com/TabbyML/tabby)
+
 ## techs Trends
 - [Stackoverflow trends](https://insights.stackoverflow.com/trends?tags=r%2Cstatistics)
 - [W3techs.com](https://w3techs.com)
