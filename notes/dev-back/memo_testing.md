@@ -174,7 +174,7 @@ Le **mock** (interaction based)  permettent d'émuler et d'examiner les interact
 * `createMock`
 * `getMockBuilder` (personnalisation de la doublure) 
 
-Par défaut toutes les méthodes de la classe d'origine sont remplacées par une implémentation renvoyant "null".
+**Par défaut toutes les méthodes et les propriétés de la classe d'origine sont remplacées par une implémentation renvoyant "null".**
 
 NB: Une confusion reigne entre les méthodes de création de **"Mock"** et le type de doublure **Mock**. L'appel aux méthodes de créations Mock, 
 permettent indifférement de créer un Stub ou un Mock.
