@@ -66,6 +66,10 @@ L'utilisation des TU sous Symfony nécessite PHPUnit Bridge :
 composer require --dev symfony/test-pack
 ```
 
+## Spécificités des tests sur Laminas
+
+[Laminas test](https://docs.laminas.dev/laminas-test/)
+
 ##  De la question : "pourquoi à tester" à "comment bien tester" ? 
 
 Le testing automatisé s'inscrit dans une démarche qualité.
