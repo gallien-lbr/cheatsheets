@@ -217,7 +217,7 @@ Elles peuvent êtres substitués ce qui apporte du confort (ex: vitesse d'exécu
 
 ### Sections setUp et tearDown
 
-Ces méthodes permettent de mettre en place l'environnement de test (**setUp**) et de nettoyer l'environnement de test (**tearDown).
+Ces méthodes permettent de mettre en place l'environnement de test (**setUp**) et de nettoyer l'environnement de test (**tearDown**).
 Ces méthodes sont appelées après **chaque** exécution de test. 
 
 Le tearDown est utilisé par exemple pour : 
