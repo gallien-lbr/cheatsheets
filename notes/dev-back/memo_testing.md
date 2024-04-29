@@ -167,6 +167,7 @@ Le but est d'éliminer les dépendances du système que l'on test, pour facilite
 Le **stub** (state based) permettent d'émuler les interactions **entrantes**. Nous pouvons hard-coder le comportement de la doublure et ainsi rendre ses sorties prédictibles. 
 ```
 $mock = $this->createMock(Mailer::class);
+$mock->method('sendMessage')->willReturn(true);
 $result = $mock->sendMessage('mail@toto.com','Hello');
 ```
 les méthodes du mock sont les "stubs" qui remplacent les méthodes de la classe originale.
