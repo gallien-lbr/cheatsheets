@@ -2,7 +2,7 @@
 
 # UI framework / components librairies
 - [Nuxt Ui (payant freemium)](https://ui.nuxt.com)
-- [Daisy ui - basé sur tailwind](https://daisyui.com)
+
 
 ## CSS Frameworks
 - [Bulma](https://bulma.io/documentation/)
@@ -21,6 +21,11 @@
 - [Bootswatch](https://bootswatch.com/)
 - [BS4 themes from Mobirise](https://mobirise.com/bootstrap-4-theme/)
 
+## TAILWIND ui 
+- [uicolors](https://uicolors.app/create)
+- [tailwind ui](https://tailwindui.com/all-access)
+- [Daisy ui - basé sur tailwind](https://daisyui.com)
+- 
 ## NOT free CSS starters
 - [ThemeForest](https://themeforest.net/popular_item/by_category?category=site-templates)
 
