@@ -31,7 +31,7 @@ Rôles impliqués :  chef de projet, lead tech , équipes technique
 - ⭐ COPROJ / <=> COSUI (comité suivi)  : comité projet , coordination des équipes et accompagnement des équipes opérationnelles (ne remonte au COPIL que les demandes d'arbitrage / prise de décision)
 - Réunion travail : orga. de la réalisation des travaux
 - Réunion cloture du projet / Post Mortem - dissolution de l'équipe projet => valide la fin du projet et passage en exploitation / maintenance
-- CORUN : comité suivi et maintenan ce => s'assurer du suivi de la phase de maintenance du projet / migration des livrables etc.
+- CORUN : comité suivi et maintenance => s'assurer du suivi de la phase de maintenance du projet / migration des livrables etc.
 
 ## Ressources
 - https://blog-gestion-de-projet.com/comitologie-projet/
