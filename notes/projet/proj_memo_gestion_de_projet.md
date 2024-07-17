@@ -84,8 +84,6 @@ Le DAT (document d’architecture technique) est un document réalisé par un ar
 ## DEX - Dossier d'Exploitation
 
 Le DEX contient les informations dont l'équipe d'exploitation a besoin pour pouvoir assurer une exploitation en règle du système et pouvoir réagir de manière appropriée lorsqu'un problème surgit.
-Ce document est destiné à tout membre de l’équipe qui aura le rôle d’assurer l’exploitation de l’écosystème gravitant autour de l’architecture technique du portail développé. 
-Il s’agit avec ce document de pouvoir assurer une exploitation en règle et réagir de manière adapté si un problème survient.
 
 
 ## BAT - Bon à Tirer 
