@@ -22,7 +22,7 @@ Rôles impliqués : le DP (directeur projet) , le sponsor, le PMO, le client
 
 * Le **COPIL** est une réunion tenue régulièrement entre les décideurs, généralement mensuelles, dont l'objectif est de contrôler l'avancement du projet, et si besoin prendre des décisions et faire des arbitrages.
 
-** Son objectif principal est de donner des orientations permettant d’assurer le suivi de l'avancement du projet, tout en respectant les contraintes du projet, en termes de **qualité**, **coûts** et **délais**.
+* Son objectif principal est de donner des orientations permettant d’assurer le suivi de l'avancement du projet, tout en respectant les contraintes du projet, en termes de **qualité**, **coûts** et **délais**.
 
 ## Pilotage opérationnel
 
