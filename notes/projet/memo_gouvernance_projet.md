@@ -26,9 +26,9 @@ Rôles impliqués : le DP (directeur projet) , le sponsor, le PMO, le client
 Rôles impliqués :  chef de projet, lead tech , équipes technique 
 
 **instances:**
-- KICKOFF meeting / réunion lancement => fédérer l'équipe et les parties prenantes autour des objectifs du projet
-- Cotech : se concentre les questions techniques
-- ⭐ COPROJ / <=> COSUI (comité suivi)  : comité projet , coordination des équipes et accompagnement des équipes opérationnelles (ne remonte au COPIL que les demandes d'arbitrage / prise de décision)
+- 👟 KickOff meeting / réunion lancement => fédérer l'équipe et les parties prenantes autour des objectifs du projet
+- 🖥️ CoTech : se concentre les questions techniques
+- ⭐ CoProj (comité projet) / <=> CoSui (comité suivi)  :  coordination des équipes et accompagnement des équipes opérationnelles (ne remonte au COPIL que les demandes d'arbitrage / prise de décision)
 - Réunion travail : orga. de la réalisation des travaux
 - Réunion cloture du projet / Post Mortem - dissolution de l'équipe projet => valide la fin du projet et passage en exploitation / maintenance
 - CORUN : comité suivi et maintenance => s'assurer du suivi de la phase de maintenance du projet / migration des livrables etc.
