@@ -9,8 +9,13 @@
   
 ## Pilotage stratégique
 
+**Direction, scope, goals, budgets, and timelines.**
+
 * Orientation stratégiques
 * Objectifs du projet
+* Périmètre
+* Budget
+* Planning
 
 **Rôles impliqués :**
 - Le DP (directeur projet) : supervise l'ensemble du projet et prend les décisions clés
