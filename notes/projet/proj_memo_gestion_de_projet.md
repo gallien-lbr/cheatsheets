@@ -81,6 +81,10 @@ possible de mettre des schéma de gestion projet:
 
 Le DAT (document d’architecture technique) est un document réalisé par un architecte technique. Il définit et documente tout ce qu’il faut faire et mettre en place pour réussir la mise en œuvre de l’architecture, en vue d’atteindre les objectifs et respecter les différentes contraintes.
 
+## DEX - Dossier d'Exploitation
+
+Le DEX contient les informations dont l'équipe d'exploitation a besoin pour pouvoir assurer une exploitation en règle du système et pouvoir réagir de manière appropriée lorsqu'un problème surgit.
+
 ## BAT - Bon à Tirer 
 
 Pour la communication graphique print et utilisé en imprimerie (kakémono, carte de visites etc.) 
