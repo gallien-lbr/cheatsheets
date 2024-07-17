@@ -12,13 +12,17 @@
 * Orientation stratégiques
 * Objectifs du projet
 
-Rôles impliqués : le DP (directeur projet) , le sponsor, le PMO, le client
+**Rôles impliqués :**
+- Le DP (directeur projet) : supervise l'ensemble du projet et prend les décisions clés
+- Le PMO
+- Le CP : gère l'exécution quotidienne du projet et coordonne les équpes
+- Le client / sponsor / commanditaire du projet : assure le soutient stratégique / financier du projet
 
-**instances:**
+**Instances:**
 - CoStra: Comité stratégique => approuve et synchronise les plans strats 
 - ⭐ CoPil : Comité pilotage => définir les orientations stratégiques liées au projet / contrôle du suivi (conseils sur  : délais, qualité et budget)
 
-### Le COPIL 
+### Le COPIL / Steering Committee
 
 * Le **COPIL** est une réunion tenue régulièrement entre les décideurs, généralement mensuelles, dont l'objectif est de contrôler l'avancement du projet, et si besoin prendre des décisions et faire des arbitrages.
 
