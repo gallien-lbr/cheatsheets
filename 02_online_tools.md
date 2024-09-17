@@ -1,5 +1,5 @@
 # Links - Web Development Tools & Online Resources
-- [CanInclude - HTML tag in another](https://cannclide.glitch.me)
+- [CanInclude - HTML tag in another](https://caninclude.glitch.me/) 
 
 ## Api
 
