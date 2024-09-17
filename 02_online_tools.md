@@ -3,8 +3,8 @@
 
 ## Api
 
-- [policy studio]
-- [fast api]
+- [policy studio](https://docs.axway.com/) 
+- [fast api- python](https://fastapi.tiangolo.com/)
 
 ## AI - ML 
 - [Tabby](https://github.com/TabbyML/tabby)
