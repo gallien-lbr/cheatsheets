@@ -205,6 +205,10 @@ Exemple: on récupére l'image Docker de composer ici :
 COPY --from=composer:2 /usr/bin/composer /usr/bin/composer
 ```
 
+### Docker outils 
+- [Busybox - outils linux utiles pour debug](https://www.busybox.net/)
+- [Gron - make json greppable](https://github.com/tomnomnom/gron)
+
 # Références
 
 - [OpenClassRoom - Optimisez vos déploiements avec Docker](https://openclassrooms.com/fr/courses/2035766-optimisez-votre-deploiement-en-creant-des-conteneurs-avec-docker)
