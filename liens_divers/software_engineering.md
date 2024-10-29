@@ -9,6 +9,7 @@
 - [Architecture Hexagonale](https://blog.octo.com/architecture-hexagonale-trois-principes-et-un-exemple-dimplementation/)
 - [DDD - Domain Driven Design](https://blog.octo.com/domain-driven-design-des-armes-pour-affronter-la-complexite/)
 - [System Design For Interviews](https://www.freecodecamp.org/news/systems-design-for-interviews/)
+- [CQRS](https://invivoo.com/le-pattern-cqrs/)
 
 ## General Knowledge 
 - [SOLID Principles](https://fr.wikipedia.org/wiki/SOLID_(informatique))
