@@ -11,6 +11,10 @@
 - [HackerNoon](https://hackernoon.com)
 - [HackManac Twitter](https://twitter.com/H4ckManac)
 
+## Actus StartUp
+
+- [TechCrunch](https://techcrunch.com/)
+
 ## Veille stratégique (transformation numérique etc.) 
 - [W3Techs Web Technology Surveys](https://w3techs.com/)
 - [L'usine Digitale](https://www.usine-digitale.fr/)
